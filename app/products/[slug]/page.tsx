@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 
 import { AmazonCta } from "@/components/AmazonCta";
 import { AuthorBlock } from "@/components/AuthorBlock";
+import { ScoreBox } from "@/components/ScoreBox";
 import { buildProductUrl } from "@/lib/buildAffiliateUrl";
 import { amazonSocialProofLine } from "@/lib/formatAmazonSocialProof";
 import { faqLd, productLd } from "@/lib/jsonLd";
@@ -84,6 +85,8 @@ export default async function ProductPage({ params }: Props) {
           sizes="(max-width:768px) 100vw, 768px"
         />
       </div>
+
+      <ScoreBox product={product} className="mt-8" />
 
       <AmazonCta
         href={href}

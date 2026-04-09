@@ -27,7 +27,7 @@ export function websiteLd() {
 
 export function productLd(product: Product, region: AffiliateRegion) {
   const base = getSiteOrigin();
-  return {
+  const core: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": "Product",
     name: product.title,
@@ -44,6 +44,31 @@ export function productLd(product: Product, region: AffiliateRegion) {
       priceCurrency: region === "uk" ? "GBP" : "USD",
     },
   };
+
+  if (product.score != null) {
+    core.aggregateRating = {
+      "@type": "AggregateRating",
+      ratingValue: product.score,
+      bestRating: 10,
+      worstRating: 1,
+      reviewCount: product.reviewCountApprox ?? 1,
+    };
+    core.review = [
+      {
+        "@type": "Review",
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: product.score,
+          bestRating: 10,
+          worstRating: 1,
+        },
+        author: { "@type": "Organization", name: "PetGadgetHub" },
+        reviewBody: product.verdict ?? product.whyWePicked,
+      },
+    ];
+  }
+
+  return core;
 }
 
 export function faqLd(faqs: { q: string; a: string }[]) {

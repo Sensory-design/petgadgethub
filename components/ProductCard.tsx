@@ -5,34 +5,51 @@ import { AffiliateLink } from "@/components/AffiliateLink";
 import { buildProductUrl } from "@/lib/buildAffiliateUrl";
 import type { AffiliateRegion } from "@/lib/affiliateTag";
 import { amazonSocialProofLine } from "@/lib/formatAmazonSocialProof";
+import { cn } from "@/lib/utils";
 import type { Product } from "@/types/product";
 
 type Props = {
   product: Product;
   region: AffiliateRegion;
   isFallback: boolean;
+  featured?: boolean;
 };
 
-export function ProductCard({ product, region, isFallback }: Props) {
+export function ProductCard({ product, region, isFallback, featured }: Props) {
   const href = buildProductUrl(product.asin, region);
   const social = amazonSocialProofLine(product.rating, product.reviewCountApprox);
 
   return (
-    <article className="group flex h-full flex-col overflow-hidden rounded-2xl border border-[var(--color-border)] bg-white shadow-sm transition-shadow hover:shadow-md">
-      <div className="relative aspect-[4/3] bg-[var(--color-brand-50)]">
+    <article
+      className={cn(
+        "group flex h-full flex-col overflow-hidden border border-[var(--color-border)] bg-white shadow-sm transition-shadow hover:shadow-md",
+        featured ? "rounded-3xl" : "rounded-2xl",
+      )}
+    >
+      <div
+        className={cn(
+          "relative bg-[var(--color-brand-50)]",
+          featured ? "aspect-[16/9]" : "aspect-[4/3]",
+        )}
+      >
         <Image
           src={product.imageSrc}
           alt={product.imageAlt}
           fill
           className="object-cover transition-transform duration-300 group-hover:scale-[1.02]"
-          sizes="(max-width:768px) 100vw, 33vw"
+          sizes={featured ? "(max-width:768px) 100vw, 66vw" : "(max-width:768px) 100vw, 33vw"}
         />
       </div>
       <div className="flex flex-1 flex-col p-6">
         <p className="text-xs font-semibold uppercase tracking-wide text-[var(--color-brand-600)]">
           {product.category}
         </p>
-        <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl font-semibold leading-snug text-[var(--color-ink)]">
+        <h2
+          className={cn(
+            "mt-2 font-[family-name:var(--font-display)] font-semibold leading-snug text-[var(--color-ink)]",
+            featured ? "text-2xl sm:text-3xl" : "text-xl",
+          )}
+        >
           <Link href={`/products/${product.slug}`} className="hover:underline">
             {product.title}
           </Link>

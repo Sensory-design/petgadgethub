@@ -17,6 +17,10 @@ export const productSchema = z.object({
   faq: z
     .array(z.object({ q: z.string().min(1), a: z.string().min(1) }))
     .optional(),
+  score: z.number().int().min(1).max(10).optional(),
+  pros: z.array(z.string()).optional(),
+  cons: z.array(z.string()).optional(),
+  verdict: z.string().optional(),
 });
 
 export const productsFileSchema = z.object({

@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-04-09
+
+### Added
+
+- ScoreBox component on product pages: editorial score (1-10), The good / The bad, verdict; fields in [types/product.ts](types/product.ts) and [data/products.json](data/products.json).
+- Product JSON-LD: `AggregateRating` and `Review` in [lib/jsonLd.ts](lib/jsonLd.ts) when `score` is set.
+- Bento-style homepage grid: first product card featured (two columns on xl), second card in the top row; [components/ProductGrid.tsx](components/ProductGrid.tsx), `featured` prop on [components/ProductCard.tsx](components/ProductCard.tsx).
+- Ten new product guides (35 total): FURminator deShedding, Gentle Leader, ThunderShirt, Catit Flower Fountain, Wyze Cam v3, Drinkwell Platinum, Halti Optifit, JW Hol-ee Roller, Sherpa Original Deluxe carrier, Earth Rated wipes.
+
+### Changed
+
+- [public/llms.txt](public/llms.txt): 35 picks.
+
 ## [0.4.0] - 2026-04-11
 
 ### Added

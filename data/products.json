@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11",
+  "updated": "2026-04-09",
   "products": [
     {
       "slug": "petlibro-stainless-fountain",
@@ -13,6 +13,17 @@
       "whyWePicked": "Strong stainless bowl, quiet pump, and thousands of owners reporting cats that finally drink more.",
       "rating": 4.5,
       "reviewCountApprox": 12000,
+      "score": 9,
+      "pros": [
+        "Stainless bowl is easier to clean than scratched plastic",
+        "Circulating water nudges many cats to drink more",
+        "Generally quiet pump in real-world use"
+      ],
+      "cons": [
+        "Still needs weekly cleaning and filter care",
+        "Not every cat will prefer moving water"
+      ],
+      "verdict": "Best-in-class hydration nudge for dry-food cats if you will maintain it.",
       "imageSrc": "https://images.unsplash.com/photo-1571131116858-2295ade82a72?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Cat drinking water from a ceramic bowl",
       "faq": [
@@ -37,6 +48,17 @@
       "whyWePicked": "USDA biobased bulk rolls: fewer ripped bags per walk and a lower cost per bag than tiny packs.",
       "rating": 4.7,
       "reviewCountApprox": 8500,
+      "score": 8,
+      "pros": [
+        "Thick plant-based rolls for fewer blowouts",
+        "Bulk pricing beats tiny convenience packs",
+        "Strong owner satisfaction at scale"
+      ],
+      "cons": [
+        "Still landfill-bound unless you compost industrially",
+        "Large box can be awkward to stash"
+      ],
+      "verdict": "Dependable walk essentials with fewer ripped-bag moments than thin bags.",
       "imageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Person walking a Golden Retriever on a sunny street",
       "faq": [
@@ -62,6 +84,17 @@
       "whyWePicked": "Pan-tilt 2K picture, app setup most people finish in minutes, and Alexa or Google if you use voice at home.",
       "rating": 4.4,
       "reviewCountApprox": 25000,
+      "score": 8,
+      "pros": [
+        "Pan-tilt 2K without a pro install",
+        "Quick app setup for most homes",
+        "Works with common voice assistants"
+      ],
+      "cons": [
+        "Cloud history usually costs extra",
+        "Upload speed and placement matter more than specs"
+      ],
+      "verdict": "Strong value indoor eye for pet check-ins when Wi-Fi is solid.",
       "imageSrc": "https://images.unsplash.com/photo-1565967093927-41cf31460afc?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Brown dog sitting alone on a leather sofa at home",
       "faq": [
@@ -86,6 +119,17 @@
       "whyWePicked": "No refills, works on sofas and car seats, and the review count speaks for itself.",
       "rating": 4.5,
       "reviewCountApprox": 200000,
+      "score": 9,
+      "pros": [
+        "No sticky refills for fabric-heavy shedding",
+        "Fast passes on sofas and car seats",
+        "Huge real-world review volume"
+      ],
+      "cons": [
+        "Weak on leather and hard surfaces",
+        "Manual emptying after each session"
+      ],
+      "verdict": "The default upholstery hair remover for a reason - keep expectations off leather.",
       "imageSrc": "https://images.unsplash.com/photo-1546177747-80e61bda11cb?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Brown Maine Coon cat lounging on an ottoman",
       "faq": [
@@ -111,6 +155,17 @@
       "whyWePicked": "Granary-style hopper, portion control, and dual power so a blip at the wall socket does not skip dinner.",
       "rating": 4.4,
       "reviewCountApprox": 15000,
+      "score": 8,
+      "pros": [
+        "Portions and schedules stay consistent",
+        "Dual power helps when outlets blink",
+        "Granary hopper suits many kibble sizes"
+      ],
+      "cons": [
+        "Dry food only for most setups",
+        "Jam risk if kibble is oversized or odd-shaped"
+      ],
+      "verdict": "Reliable schedule and portion control for dry-fed pets - not a wet-food solution.",
       "imageSrc": "https://images.unsplash.com/photo-1767023028317-bbafd3157967?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Fluffy golden cat eating from a metal food bowl",
       "faq": [
@@ -136,6 +191,17 @@
       "whyWePicked": "Live tracking and virtual fences are the features people actually use when a dog slips the lead.",
       "rating": 4.2,
       "reviewCountApprox": 10000,
+      "score": 8,
+      "pros": [
+        "Live tracking and virtual fences people actually use",
+        "Established app and ecosystem",
+        "Reasonable size for most dogs"
+      ],
+      "cons": [
+        "Subscription required for live tracking",
+        "Battery life varies with update frequency"
+      ],
+      "verdict": "A practical escape backup when you accept ongoing subscription costs.",
       "imageSrc": "https://images.unsplash.com/photo-1771157552643-2ba2fae724fb?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Boxer dog running freely through a forest path",
       "faq": [
@@ -161,6 +227,17 @@
       "whyWePicked": "Same Tractive ecosystem many dog owners trust, sized for cats and indoor-outdoor lifestyles.",
       "rating": 4.3,
       "reviewCountApprox": 8000,
+      "score": 8,
+      "pros": [
+        "Lightweight for cats versus many dog units",
+        "Same Tractive app experience as the dog line",
+        "Virtual fences help near roads"
+      ],
+      "cons": [
+        "Subscription for live tracking",
+        "GPS weak under cars and deep cover"
+      ],
+      "verdict": "Worth it for outdoor cats if you can budget the subscription and fit.",
       "imageSrc": "https://images.unsplash.com/photo-1574158622682-e40e69884006?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Grey cat resting near a window",
       "faq": [
@@ -186,6 +263,17 @@
       "whyWePicked": "360 coverage plus treat toss solves the two real reasons people buy a pet cam: guilt and damage control.",
       "rating": 4.2,
       "reviewCountApprox": 5400,
+      "score": 8,
+      "pros": [
+        "360 view plus treat toss in one device",
+        "Bark alerts can catch noise spikes",
+        "Rotating coverage beats a fixed wide-angle in many rooms"
+      ],
+      "cons": [
+        "Premium features may need a subscription",
+        "Needs stable Wi-Fi and thoughtful placement"
+      ],
+      "verdict": "Pet-cam plus treat delivery for guilt-driven check-ins - read the plan fine print.",
       "imageSrc": "https://images.unsplash.com/photo-1587300008628-5960829a0d7a?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Happy dog looking up expectantly",
       "faq": [
@@ -211,6 +299,17 @@
       "whyWePicked": "Low cost, no subscription, and a sensible add-on if you already own AirTags for keys.",
       "rating": 4.5,
       "reviewCountApprox": 310,
+      "score": 8,
+      "pros": [
+        "No subscription if you already own AirTags",
+        "Slim mount that stays on standard collars",
+        "Find My mesh helps in towns with Apple density"
+      ],
+      "cons": [
+        "Not true GPS in open country",
+        "Useless if the tag pops off mid-chase"
+      ],
+      "verdict": "Cheap second-line backup for near-home cats - pair with training, not blind faith.",
       "imageSrc": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Orange tabby cat looking at the camera",
       "faq": [
@@ -236,6 +335,17 @@
       "whyWePicked": "High review volume, rechargeable, and six speeds so you can match noise tolerance to your dog.",
       "rating": 4.4,
       "reviewCountApprox": 10800,
+      "score": 8,
+      "pros": [
+        "Six speeds for noise-sensitive dogs",
+        "Rechargeable and widely reviewed",
+        "Gradual grind versus one risky snip"
+      ],
+      "cons": [
+        "Takes patience and short sessions",
+        "Still possible to hit the quick if rushed"
+      ],
+      "verdict": "Often easier than clippers for anxious dogs when you introduce it slowly.",
       "imageSrc": "https://images.unsplash.com/photo-1530281700549-e82e7bf170d6?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Golden retriever dog portrait outdoors",
       "faq": [
@@ -261,6 +371,17 @@
       "whyWePicked": "Established no-shock line with wide weight range and rechargeable battery.",
       "rating": 4.1,
       "reviewCountApprox": 22000,
+      "score": 7,
+      "pros": [
+        "No-shock modes for owners who refuse zap collars",
+        "Wide weight range and rechargeable battery",
+        "Can interrupt bark spirals for sensitive dogs"
+      ],
+      "cons": [
+        "Fails on some dogs - especially fear barkers",
+        "Ambient noise can cause false triggers"
+      ],
+      "verdict": "A training aid only - use minimum settings and fix triggers with a pro if needed.",
       "imageSrc": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Small dog looking alert outdoors",
       "faq": [
@@ -286,6 +407,17 @@
       "whyWePicked": "Purpose-built for under-seat dimensions with carrying flexibility for long airport walks.",
       "rating": 4.5,
       "reviewCountApprox": 3200,
+      "score": 8,
+      "pros": [
+        "Structured soft sides for cabin dimensions",
+        "Multiple entries speed airport stress",
+        "Collapses for storage at home"
+      ],
+      "cons": [
+        "Airline rules change - always verify",
+        "Fit is pet-specific - measure twice"
+      ],
+      "verdict": "Solid cabin option when your numbers match the airline published limits.",
       "imageSrc": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Small dog peeking from a fabric carrier",
       "faq": [
@@ -311,6 +443,17 @@
       "whyWePicked": "Simple, durable, and sized for medium-to-large dogs that outgrow toy travel bowls.",
       "rating": 4.6,
       "reviewCountApprox": 4100,
+      "score": 8,
+      "pros": [
+        "Folds flat and clips to a pack",
+        "XL volume suits bigger dogs",
+        "Simple silicone - easy to rinse"
+      ],
+      "cons": [
+        "Giants may need two fills on long hikes",
+        "Seal quality varies by copy - buy reputable"
+      ],
+      "verdict": "Practical trail water without rattling metal bowls.",
       "imageSrc": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Hiker with dog on a mountain trail",
       "faq": [
@@ -336,6 +479,17 @@
       "whyWePicked": "High ratings for the cleaning button feature - small UX win that actually changes habits.",
       "rating": 4.5,
       "reviewCountApprox": 12000,
+      "score": 8,
+      "pros": [
+        "One-button cleanout saves grooming friction",
+        "Works for dogs and cats with coat-appropriate pressure",
+        "Encourages more frequent brushing"
+      ],
+      "cons": [
+        "Not for heavy mats - demat first",
+        "Wrong pressure can irritate thin skin"
+      ],
+      "verdict": "Small UX win that makes regular brushing more likely - not a dematting miracle.",
       "imageSrc": "https://images.unsplash.com/photo-1583337130417-334622a0fd0d?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Person grooming a fluffy dog",
       "faq": [
@@ -361,6 +515,17 @@
       "whyWePicked": "Low upfront cost, simple setup, and a huge owner base for troubleshooting tips online.",
       "rating": 4.3,
       "reviewCountApprox": 180000,
+      "score": 8,
+      "pros": [
+        "Low cost and huge community for tips",
+        "Plug-in simplicity - no battery babysitting",
+        "Alexa integration for many setups"
+      ],
+      "cons": [
+        "Clip storage often subscription-based",
+        "Pet-specific AI features not included"
+      ],
+      "verdict": "Budget indoor eye for crates and entryways - not a pet flagship feature set.",
       "imageSrc": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Modern living room interior with natural light",
       "faq": [
@@ -386,6 +551,17 @@
       "whyWePicked": "The standard reference for multi-cat food control - vets often recommend Sure Petcare for prescription diets.",
       "rating": 4.3,
       "reviewCountApprox": 9000,
+      "score": 9,
+      "pros": [
+        "Microchip gating stops food theft between pets",
+        "Sealed lid helps wet food versus an open bowl",
+        "Training mode helps hesitant cats"
+      ],
+      "cons": [
+        "Battery maintenance and occasional fussy learners",
+        "Premium price for a bowl"
+      ],
+      "verdict": "The reference fix for multi-pet prescription or diet separation.",
       "imageSrc": "https://images.unsplash.com/photo-1513245543132-31f507938bfc?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Two cats near a food bowl indoors",
       "faq": [
@@ -411,6 +587,17 @@
       "whyWePicked": "Long-running category leader for pet hair on furniture; replacement for disposable lint rollers on big jobs.",
       "rating": 4.4,
       "reviewCountApprox": 45000,
+      "score": 8,
+      "pros": [
+        "Motorised brush lifts embedded hair on fabric",
+        "Corded - no mid-job battery fade",
+        "Category staple with years of reviews"
+      ],
+      "cons": [
+        "Needs a nearby socket",
+        "Not a whole-house vacuum replacement"
+      ],
+      "verdict": "The right tool for stairs, sofas, and car seats - not for whole floors alone.",
       "imageSrc": "https://images.unsplash.com/photo-1583511655850-d0b82a9f1e87?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Golden retriever relaxing on a sofa",
       "faq": [
@@ -436,6 +623,17 @@
       "whyWePicked": "The default recommendation from trainers worldwide - cheap, replaceable, and proven.",
       "rating": 4.7,
       "reviewCountApprox": 85000,
+      "score": 9,
+      "pros": [
+        "Stuffable and freezable for enrichment",
+        "Durable rubber in the right size for most chewers",
+        "Trainer-default recommendation worldwide"
+      ],
+      "cons": [
+        "Wrong size is a choke risk",
+        "Power chewers may need the Extreme line"
+      ],
+      "verdict": "Still the benchmark enrichment toy when sized and supervised correctly.",
       "imageSrc": "https://images.unsplash.com/photo-1546527868-ccb7ee7dfa6a?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Dog playing with a toy on grass",
       "faq": [
@@ -461,6 +659,17 @@
       "whyWePicked": "Nina Ottosson puzzles are the category name; Dog Brick is the sweet spot for difficulty.",
       "rating": 4.6,
       "reviewCountApprox": 35000,
+      "score": 8,
+      "pros": [
+        "Level 2 difficulty suits most dogs past beginner puzzles",
+        "Nina Ottosson is the category name",
+        "Slows gulp-prone eaters mentally and physically"
+      ],
+      "cons": [
+        "Not for unsupervised heavy chewers",
+        "Plastic can crack if treated like a chew toy"
+      ],
+      "verdict": "Great intermediate puzzle - supervise and retire if your dog shreds plastic.",
       "imageSrc": "https://images.unsplash.com/photo-1587300008628-5960829a0d7a?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Happy dog looking up at the camera",
       "faq": [
@@ -486,6 +695,17 @@
       "whyWePicked": "Park standard for a reason: durable, cheap, and every dog park regular recognises the brand.",
       "rating": 4.8,
       "reviewCountApprox": 120000,
+      "score": 9,
+      "pros": [
+        "Hands-free pickup of slobbery balls",
+        "Adds throw distance without shoulder strain",
+        "Cheap, durable, park-recognisable"
+      ],
+      "cons": [
+        "Buy the matching ball size for the cup",
+        "Less benefit if you already throw far"
+      ],
+      "verdict": "Simple gear that quietly upgrades daily fetch - size the ball to the launcher.",
       "imageSrc": "https://images.unsplash.com/photo-1587300008628-5960829a0d7a?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Happy dog looking up during play",
       "faq": [
@@ -511,6 +731,17 @@
       "whyWePicked": "Ruffwear is the benchmark for serious dog owners; resale value stays strong if your dog outgrows it.",
       "rating": 4.7,
       "reviewCountApprox": 18000,
+      "score": 9,
+      "pros": [
+        "Padded Y-front fit for long walks",
+        "Front and back leash options",
+        "Build quality that survives weather"
+      ],
+      "cons": [
+        "Premium price versus budget harnesses",
+        "Wrong girth measurement means returns"
+      ],
+      "verdict": "Benchmark harness for frequent walkers - measure before you buy.",
       "imageSrc": "https://images.unsplash.com/photo-1530281700549-e82e7bf170d6?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Golden retriever outdoors",
       "faq": [
@@ -536,6 +767,17 @@
       "whyWePicked": "Simple, silent, and easy to clean - better than wet towels that smell after a day.",
       "rating": 4.4,
       "reviewCountApprox": 6000,
+      "score": 8,
+      "pros": [
+        "No power cord - silent comfort",
+        "Folds for crates and cars",
+        "Pressure recharge without a fridge"
+      ],
+      "cons": [
+        "Not ice-cold - manages heat, not emergencies",
+        "Destructive chewers need supervision"
+      ],
+      "verdict": "Useful summer comfort layer - not a substitute for shade, water, and vet care in heat waves.",
       "imageSrc": "https://images.unsplash.com/photo-1568572933382-74a204cdc5c7?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Dog resting on a blanket indoors",
       "faq": [
@@ -561,6 +803,17 @@
       "whyWePicked": "High review volume on the hammock pattern - the mesh window variant reduces anxiety for dogs who need to see you.",
       "rating": 4.5,
       "reviewCountApprox": 22000,
+      "score": 8,
+      "pros": [
+        "Full bench protection from mud and hair",
+        "Mesh window option for visibility",
+        "Usually easier to clean than seat fabric"
+      ],
+      "cons": [
+        "Universal fit still needs measuring",
+        "Harness routing varies by listing"
+      ],
+      "verdict": "Practical lease-car insurance for active dogs - verify fit for your bench width.",
       "imageSrc": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Dog looking out of a car window",
       "faq": [
@@ -586,6 +839,17 @@
       "whyWePicked": "Petcube focuses on pet UX; pricing often undercuts premium pet cams with similar specs.",
       "rating": 4.3,
       "reviewCountApprox": 2500,
+      "score": 8,
+      "pros": [
+        "Pet-first app versus generic security clutter",
+        "1080p, night vision, two-way audio baseline",
+        "Often priced under premium pet cams"
+      ],
+      "cons": [
+        "Advanced alerts may need a subscription",
+        "Many units are 2.4 GHz Wi-Fi only"
+      ],
+      "verdict": "Solid mid-tier pet check-in cam - confirm subscription and Wi-Fi band before checkout.",
       "imageSrc": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Bright modern living room",
       "faq": [
@@ -611,6 +875,17 @@
       "whyWePicked": "Seventy-thousand-plus reviews on the Slo Bowl line - the default slow feeder recommendation.",
       "rating": 4.7,
       "reviewCountApprox": 70000,
+      "score": 9,
+      "pros": [
+        "Huge review history on the Slo Bowl line",
+        "No batteries - just ridges that slow eating",
+        "Dishwasher-safe on most models"
+      ],
+      "cons": [
+        "Brachycephalic dogs may need shallower mazes",
+        "Frustrated dogs need easier patterns first"
+      ],
+      "verdict": "Default non-tech slow feeder when you pick the right maze depth for your dog.",
       "imageSrc": "https://images.unsplash.com/photo-1601758228044-f3f2794d9a8b?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Dog outdoors on a leash",
       "faq": [
@@ -621,6 +896,366 @@
         {
           "q": "Puppy frustrated and gives up?",
           "a": "Start with an easier maze or scatter feed on a flat tray first. Build difficulty as they learn."
+        }
+      ]
+    },
+    {
+      "slug": "furminator-deshedding-tool-medium",
+      "asin": "B001JQLNNC",
+      "title": "FURminator deShedding Tool (Medium Dog, Long Hair)",
+      "tagline": "Pull loose undercoat before it hits the sofa.",
+      "problem": "Shedding season turns your home into a fur snow globe. Regular brushes move top hair but not the dense undercoat that embeds in fabric.",
+      "solution": "A curved de-shedding edge grabs loose undercoat without cutting skin when used with light pressure and the grain of the coat.",
+      "honestNote": "Wrong size or too much pressure can irritate skin - follow the coat-length guide on the packaging.",
+      "category": "Grooming and home",
+      "whyWePicked": "Category-defining tool with breed-specific sizes - the name people search when shedding wins.",
+      "rating": 4.6,
+      "reviewCountApprox": 95000,
+      "score": 8,
+      "pros": [
+        "Removes undercoat many slickers miss",
+        "Breed and size lines reduce guesswork",
+        "Huge long-term review history"
+      ],
+      "cons": [
+        "Overuse or wrong size can irritate skin",
+        "Not a substitute for full grooming on matted coats"
+      ],
+      "verdict": "Worth owning for heavy shedders when you size it correctly and use gentle strokes.",
+      "imageSrc": "https://images.unsplash.com/photo-1583337130417-334622a0fd0d?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Person brushing a fluffy dog outdoors",
+      "faq": [
+        {
+          "q": "How often can I use a FURminator?",
+          "a": "Weekly or bi-weekly is common during shed season; sensitive dogs may need less. Stop if skin reddens."
+        },
+        {
+          "q": "Long hair vs short hair model?",
+          "a": "Match the listing to coat length and dog size - the wrong edge is the main reason for poor results."
+        }
+      ]
+    },
+    {
+      "slug": "petsafe-gentle-leader-headcollar",
+      "asin": "B0002AR0I8",
+      "title": "PetSafe Gentle Leader Headcollar",
+      "tagline": "Steer strong pullers without choking their throat.",
+      "problem": "Flat collars turn walks into a tug-of-war. Your dog's trachea takes the force and your shoulder pays the rest.",
+      "solution": "A headcollar redirects the nose so forward momentum steers back toward you - same idea as a horse halter, adapted for dogs.",
+      "honestNote": "Some dogs paw at it for weeks; acclimation with treats is not optional.",
+      "category": "Training",
+      "whyWePicked": "Vet-trainer staple for pullers when fitted with the included video guidance.",
+      "rating": 4.4,
+      "reviewCountApprox": 42000,
+      "score": 8,
+      "pros": [
+        "Redirects pull without throat pressure",
+        "Lightweight versus many harness stacks",
+        "Years of field use in training circles"
+      ],
+      "cons": [
+        "Acclimation period - dogs can fuss at first",
+        "Not every dog tolerates face straps"
+      ],
+      "verdict": "Strong choice for dedicated owners who will desensitise slowly - not a snap-on miracle.",
+      "imageSrc": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog on a leash outdoors",
+      "faq": [
+        {
+          "q": "Is a Gentle Leader the same as a muzzle?",
+          "a": "No - it does not hold the mouth closed. Your dog can pant, drink, and take treats when fitted correctly."
+        },
+        {
+          "q": "Puppy paws at it constantly?",
+          "a": "Short indoor sessions with high-value treats before outdoor walks; most dogs adapt within one to two weeks."
+        }
+      ]
+    },
+    {
+      "slug": "thundershirt-classic-anxiety",
+      "asin": "B007RBB4X0",
+      "title": "ThunderShirt Classic Dog Anxiety Jacket",
+      "tagline": "Gentle pressure for fireworks, travel, and storms.",
+      "problem": "Noise phobia and separation stress are miserable for dogs and loud for neighbours. Medication is not always the first step owners want.",
+      "solution": "Snug-fitting wrap applies distributed pressure similar to swaddling - many dogs show calmer breathing within minutes.",
+      "honestNote": "Does not work for every dog; combine with training and vet advice for severe anxiety.",
+      "category": "Comfort",
+      "whyWePicked": "The best-known anxiety wrap brand with sizes from Chihuahua to giant breeds.",
+      "rating": 4.3,
+      "reviewCountApprox": 38000,
+      "score": 8,
+      "pros": [
+        "Drug-free first step many vets mention",
+        "Wide size range and washable fabric",
+        "Fast to put on once sized"
+      ],
+      "cons": [
+        "Some dogs ignore it completely",
+        "Wrong fit reduces effectiveness"
+      ],
+      "verdict": "Inexpensive experiment before heavier interventions - measure chest per the chart.",
+      "imageSrc": "https://images.unsplash.com/photo-1530281700549-e82e7bf170d6?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Golden retriever portrait calm outdoors",
+      "faq": [
+        {
+          "q": "Can my dog wear a ThunderShirt all day?",
+          "a": "Remove every few hours to check skin and offer breaks; overnight use depends on your vet's advice."
+        },
+        {
+          "q": "Works for fireworks only?",
+          "a": "Owners use it for storms, travel, vet visits, and separation - results vary by individual."
+        }
+      ]
+    },
+    {
+      "slug": "catit-flower-fountain",
+      "asin": "B0146QXOB0",
+      "title": "Catit Flower Fountain",
+      "tagline": "Budget-friendly bubbling water cats actually investigate.",
+      "problem": "Cats that ignore bowls still need hydration - especially on dry food - but not every owner wants a stainless flagship fountain price.",
+      "solution": "A compact plastic fountain with a flower spout offers multiple flow modes so picky cats can find a trickle they like.",
+      "honestNote": "Plastic needs more frequent scrubbing than steel to avoid biofilm.",
+      "category": "Hydration",
+      "whyWePicked": "Huge sales volume and replaceable parts ecosystem - easy first fountain.",
+      "rating": 4.4,
+      "reviewCountApprox": 110000,
+      "score": 8,
+      "pros": [
+        "Low entry price versus steel fountains",
+        "Multiple flow settings for picky cats",
+        "Compact footprint for flats"
+      ],
+      "cons": [
+        "Plastic can scratch and hold odour if neglected",
+        "Pump and filter are ongoing costs"
+      ],
+      "verdict": "Solid starter fountain - commit to cleaning or step up to steel later.",
+      "imageSrc": "https://images.unsplash.com/photo-1571131116858-2295ade82a72?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Cat near water indoors",
+      "faq": [
+        {
+          "q": "Catit vs Petlibro stainless - which first?",
+          "a": "Catit wins on price; stainless wins on sanitation and longevity if you maintain either properly."
+        },
+        {
+          "q": "How often to clean?",
+          "a": "Weekly deep clean minimum; more often if you see slime or reduced flow."
+        }
+      ]
+    },
+    {
+      "slug": "wyze-cam-v3-indoor-outdoor",
+      "asin": "B08N5W4H1C",
+      "title": "Wyze Cam v3",
+      "tagline": "Cheap HD eyes on the crate - indoor or sheltered outdoor.",
+      "problem": "Pet cameras can cost more than the pet bed. You still want night vision and app alerts without a flagship bill.",
+      "solution": "A compact 1080p camera with colour night vision on the v3 hardware and local storage options when paired with accessories.",
+      "honestNote": "Cloud features may need Cam Plus - read current Wyze terms in your region.",
+      "category": "Home monitoring",
+      "whyWePicked": "Low price per camera so you can cover crate and door on one budget.",
+      "rating": 4.4,
+      "reviewCountApprox": 210000,
+      "score": 8,
+      "pros": [
+        "Very low cost per camera",
+        "Colour night vision versus many budget rivals",
+        "Huge community for troubleshooting"
+      ],
+      "cons": [
+        "Subscription upsell for full cloud history",
+        "Privacy policy changes have frustrated some users"
+      ],
+      "verdict": "Best budget multi-cam setup for pet corners - accept the app and plan trade-offs.",
+      "imageSrc": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Home interior with soft light",
+      "faq": [
+        {
+          "q": "Is Wyze good for pet monitoring?",
+          "a": "It is a general security camera with motion alerts - no treat toss, but fine for crate and room checks."
+        },
+        {
+          "q": "Outdoor use?",
+          "a": "v3 supports sheltered outdoor use with appropriate power and housing - not submerged."
+        }
+      ]
+    },
+    {
+      "slug": "drinkwell-platinum-fountain",
+      "asin": "B000L3XYZ4",
+      "title": "PetSafe Drinkwell Platinum Pet Fountain",
+      "tagline": "High-capacity bowl for multi-pet homes.",
+      "problem": "Small fountains run dry when three pets share one corner. Refilling twice daily gets old fast.",
+      "solution": "A large reservoir with free-falling stream keeps water oxygenated and reduces refill frequency versus compact units.",
+      "honestNote": "Large footprint - measure floor space before you buy.",
+      "category": "Hydration",
+      "whyWePicked": "Volume leader in the Drinkwell line for busy water bowls.",
+      "rating": 4.3,
+      "reviewCountApprox": 18000,
+      "score": 8,
+      "pros": [
+        "Large tank versus travel-sized fountains",
+        "Adjustable flow for noise-sensitive pets",
+        "Established filter part ecosystem"
+      ],
+      "cons": [
+        "Takes more floor space",
+        "Plastic construction needs regular cleaning"
+      ],
+      "verdict": "Pick when headcount and thirst outgrow a Catit mini - measure your corner first.",
+      "imageSrc": "https://images.unsplash.com/photo-1513245543132-31f507938bfc?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Two pets near feeding area",
+      "faq": [
+        {
+          "q": "How often to replace filters?",
+          "a": "Typically every two to four weeks depending on pet count and water hardness - follow the cartridge guide."
+        },
+        {
+          "q": "Noisy pump?",
+          "a": "Clean impeller and ensure full water level; noise often means low water or hair in the pump."
+        }
+      ]
+    },
+    {
+      "slug": "halti-optifit-headcollar",
+      "asin": "B01N6NTLUB",
+      "title": "Company of Animals Halti Optifit Headcollar",
+      "tagline": "Customisable fit for long-nosed pullers.",
+      "problem": "One-size headcollars twist or ride into eyes on some breeds. Poor fit means pawing and escape.",
+      "solution": "Optifit adds adjustable noseband and cheek pieces so the same hardware fits more skull shapes securely.",
+      "honestNote": "Still requires acclimation - swap to high-value treats on first walks.",
+      "category": "Training",
+      "whyWePicked": "Strong alternative when Gentle Leader geometry does not suit your dog's muzzle.",
+      "rating": 4.3,
+      "reviewCountApprox": 6500,
+      "score": 8,
+      "pros": [
+        "More adjustment points than basic halters",
+        "Padded noseband on many kits",
+        "Good for dogs between breed-chart gaps"
+      ],
+      "cons": [
+        "Slightly more setup than slip-on halters",
+        "Some dogs still reject any headcollar"
+      ],
+      "verdict": "Try when a standard halter slips or rubs - patience beats force.",
+      "imageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Person walking a dog on a path",
+      "faq": [
+        {
+          "q": "Halti vs Gentle Leader?",
+          "a": "Both steer via the nose; Optifit targets dogs that need finer nose and cheek adjustment."
+        },
+        {
+          "q": "Can my dog still open-mouth pant?",
+          "a": "Yes when fitted per instructions - it should not clamp the jaw shut."
+        }
+      ]
+    },
+    {
+      "slug": "jw-hol-ee-roller-dog-toy",
+      "asin": "B0002AR182",
+      "title": "JW Pet Hol-ee Roller Dog Toy",
+      "tagline": "Stuff it, toss it, tug it - one lattice toy, many games.",
+      "problem": "Bored dogs need variety. Buying a different toy for fetch, tug, and treat puzzles clutters the basket fast.",
+      "solution": "A flexible lattice ball holds strips of fabric or small treats and doubles as a fetch and tug toy for medium chewers.",
+      "honestNote": "Aggressive chewers can dismantle rubber - supervise and size up.",
+      "category": "Enrichment",
+      "whyWePicked": "Veteran design still stocked everywhere - versatile for the price.",
+      "rating": 4.6,
+      "reviewCountApprox": 28000,
+      "score": 8,
+      "pros": [
+        "Multi-use: fetch, tug, and slow treat",
+        "Lightweight for indoor play",
+        "Several sizes for different jaws"
+      ],
+      "cons": [
+        "Power chewers can shred the lattice",
+        "Treats may fall through large holes on small kibble"
+      ],
+      "verdict": "Cheap enrichment multiplier for moderate chewers - not for shredders left alone.",
+      "imageSrc": "https://images.unsplash.com/photo-1546527868-ccb7ee7dfa6a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog with toy on grass",
+      "faq": [
+        {
+          "q": "Which size for a Labrador?",
+          "a": "Large or jumbo for big mouths - undersized balls are a choke risk."
+        },
+        {
+          "q": "Machine washable?",
+          "a": "Rubber wipes clean; fabric strips you add may be washable separately."
+        }
+      ]
+    },
+    {
+      "slug": "sherpa-original-deluxe-carrier",
+      "asin": "B0002DHMV8",
+      "title": "Sherpa Original Deluxe Pet Carrier (Medium)",
+      "tagline": "Soft-sided cabin carrier trusted for years.",
+      "problem": "Cheap bags collapse in security lines. Rigid crates do not fit under every seat.",
+      "solution": "A structured soft carrier with top and side entry fits many airline under-seat sizings when your pet measurements match.",
+      "honestNote": "Airline rules vary - print the carrier dimensions page before you fly.",
+      "category": "Travel",
+      "whyWePicked": "Long-running Sherpa line with airline partnership history - still verify each carrier.",
+      "rating": 4.4,
+      "reviewCountApprox": 12000,
+      "score": 8,
+      "pros": [
+        "Dual entry speeds vet and TSA handling",
+        "Washable fleece base on many models",
+        "Folds flatter than rigid crates"
+      ],
+      "cons": [
+        "Medium may still be too tall for some seats",
+        "Zipper quality varies by manufacturing batch"
+      ],
+      "verdict": "Classic soft carrier when numbers match your airline - always measure your pet first.",
+      "imageSrc": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Small dog in a travel carrier",
+      "faq": [
+        {
+          "q": "Sherpa vs Petsfit for airlines?",
+          "a": "Both are common; winner is whichever matches your airline's linear inch limit and your pet's standing height."
+        },
+        {
+          "q": "Cat or dog?",
+          "a": "Both species if dimensions fit - measure length and height sitting to standing."
+        }
+      ]
+    },
+    {
+      "slug": "earth-rated-dog-wipes",
+      "asin": "B00MW8G62E",
+      "title": "Earth Rated Dog Wipes (Unscented)",
+      "tagline": "Paws, bums, and sofa spots without perfume overload.",
+      "problem": "Baby wipes can irritate dog skin or smell like a nursery. Mud season means daily paw cleanups.",
+      "solution": "Thick compostable-style wipes formulated for dogs handle paws and light coat wipe-downs without heavy fragrance.",
+      "honestNote": "Not a bath replacement - see a vet for skin infections.",
+      "category": "Grooming and home",
+      "whyWePicked": "Earth Rated's wipe line matches their bag brand quality - good for mud season.",
+      "rating": 4.6,
+      "reviewCountApprox": 15000,
+      "score": 8,
+      "pros": [
+        "Unscented option for sensitive noses",
+        "Thick sheet versus discount wipes",
+        "Brand consistency if you already use their bags"
+      ],
+      "cons": [
+        "Per-wipe cost adds up on heavy use",
+        "Dispenser box can dry out if left open"
+      ],
+      "verdict": "Keep a pack by the door for muddy walks - simple hygiene upgrade.",
+      "imageSrc": "https://images.unsplash.com/photo-1530281700549-e82e7bf170d6?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog outdoors after a walk",
+      "faq": [
+        {
+          "q": "Safe for cats?",
+          "a": "Earth Rated makes cat-specific wipes too - use species-labelled packs for pH balance."
+        },
+        {
+          "q": "Flushable?",
+          "a": "Do not flush pet wipes - bin them unless the exact SKU says sewer-safe in your region."
         }
       ]
     }
