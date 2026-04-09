@@ -2,9 +2,11 @@
 
 > Problem-first guides to pet technology for real pet owners. Independent editorial. Transparent Amazon affiliate disclosures on every page.
 
+Primary public URL: https://petgadgethub.co.uk (also served from Vercel; set NEXT_PUBLIC_SITE_URL to match production).
+
 ## What this site is
 
-PetGadgetHub is a small, editorially independent affiliate review site focused on practical pet gadgets: water fountains, GPS trackers, smart cameras, automatic feeders, and everyday walk gear. Every recommendation starts with a real problem, not a product spec sheet.
+PetGadgetHub is a small, editorially independent affiliate review site focused on practical pet gadgets: water fountains, GPS trackers, smart cameras, automatic feeders, grooming tools, travel gear, and everyday walk essentials. Every recommendation starts with a real problem, not a product spec sheet.
 
 ## Editorial approach
 
@@ -13,14 +15,25 @@ PetGadgetHub is a small, editorially independent affiliate review site focused o
 - Prices are not displayed on product cards because they change. We link directly to Amazon for live pricing.
 - All outbound product links are Amazon affiliate links (tags: petgadgethu06-20 for US/CA, petgadgethub9-21 for UK). This is disclosed in a sticky banner on every page.
 
-## Products currently covered
+## Products currently covered (15 picks)
 
-- Petlibro Stainless Steel Pet Fountain (hydration, ASIN B09B2852X8)
-- Pet N Pet Plant-Based Poop Bags (daily walks, ASIN B07MBY2694)
-- Kasa Smart Indoor Camera KC410S (home monitoring, ASIN B08ZXJJTYJ)
-- ChomChom Pet Hair Remover (grooming and home, ASIN B00BAGTNAQ)
-- Petlibro Automatic Cat and Dog Feeder (feeding, ASIN B098J4SKB9)
-- Tractive GPS Dog Tracker (safety, ASIN B099SF2X9L)
+Product detail pages live at /products/{slug}. ASINs are in data/products.json.
+
+- Petlibro Stainless Steel Pet Fountain (hydration, B09B2852X8)
+- Pet N Pet Plant-Based Poop Bags (daily walks, B07MBY2694)
+- Kasa Smart Indoor Camera KC410S (home monitoring, B08ZXJJTYJ)
+- ChomChom Pet Hair Remover (grooming and home, B00BAGTNAQ)
+- Petlibro Automatic Cat and Dog Feeder (feeding, B098J4SKB9)
+- Tractive GPS Dog Tracker (safety, B099SF2X9L)
+- Tractive GPS Cat Tracker (safety, B09NN435JD)
+- Furbo 360 Dog Camera (home monitoring, B09GDQZLD1)
+- Silicone AirTag Holder for Pet Collars (safety, B0B4P719MP)
+- Casfuy 6-Speed Dog Nail Grinder (grooming, B0BBKVKNTT)
+- DogRook Anti-Bark Collar vibration and sound (training, B07CJCMR75)
+- Petsfit Soft-Sided Airline Pet Carrier (travel, B08TWLH4S2)
+- Bonza Collapsible Travel Bowl (travel, B071X6ZTVG)
+- Self-Cleaning Slicker Brush (grooming, B09WYFJX1K)
+- Blink Mini Indoor Camera (home monitoring, B07X37DT9M)
 
 ## Key pages
 

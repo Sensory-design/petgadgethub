@@ -1,0 +1,26 @@
+﻿# Cursor indexing: exclude heavy or generated paths (see also .gitignore)
+
+node_modules/
+.next/
+out/
+build/
+coverage/
+.vercel/
+.turbo/
+*.tsbuildinfo
+
+# Logs and local env
+*.log
+.env
+.env.*
+!.env.example
+
+# Python / automation output
+__pycache__/
+.venv/
+venv/
+automation/out/
+
+# Generated assets
+public/pins/
+scripts/output/

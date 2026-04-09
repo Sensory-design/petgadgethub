@@ -1,5 +1,7 @@
 # PetGadgetHub - agent rules
 
+Human changelog and release notes: [CHANGELOG.md](../../CHANGELOG.md) (repo root).
+
 ## Product hub vs tools
 
 - **Primary:** Homepage picks + `/products/[slug]` (Amazon affiliate, `data/products.json`, geo tags).
@@ -19,7 +21,7 @@
 ## Pricing / data
 
 - No API or 403: `getProducts()` uses `data/products.json`, `isFallback: true`
-- When `isFallback`: hide prices; use "Check availability on Amazon"
+- When `isFallback`: hide prices; primary CTA copy is "See it on Amazon" (see `AffiliateLink`, `AmazonCta`, `ProductCard`)
 
 ## File hygiene
 

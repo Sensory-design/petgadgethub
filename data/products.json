@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09",
+  "updated": "2026-04-10",
   "products": [
     {
       "slug": "petlibro-stainless-fountain",
@@ -146,6 +146,231 @@
         {
           "q": "How accurate is a GPS dog tracker?",
           "a": "Consumer GPS trackers like Tractive are typically accurate to within 5 to 10 metres outdoors in open areas. Accuracy reduces in dense urban environments and near tall buildings. They are not reliable indoors. For most lost-dog scenarios, that level of accuracy is more than sufficient to narrow down a search area."
+        }
+      ]
+    },
+    {
+      "slug": "tractive-gps-cat-tracker",
+      "asin": "B09NN435JD",
+      "title": "Tractive GPS Cat Tracker",
+      "tagline": "When an indoor cat slips past an open window, you want a dot on a map - not a theory.",
+      "problem": "Cats hide fast and travel farther than owners expect. A missing poster is not a strategy when your neighbour is three streets away.",
+      "solution": "A lightweight GPS collar attachment with live tracking in the app buys you direction when minutes matter. Virtual fences can alert you before your cat reaches the road.",
+      "honestNote": "Like all GPS pet gear, a subscription applies for live tracking. Battery life depends on how often the collar updates.",
+      "category": "Safety",
+      "whyWePicked": "Same Tractive ecosystem many dog owners trust, sized for cats and indoor-outdoor lifestyles.",
+      "rating": 4.3,
+      "reviewCountApprox": 8000,
+      "imageSrc": "https://images.unsplash.com/photo-1574158622682-e40e69884006?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Grey cat resting near a window",
+      "faq": [
+        {
+          "q": "Is a GPS tracker safe for cats to wear all day?",
+          "a": "Choose a lightweight unit designed for cats and check the collar fit regularly - two fingers under the strap is the usual rule. Remove it if skin irritation appears. Most owners use it when the cat goes outside or during travel, not always 24/7 indoors."
+        },
+        {
+          "q": "Will GPS work if my cat hides under a car?",
+          "a": "GPS signals weaken under metal and in dense urban canyons. You may see a last known position until the cat moves to a clearer spot. That is normal for any consumer GPS collar."
+        }
+      ]
+    },
+    {
+      "slug": "furbo-360-dog-camera",
+      "asin": "B09GDQZLD1",
+      "title": "Furbo 360 Dog Camera",
+      "tagline": "Spin the view, toss a treat, and see if the sofa survived the afternoon.",
+      "problem": "Static cameras miss half the room. If your dog is food-motivated, you also want a way to redirect behaviour without shouting through a speaker.",
+      "solution": "A rotating indoor camera with treat tossing lets you scan the space and reward calm behaviour from your phone. Bark alerts flag noise spikes when you are not watching live.",
+      "honestNote": "Cloud features and extended history may need a subscription. Check the current Furbo plan in your country.",
+      "category": "Home monitoring",
+      "whyWePicked": "360 coverage plus treat toss solves the two real reasons people buy a pet cam: guilt and damage control.",
+      "rating": 4.2,
+      "reviewCountApprox": 5400,
+      "imageSrc": "https://images.unsplash.com/photo-1587300008628-5960829a0d7a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Happy dog looking up expectantly",
+      "faq": [
+        {
+          "q": "Does Furbo work without Wi-Fi?",
+          "a": "No. It needs stable home Wi-Fi for streaming and treat tossing. Upload speed matters more than download for smooth live view."
+        },
+        {
+          "q": "Can cats use Furbo too?",
+          "a": "Many owners use Furbo for cats if the pet is treat-motivated and the camera is placed safely. Very small kittens may ignore treats; placement at sofa height usually works best."
+        }
+      ]
+    },
+    {
+      "slug": "airtag-pet-collar-holder",
+      "asin": "B0B4P719MP",
+      "title": "Silicone AirTag Holder for Pet Collars",
+      "tagline": "Turn an AirTag into a backup locator without a chunky case flapping on the walk.",
+      "problem": "Dedicated GPS collars cost more than many owners want for a second-line backup. A loose AirTag in a pocket is useless if it falls off mid-chase.",
+      "solution": "A slim silicone sleeve that threads onto the collar keeps an Apple AirTag secure and centred. Find My gives a last-seen location when Bluetooth mesh helps - not full GPS, but better than nothing for many escapes.",
+      "honestNote": "AirTags are not a substitute for GPS in open countryside. They shine in dense Apple device areas like towns and parks.",
+      "category": "Safety",
+      "whyWePicked": "Low cost, no subscription, and a sensible add-on if you already own AirTags for keys.",
+      "rating": 4.5,
+      "reviewCountApprox": 310,
+      "imageSrc": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Orange tabby cat looking at the camera",
+      "faq": [
+        {
+          "q": "Do I still need a GPS collar if I use an AirTag?",
+          "a": "For serious roamers in rural areas, GPS is still the primary tool. An AirTag is best as a cheap backup or for cats that stay near home."
+        },
+        {
+          "q": "Will the holder fit my collar width?",
+          "a": "Check the listing size chart. Silicone holders usually fit standard nylon collars; very thin kitten collars may need a different mount."
+        }
+      ]
+    },
+    {
+      "slug": "casfuy-dog-nail-grinder",
+      "asin": "B0BBKVKNTT",
+      "title": "Casfuy 6-Speed Dog Nail Grinder",
+      "tagline": "Dull the click-clack on hard floors without a wrestling match at the vet.",
+      "problem": "Overgrown nails split, snag carpets, and change how your dog stands. Clippers terrify many dogs - one bad clip and trust is gone.",
+      "solution": "A quiet rotary grinder with multiple speeds lets you remove material a little at a time. Less drama than snipping the quick in one go.",
+      "honestNote": "Introduce it with treats and short sessions. A grinder still needs a steady hand and good lighting.",
+      "category": "Grooming and home",
+      "whyWePicked": "High review volume, rechargeable, and six speeds so you can match noise tolerance to your dog.",
+      "rating": 4.4,
+      "reviewCountApprox": 10800,
+      "imageSrc": "https://images.unsplash.com/photo-1530281700549-e82e7bf170d6?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Golden retriever dog portrait outdoors",
+      "faq": [
+        {
+          "q": "Is a nail grinder better than clippers?",
+          "a": "For anxious dogs, grinders are often easier because you work slowly. For pros who clip confidently, clippers are faster. Many owners use both: clip bulk, grind smooth."
+        },
+        {
+          "q": "How do I avoid hitting the quick?",
+          "a": "Stop when you see a pale oval in the centre of dark nails, or when the inner core looks softer on light nails. If in doubt, trim less and grind weekly."
+        }
+      ]
+    },
+    {
+      "slug": "dogrook-vibration-bark-collar",
+      "asin": "B07CJCMR75",
+      "title": "DogRook Anti-Bark Collar (Vibration and Sound)",
+      "tagline": "Interrupt non-stop barking without shock - if your dog responds to vibration.",
+      "problem": "Neighbours complain, delivery drivers hesitate, and you cannot be at the window every time the post arrives.",
+      "solution": "A collar that uses beep and vibration-only modes can break the bark spiral for dogs sensitive to sensation. No shock means less ethical baggage for many owners.",
+      "honestNote": "Not every dog stops for vibration alone. If barking is fear-based, training and a behaviourist beat any collar.",
+      "category": "Training",
+      "whyWePicked": "Established no-shock line with wide weight range and rechargeable battery.",
+      "rating": 4.1,
+      "reviewCountApprox": 22000,
+      "imageSrc": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Small dog looking alert outdoors",
+      "faq": [
+        {
+          "q": "Is a vibration bark collar cruel?",
+          "a": "It is a sensation, not pain, when used on low levels with correct fit. Still use the minimum effective setting and pair with training - collars are not a substitute for addressing triggers."
+        },
+        {
+          "q": "Will it trigger on another dog barking?",
+          "a": "Some units pick up ambient noise. Adjust sensitivity and collar position per the manual; false triggers are the main user complaint across brands."
+        }
+      ]
+    },
+    {
+      "slug": "petsfit-airline-pet-carrier",
+      "asin": "B08TWLH4S2",
+      "title": "Petsfit Soft-Sided Airline Pet Carrier",
+      "tagline": "Cabin rules are strict. A bag that fits under the seat saves the trip.",
+      "problem": "Airlines publish maximum dimensions in inches and centimetres that do not match your cat's dignity. Turn up with the wrong box and you miss the flight.",
+      "solution": "A structured soft carrier with multiple entry points and ventilation keeps small dogs and cats contained for security checks and taxi rides. Collapse it at home when you are back.",
+      "honestNote": "Always confirm current airline pet policies - carriers change rules seasonally.",
+      "category": "Travel",
+      "whyWePicked": "Purpose-built for under-seat dimensions with carrying flexibility for long airport walks.",
+      "rating": 4.5,
+      "reviewCountApprox": 3200,
+      "imageSrc": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Small dog peeking from a fabric carrier",
+      "faq": [
+        {
+          "q": "How do I measure my pet for a carrier?",
+          "a": "Measure length from nose to base of tail while standing, height to top of ears sitting, and width at the shoulders. Add a few centimetres for turning - the listing size chart is the final word."
+        },
+        {
+          "q": "Is this carrier airline approved?",
+          "a": "Soft carriers are widely accepted in cabin when they meet size limits, but approval is always airline-specific. Print the policy page when you fly."
+        }
+      ]
+    },
+    {
+      "slug": "bonza-collapsible-travel-bowl",
+      "asin": "B071X6ZTVG",
+      "title": "Bonza Collapsible Dog Bowl (Extra Large)",
+      "tagline": "Water on a hike without a clattering metal bowl in your rucksack.",
+      "problem": "Rigid bowls take space. Disposable cups waste plastic. Your dog still needs water on a hot day.",
+      "solution": "A silicone collapsible bowl folds flat, clips to a bag, and pops open at rest stops. Rinse and roll - no mystery leaks if you buy a reputable seal.",
+      "honestNote": "Very large breeds may need two fills - check volume against your dog's usual intake.",
+      "category": "Travel",
+      "whyWePicked": "Simple, durable, and sized for medium-to-large dogs that outgrow toy travel bowls.",
+      "rating": 4.6,
+      "reviewCountApprox": 4100,
+      "imageSrc": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Hiker with dog on a mountain trail",
+      "faq": [
+        {
+          "q": "Are silicone travel bowls dishwasher safe?",
+          "a": "Most food-grade silicone bowls are top-rack dishwasher safe. Heat can accelerate wear - air dry fully before collapsing for storage."
+        },
+        {
+          "q": "Can I use it for food and water?",
+          "a": "Yes. Rinse between uses on the road. For raw-fed dogs, carry a spare or wash thoroughly to avoid bacterial growth in folds."
+        }
+      ]
+    },
+    {
+      "slug": "self-cleaning-slicker-brush",
+      "asin": "B09WYFJX1K",
+      "title": "Self-Cleaning Slicker Brush for Dogs and Cats",
+      "tagline": "Press a button and the fur lifts off the pins - no hairy palms.",
+      "problem": "Traditional slickers work, but cleaning the brush takes longer than the grooming session. You end up procrastinating.",
+      "solution": "A self-cleaning slicker retracts the pins so shed hair slides into the bin in one motion. Faster sessions mean more consistent brushing.",
+      "honestNote": "Long, matted coats may still need a dematting tool first - slickers are not magic scissors.",
+      "category": "Grooming and home",
+      "whyWePicked": "High ratings for the cleaning button feature - small UX win that actually changes habits.",
+      "rating": 4.5,
+      "reviewCountApprox": 12000,
+      "imageSrc": "https://images.unsplash.com/photo-1583337130417-334622a0fd0d?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Person grooming a fluffy dog",
+      "faq": [
+        {
+          "q": "How often should I slicker brush my dog?",
+          "a": "For double-coated breeds during shed season, several short sessions a week beat one marathon. For short coats, weekly is often enough."
+        },
+        {
+          "q": "Will slicker brushes hurt sensitive skin?",
+          "a": "Use light pressure and brush with the coat direction. If the skin reddens, switch to a softer pin brush and ask your groomer about coat condition."
+        }
+      ]
+    },
+    {
+      "slug": "blink-mini-indoor-camera",
+      "asin": "B07X37DT9M",
+      "title": "Blink Mini Indoor Security Camera",
+      "tagline": "A plug-in HD eye on the food bowl when you do not need pan-tilt complexity.",
+      "problem": "You want motion alerts and two-way talk without paying flagship camera prices or running cables through the wall.",
+      "solution": "A compact plug-in indoor camera pairs with the Blink app and Alexa. Mount it near crates, litter trays, or entryways for quick check-ins.",
+      "honestNote": "Cloud clip history typically needs a Blink subscription plan after any trial. Read current terms before you buy.",
+      "category": "Home monitoring",
+      "whyWePicked": "Low upfront cost, simple setup, and a huge owner base for troubleshooting tips online.",
+      "rating": 4.3,
+      "reviewCountApprox": 180000,
+      "imageSrc": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Modern living room interior with natural light",
+      "faq": [
+        {
+          "q": "Does Blink Mini work without a subscription?",
+          "a": "Live view works without a paid plan on many setups, but cloud storage of clips is usually subscription-based. Some users add local storage with compatible Sync modules - check the listing for your generation."
+        },
+        {
+          "q": "Is Blink good for pet monitoring specifically?",
+          "a": "It is a general indoor security camera. Pet-specific features (treat toss, pet AI) are not included - you are buying simplicity and price."
         }
       ]
     }
