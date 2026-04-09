@@ -6,7 +6,7 @@ Primary public URL: https://petgadgethub.co.uk (also served from Vercel; set NEX
 
 ## What this site is
 
-PetGadgetHub is a small, editorially independent affiliate review site focused on practical pet gadgets: water fountains, GPS trackers, smart cameras, automatic feeders, grooming tools, travel gear, and everyday walk essentials. Every recommendation starts with a real problem, not a product spec sheet.
+PetGadgetHub is a small, editorially independent affiliate review site focused on practical pet gadgets: water fountains, GPS trackers, smart cameras, automatic feeders, grooming tools, travel gear, enrichment toys, and everyday walk essentials. Every recommendation starts with a real problem, not a product spec sheet.
 
 ## Editorial approach
 
@@ -15,7 +15,7 @@ PetGadgetHub is a small, editorially independent affiliate review site focused o
 - Prices are not displayed on product cards because they change. We link directly to Amazon for live pricing.
 - All outbound product links are Amazon affiliate links (tags: petgadgethu06-20 for US/CA, petgadgethub9-21 for UK). This is disclosed in a sticky banner on every page.
 
-## Products currently covered (15 picks)
+## Products currently covered (25 picks)
 
 Product detail pages live at /products/{slug}. ASINs are in data/products.json.
 
@@ -34,6 +34,16 @@ Product detail pages live at /products/{slug}. ASINs are in data/products.json.
 - Bonza Collapsible Travel Bowl (travel, B071X6ZTVG)
 - Self-Cleaning Slicker Brush (grooming, B09WYFJX1K)
 - Blink Mini Indoor Camera (home monitoring, B07X37DT9M)
+- SureFeed Microchip Pet Feeder (feeding, B00O0UIPTY)
+- Bissell Pet Hair Eraser Handheld Vacuum (grooming and home, B001EYFQ28)
+- KONG Classic Dog Toy (enrichment, B000AYN7LU)
+- Outward Hound Nina Ottosson Dog Brick Puzzle (enrichment, B0711Y9XTF)
+- Chuckit! Sport Ball Launcher (daily walks, B00280MUGC)
+- Ruffwear Front Range Harness (daily walks, B01MUA9PJU)
+- Self-Cooling Gel Mat (comfort, B098BGP5RT)
+- Waterproof Dog Car Seat Hammock (travel, B078HXTPKM)
+- Petcube Cam Wi-Fi (home monitoring, B09FFBN6W7)
+- Outward Hound Fun Feeder Slo Bowl (feeding, B00FPKNRCS)
 
 ## Key pages
 

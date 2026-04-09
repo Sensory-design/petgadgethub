@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0] - 2026-04-11
+
+### Added
+
+- Ten new product guides in [data/products.json](data/products.json) (25 total): SureFeed microchip feeder, Bissell handheld pet vacuum, KONG Classic, Nina Ottosson Dog Brick, Chuckit launcher, Ruffwear Front Range harness, cooling gel mat, car seat hammock, Petcube Cam, Outward Hound Slo Bowl.
+- [public/llms.txt](public/llms.txt) updated for 25 products.
+
 ## [0.3.0] - 2026-04-10
 
 ### Added

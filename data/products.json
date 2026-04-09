@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10",
+  "updated": "2026-04-11",
   "products": [
     {
       "slug": "petlibro-stainless-fountain",
@@ -371,6 +371,256 @@
         {
           "q": "Is Blink good for pet monitoring specifically?",
           "a": "It is a general indoor security camera. Pet-specific features (treat toss, pet AI) are not included - you are buying simplicity and price."
+        }
+      ]
+    },
+    {
+      "slug": "surefeed-microchip-pet-feeder",
+      "asin": "B00O0UIPTY",
+      "title": "SureFeed Microchip Pet Feeder",
+      "tagline": "Stop the food thief: only the right microchip opens the lid.",
+      "problem": "Multi-pet homes turn mealtime into surveillance. One cat hoovers prescription food; another needs weight management kibble.",
+      "solution": "A lidded bowl that reads your pet's existing microchip (or included RFID tag) keeps meals separate. Wet food stays fresher under the seal than an open plate.",
+      "honestNote": "Batteries need replacing; teach hesitant cats with the training mode in the manual.",
+      "category": "Feeding",
+      "whyWePicked": "The standard reference for multi-cat food control - vets often recommend Sure Petcare for prescription diets.",
+      "rating": 4.3,
+      "reviewCountApprox": 9000,
+      "imageSrc": "https://images.unsplash.com/photo-1513245543132-31f507938bfc?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Two cats near a food bowl indoors",
+      "faq": [
+        {
+          "q": "Does SureFeed work with my cat's existing microchip?",
+          "a": "Yes for most ISO FDX-B and FDX-A microchips used in the UK. You run a simple pairing routine. If your cat has no chip, use the RFID collar tag included in many bundles."
+        },
+        {
+          "q": "Can I leave wet food in it all day?",
+          "a": "The lid keeps food covered longer than an open bowl, but hot weather still matters. Follow the same food-safety rules you would use for any wet food."
+        }
+      ]
+    },
+    {
+      "slug": "bissell-pet-hair-eraser-handheld",
+      "asin": "B001EYFQ28",
+      "title": "Bissell Pet Hair Eraser Handheld Vacuum",
+      "tagline": "Suck hair out of stairs and car seats before it embeds in the fabric.",
+      "problem": "Your upright vacuum never reaches the car boot or the back of the sofa. Pet hair wins by default.",
+      "solution": "A corded handheld with a motorised brush lifts hair from upholstery. Quick grab for small zones beats dragging the full vacuum twice a day.",
+      "honestNote": "Corded means no battery fade - but you need a socket nearby.",
+      "category": "Grooming and home",
+      "whyWePicked": "Long-running category leader for pet hair on furniture; replacement for disposable lint rollers on big jobs.",
+      "rating": 4.4,
+      "reviewCountApprox": 45000,
+      "imageSrc": "https://images.unsplash.com/photo-1583511655850-d0b82a9f1e87?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Golden retriever relaxing on a sofa",
+      "faq": [
+        {
+          "q": "Is a handheld enough for a whole house?",
+          "a": "No - it is a spot cleaner for stairs, cars, and furniture. Pair it with your main vacuum for floors."
+        },
+        {
+          "q": "How often should I empty the dust cup?",
+          "a": "Pet hair fills cups fast. Empty when suction drops or after each heavy session - whichever comes first."
+        }
+      ]
+    },
+    {
+      "slug": "kong-classic-dog-toy",
+      "asin": "B000AYN7LU",
+      "title": "KONG Classic Dog Toy (Medium)",
+      "tagline": "Stuff it, freeze it, and buy yourself twenty minutes of peace.",
+      "problem": "Bored dogs invent hobbies you do not want: bin raids, cushion surgery, endless barking.",
+      "solution": "A durable rubber toy you can pack with wet food or peanut butter (xylitol-free) turns mealtime into enrichment. Bounces unpredictably for fetch.",
+      "honestNote": "Pick the size chart for your dog's jaw - too small is a choke risk.",
+      "category": "Enrichment",
+      "whyWePicked": "The default recommendation from trainers worldwide - cheap, replaceable, and proven.",
+      "rating": 4.7,
+      "reviewCountApprox": 85000,
+      "imageSrc": "https://images.unsplash.com/photo-1546527868-ccb7ee7dfa6a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog playing with a toy on grass",
+      "faq": [
+        {
+          "q": "What can I stuff a KONG with?",
+          "a": "Wet food, xylitol-free peanut butter, plain yoghurt, or kibble soaked in water then frozen. Avoid anything toxic to dogs - check ASPCA lists if unsure."
+        },
+        {
+          "q": "Will my power chewer destroy it?",
+          "a": "Extreme chewers may need the black Extreme line. Supervise first sessions and replace when rubber shows deep tears."
+        }
+      ]
+    },
+    {
+      "slug": "outward-hound-dog-brick-puzzle",
+      "asin": "B0711Y9XTF",
+      "title": "Outward Hound Nina Ottosson Dog Brick Puzzle",
+      "tagline": "Make dinner take ten minutes instead of ten seconds.",
+      "problem": "Dogs that inhale kibble risk bloat and boredom. A plain bowl does not engage their nose or brain.",
+      "solution": "Slide compartments and flip lids hide food so your dog has to work for each bite. Level 2 intermediate suits most adult dogs past the first puzzle.",
+      "honestNote": "Not for unsupervised power chewers - plastic pieces can break if treated like a chew toy.",
+      "category": "Enrichment",
+      "whyWePicked": "Nina Ottosson puzzles are the category name; Dog Brick is the sweet spot for difficulty.",
+      "rating": 4.6,
+      "reviewCountApprox": 35000,
+      "imageSrc": "https://images.unsplash.com/photo-1587300008628-5960829a0d7a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Happy dog looking up at the camera",
+      "faq": [
+        {
+          "q": "How do I clean a plastic puzzle feeder?",
+          "a": "Warm soapy water and a bottle brush for crevices. Many are dishwasher top-rack - check the label."
+        },
+        {
+          "q": "My dog gives up - what now?",
+          "a": "Start with lids open and food visible. Close one compartment at a time. End on a win so the game stays fun."
+        }
+      ]
+    },
+    {
+      "slug": "chuckit-sport-ball-launcher",
+      "asin": "B00280MUGC",
+      "title": "Chuckit! Sport Ball Launcher (Medium)",
+      "tagline": "Throw farther without wrecking your shoulder.",
+      "problem": "Ball games stop early when your elbow complains. Short throws mean a still-hyper dog at bedtime.",
+      "solution": "A lightweight launcher cup picks up slobbery balls hands-free and adds leverage so moderate throws feel effortless.",
+      "honestNote": "Use the matching Chuckit ball size - tennis balls from other brands may not fit the cup.",
+      "category": "Daily walks",
+      "whyWePicked": "Park standard for a reason: durable, cheap, and every dog park regular recognises the brand.",
+      "rating": 4.8,
+      "reviewCountApprox": 120000,
+      "imageSrc": "https://images.unsplash.com/photo-1587300008628-5960829a0d7a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Happy dog looking up during play",
+      "faq": [
+        {
+          "q": "Does Chuckit work for small breeds?",
+          "a": "Buy the size that matches your ball. The medium launcher pairs with medium balls - too large and small dogs struggle to carry the ball."
+        },
+        {
+          "q": "Can I use a regular tennis ball?",
+          "a": "Standard tennis balls often fit medium launchers, but Chuckit balls are safer for teeth and sized consistently. Abrasive tennis felt can wear teeth over time."
+        }
+      ]
+    },
+    {
+      "slug": "ruffwear-front-range-harness",
+      "asin": "B01MUA9PJU",
+      "title": "Ruffwear Front Range Harness",
+      "tagline": "Trail-ready fit without the escape-artist slip-out.",
+      "problem": "Collars strain necks on pullers; cheap harnesses rub armpits raw or let Houdini dogs back out.",
+      "solution": "A padded Y-front harness with two leash points spreads load and stays secure on hikes. Reflective trim helps at dusk.",
+      "honestNote": "Measure chest girth per Ruffwear's chart - wrong size is the main reason for returns.",
+      "category": "Daily walks",
+      "whyWePicked": "Ruffwear is the benchmark for serious dog owners; resale value stays strong if your dog outgrows it.",
+      "rating": 4.7,
+      "reviewCountApprox": 18000,
+      "imageSrc": "https://images.unsplash.com/photo-1530281700549-e82e7bf170d6?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Golden retriever outdoors",
+      "faq": [
+        {
+          "q": "Front clip vs back clip - which stops pulling?",
+          "a": "Front clips can steer the dog toward you when they lunge, but training still matters. No harness replaces loose-lead work."
+        },
+        {
+          "q": "Is Ruffwear worth the price over budget harnesses?",
+          "a": "If you walk daily in all weather, padding and buckles last longer. Occasional strollers may be fine with simpler gear."
+        }
+      ]
+    },
+    {
+      "slug": "gel-cooling-mat-dogs",
+      "asin": "B098BGP5RT",
+      "title": "Self-Cooling Gel Mat for Dogs and Cats",
+      "tagline": "A cooler lie-down when the house feels like a greenhouse.",
+      "problem": "Thick-coated dogs and flat-faced breeds overheat fast. Fans help humans more than floor-level pets.",
+      "solution": "Pressure-activated gel mats absorb body heat without electricity. Fold for crates, cars, or the kitchen tile.",
+      "honestNote": "Severe heatstroke is an emergency - mats help comfort, not medicine.",
+      "category": "Comfort",
+      "whyWePicked": "Simple, silent, and easy to clean - better than wet towels that smell after a day.",
+      "rating": 4.4,
+      "reviewCountApprox": 6000,
+      "imageSrc": "https://images.unsplash.com/photo-1568572933382-74a204cdc5c7?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog resting on a blanket indoors",
+      "faq": [
+        {
+          "q": "Do cooling mats work indoors without a fridge?",
+          "a": "Self-cooling types recharge after the pet moves off. They are not ice-cold - they feel cooler than ambient fabric."
+        },
+        {
+          "q": "Will my chewer destroy it?",
+          "a": "Supervise chewers - gel mats are not chew toys. If your dog shreds bedding, skip soft mats or use under supervision only."
+        }
+      ]
+    },
+    {
+      "slug": "dog-car-seat-hammock-cover",
+      "asin": "B078HXTPKM",
+      "title": "Waterproof Dog Car Seat Hammock",
+      "tagline": "Muddy paws meet your lease car - this is the buffer.",
+      "problem": "Wet dogs and cream upholstery do not mix. Hair embeds in fabric and never quite vacuums out.",
+      "solution": "A hammock-style cover protects the whole back bench, catches drips, and often includes mesh so you still see the dog in the mirror.",
+      "honestNote": "Measure your rear seat width - universal fits are not universal for every SUV.",
+      "category": "Travel",
+      "whyWePicked": "High review volume on the hammock pattern - the mesh window variant reduces anxiety for dogs who need to see you.",
+      "rating": 4.5,
+      "reviewCountApprox": 22000,
+      "imageSrc": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog looking out of a car window",
+      "faq": [
+        {
+          "q": "Are seat hammocks safe with seat belts?",
+          "a": "Thread harness seat-belt leads through cover openings per the product instructions. Never attach a clip only to fabric."
+        },
+        {
+          "q": "Machine washable?",
+          "a": "Most are hose-down or gentle cycle - check the label. Heavy mud may need a pre-rinse outdoors."
+        }
+      ]
+    },
+    {
+      "slug": "petcube-cam-wifi",
+      "asin": "B09FFBN6W7",
+      "title": "Petcube Cam Wi-Fi Pet Camera",
+      "tagline": "1080p check-ins with a brand that only does pets.",
+      "problem": "Generic security apps are cluttered. You only want to know: is the dog on the sofa?",
+      "solution": "A compact indoor cam with night vision, two-way audio, and phone alerts tuned for motion. Mount on a shelf facing the main room.",
+      "honestNote": "Some advanced alerts may need a subscription - confirm Petcube's current plans.",
+      "category": "Home monitoring",
+      "whyWePicked": "Petcube focuses on pet UX; pricing often undercuts premium pet cams with similar specs.",
+      "rating": 4.3,
+      "reviewCountApprox": 2500,
+      "imageSrc": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Bright modern living room",
+      "faq": [
+        {
+          "q": "Petcube vs Blink vs Wyze - which is best?",
+          "a": "All are general indoor cameras. Pick based on app reviews, subscription cost, and whether you already own that ecosystem. Image quality is similar at 1080p."
+        },
+        {
+          "q": "Does it work on 5 GHz Wi-Fi?",
+          "a": "Many pet cams are 2.4 GHz only. Check the listing if your router is dual-band - you may need a separate SSID for 2.4 GHz devices."
+        }
+      ]
+    },
+    {
+      "slug": "outward-hound-fun-feeder-slo-bowl",
+      "asin": "B00FPKNRCS",
+      "title": "Outward Hound Fun Feeder Slo Bowl",
+      "tagline": "Slow the gulp without buying another electronic gadget.",
+      "problem": "Fast eaters vomit, bloat risk rises, and mealtimes last seconds.",
+      "solution": "Maze ridges in the bowl force smaller mouthfuls. Works with dry or wet food and dishwasher-safe on most models.",
+      "honestNote": "Flat-faced breeds may need a shallower maze - check depth against your dog's face shape.",
+      "category": "Feeding",
+      "whyWePicked": "Seventy-thousand-plus reviews on the Slo Bowl line - the default slow feeder recommendation.",
+      "rating": 4.7,
+      "reviewCountApprox": 70000,
+      "imageSrc": "https://images.unsplash.com/photo-1601758228044-f3f2794d9a8b?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog outdoors on a leash",
+      "faq": [
+        {
+          "q": "What size Slo Bowl for a Labrador?",
+          "a": "Large or regular for big breeds - check the cup capacity in the listing against your dog's meal size."
+        },
+        {
+          "q": "Puppy frustrated and gives up?",
+          "a": "Start with an easier maze or scatter feed on a flat tray first. Build difficulty as they learn."
         }
       ]
     }
