@@ -10,8 +10,8 @@
       "solution": "A circulating fountain keeps water interesting and fresh. Stainless steel is also easier to clean thoroughly than plastic, which matters if you want to avoid that faint old-bowl smell.",
       "honestNote": "You will still need to clean it on a schedule. No fountain replaces basic maintenance.",
       "category": "Hydration",
-      "imageSrc": "/images/products/fountain.svg",
-      "imageAlt": "Stylized illustration of a pet water fountain"
+      "imageSrc": "https://images.unsplash.com/photo-1571131116858-2295ade82a72?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Cat drinking water from a ceramic bowl"
     },
     {
       "slug": "pet-n-pet-biodegradable-bags",
@@ -21,8 +21,8 @@
       "problem": "Thin bags rip at the worst moment. The rest of the walk becomes memorable, and not in a good way.",
       "solution": "A dependable roll means you can focus on your dog, not your fingers. Biodegradable options are a small choice that adds up when you walk daily.",
       "category": "Daily walks",
-      "imageSrc": "/images/products/bags.svg",
-      "imageAlt": "Stylized illustration of a roll of pet waste bags"
+      "imageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Person walking a Golden Retriever on a sunny street"
     },
     {
       "slug": "kasa-smart-pet-cam",
@@ -33,8 +33,8 @@
       "solution": "A compact indoor camera with simple app setup lets you see what is happening at home. Useful for puppies, older pets, or anyone who just likes a quick reassurance.",
       "honestNote": "Night lighting and Wi-Fi strength vary by home; placement matters more than the brand name.",
       "category": "Home monitoring",
-      "imageSrc": "/images/products/camera.svg",
-      "imageAlt": "Stylized illustration of a small indoor security camera"
+      "imageSrc": "https://images.unsplash.com/photo-1634837019100-6628d6418d9f?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog relaxing at home on the living room floor"
     },
     {
       "slug": "chomchom-roller",
@@ -44,8 +44,8 @@
       "problem": "Lint rollers run out fast on heavy shedders. Vacuums help, but upholstery still holds onto hair that seems magnetically attracted to guests' pants.",
       "solution": "A reusable roller can be surprisingly satisfying for fabric surfaces - quick passes before visitors arrive, without a pile of sticky sheets.",
       "category": "Grooming and home",
-      "imageSrc": "/images/products/roller.svg",
-      "imageAlt": "Stylized illustration of a fabric lint roller tool"
+      "imageSrc": "https://images.unsplash.com/photo-1546177747-80e61bda11cb?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Brown Maine Coon cat lounging on an ottoman"
     },
     {
       "slug": "tractive-gps-dog-6",
@@ -56,8 +56,8 @@
       "solution": "A GPS tracker helps you get direction when seconds count. It is not a substitute for training and a secure leash - but it is a practical backup layer.",
       "honestNote": "Battery life and subscription terms depend on the plan you choose; read the details before you buy.",
       "category": "Safety",
-      "imageSrc": "/images/products/gps.svg",
-      "imageAlt": "Stylized illustration of a GPS tag on a collar"
+      "imageSrc": "https://images.unsplash.com/photo-1771157552643-2ba2fae724fb?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Boxer dog running freely through a forest path"
     }
   ]
 }
