@@ -48,6 +48,18 @@
       "imageAlt": "Brown Maine Coon cat lounging on an ottoman"
     },
     {
+      "slug": "petlibro-automatic-feeder",
+      "asin": "B09GCMJXDB",
+      "title": "Petlibro Automatic Cat and Dog Feeder",
+      "tagline": "Meals on schedule even when your day runs long.",
+      "problem": "Skipping a meal time because you are stuck at work or running late is more stressful for you than your pet realises. But irregular feeding can quietly affect digestion and weight.",
+      "solution": "A programmable feeder with portion control dispenses at fixed times so your pet eats consistently whether you are home or not. Useful for cats prone to overeating and dogs on vet-recommended meal plans.",
+      "honestNote": "These work best with dry kibble. Wet food or mixed diets need a different approach.",
+      "category": "Feeding",
+      "imageSrc": "https://images.unsplash.com/photo-1767023028317-bbafd3157967?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Fluffy golden cat eating from a metal food bowl"
+    },
+    {
       "slug": "tractive-gps-dog-6",
       "asin": "B0B88XG7V4",
       "title": "Tractive GPS Dog Tracker",
