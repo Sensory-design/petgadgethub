@@ -18,25 +18,38 @@
 # production
 /build
 
+# vercel
+.vercel
+
 # misc
 .DS_Store
 *.pem
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# env (never commit secrets)
 .env
 .env*.local
+.env.production
 
 # debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.log
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts
+
+# turbopack / tooling caches
+.turbo
 
 # python
 __pycache__/
 *.py[cod]
 .venv/
+venv/
 
 # generated pins
 /public/pins/
@@ -46,3 +59,8 @@ __pycache__/
 
 # automation batch output
 /automation/out/
+
+# IDE (uncomment if you do not want these in the repo)
+# .idea/
+# *.swp
+# *.swo
