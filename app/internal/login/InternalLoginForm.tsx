@@ -65,7 +65,7 @@ export function InternalLoginForm() {
           disabled={pending}
           className="w-full rounded-xl bg-[var(--color-brand-800)] px-4 py-3 text-sm font-medium text-white hover:bg-[var(--color-brand-600)] disabled:opacity-60"
         >
-          {pending ? "Signing in…" : "Continue"}
+          {pending ? "Signing in..." : "Continue"}
         </button>
       </form>
       <p className="mt-8 text-center text-sm text-[var(--color-muted)]">

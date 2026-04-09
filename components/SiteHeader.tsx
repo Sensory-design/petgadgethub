@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-/** Core site first — tools (e.g. rental resume) live in the footer. */
+/** Core site first - tools (e.g. rental resume) live in the footer. */
 const nav = [
   { href: "/", label: "Home" },
   { href: "/#picks", label: "Our picks" },

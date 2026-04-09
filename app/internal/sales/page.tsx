@@ -58,7 +58,7 @@ export default async function InternalSalesPage() {
         </div>
         <p className="mt-4 text-sm text-[var(--color-ink)]">{t.note}</p>
         <p className="mt-2 text-xs text-[var(--color-muted)]">
-          Last updated in repo: {t.lastChecked} · Period note: {t.periodStart}
+          Last updated in repo: {t.lastChecked} - Period note: {t.periodStart}
         </p>
       </div>
     </div>

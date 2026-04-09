@@ -46,8 +46,8 @@ export function generateRentalResumePdf(data: RentalResumeForm) {
   doc.setFontSize(11);
   const breedLine =
     data.breed === "other" ? data.breedOther.trim() || "Other" : BREED_LABEL[data.breed];
-  y = addLines(doc, `Guardian: ${data.ownerName.trim() || "—"}`, MARGIN, y);
-  y = addLines(doc, `Pet name: ${data.petName.trim() || "—"}`, MARGIN, y);
+  y = addLines(doc, `Guardian: ${data.ownerName.trim() || "-"}`, MARGIN, y);
+  y = addLines(doc, `Pet name: ${data.petName.trim() || "-"}`, MARGIN, y);
   y = addLines(doc, `Breed / type: ${breedLine}`, MARGIN, y + 2);
 
   doc.setFont("helvetica", "bold");
@@ -55,14 +55,14 @@ export function generateRentalResumePdf(data: RentalResumeForm) {
   y = addLines(doc, "Behaviour & training", MARGIN, y);
   doc.setFont("helvetica", "normal");
   doc.setFontSize(11);
-  y = addLines(doc, data.behaviorTraining.trim() || "—", MARGIN, y);
+  y = addLines(doc, data.behaviorTraining.trim() || "-", MARGIN, y);
 
   doc.setFont("helvetica", "bold");
   doc.setFontSize(12);
   y = addLines(doc, "Responsible pet pledge", MARGIN, y);
   doc.setFont("helvetica", "normal");
   doc.setFontSize(11);
-  y = addLines(doc, data.behaviorPledge.trim() || "—", MARGIN, y);
+  y = addLines(doc, data.behaviorPledge.trim() || "-", MARGIN, y);
 
   if (y > 265) {
     doc.addPage();
@@ -76,11 +76,11 @@ export function generateRentalResumePdf(data: RentalResumeForm) {
   doc.setFontSize(11);
   y = addLines(
     doc,
-    `Vaccination / vet care: ${data.healthVaccinations.trim() || "—"}`,
+    `Vaccination / vet care: ${data.healthVaccinations.trim() || "-"}`,
     MARGIN,
     y,
   );
-  y = addLines(doc, `Flea / worming: ${data.healthParasite.trim() || "—"}`, MARGIN, y);
+  y = addLines(doc, `Flea / worming: ${data.healthParasite.trim() || "-"}`, MARGIN, y);
 
   if (y > 265) {
     doc.addPage();
@@ -92,7 +92,7 @@ export function generateRentalResumePdf(data: RentalResumeForm) {
   y = addLines(doc, "Insurance", MARGIN, y);
   doc.setFont("helvetica", "normal");
   doc.setFontSize(11);
-  y = addLines(doc, data.insuranceNote.trim() || "—", MARGIN, y);
+  y = addLines(doc, data.insuranceNote.trim() || "-", MARGIN, y);
 
   doc.save(`pet-rental-resume-${(data.petName || "pet").replace(/\s+/g, "-")}.pdf`);
 }

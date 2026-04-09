@@ -14,7 +14,7 @@ const BREEDS: { value: UkBreedOption; label: string }[] = [
   { value: "other", label: "Other (specify below)" },
 ];
 
-/** Illustrative figures — replace with your own research sources for production copy. */
+/** Illustrative figures - replace with your own research sources for production copy. */
 const BENCHMARKS = [
   {
     label: "French Bulldog",
@@ -22,7 +22,7 @@ const BENCHMARKS = [
   },
   {
     label: "Doberman",
-    detail: "Illustrative lifetime total around £23,000 — varies hugely by insurance and vet luck.",
+    detail: "Illustrative lifetime total around £23,000 - varies hugely by insurance and vet luck.",
   },
   {
     label: "Golden Retriever",
@@ -88,7 +88,7 @@ export function RentalResumeTool() {
     <div className="space-y-16">
       <header className="max-w-3xl">
         <p className="text-sm font-semibold uppercase tracking-wide text-[var(--color-brand-600)]">
-          UK renters · May 2026 readiness
+          UK renters - May 2026 readiness
         </p>
         <h1 className="mt-3 font-[family-name:var(--font-display)] text-4xl font-semibold tracking-tight text-[var(--color-ink)] sm:text-5xl">
           Pet Rental Approval Tool
@@ -99,7 +99,8 @@ export function RentalResumeTool() {
           <strong className="text-[var(--color-ink)]">
             Renters&apos; Rights Act 2025 (effective May 2026)
           </strong>
-          — always confirm details against your own tenancy and, if needed, a qualified adviser.
+          {" "}
+          - always confirm details against your own tenancy and, if needed, a qualified adviser.
         </p>
         <p className="mt-4 rounded-xl border border-amber-200 bg-amber-50/80 px-4 py-3 text-sm leading-relaxed text-amber-950">
           <strong>Not legal advice.</strong> PetGadgetHub is not a law firm. This page helps you
@@ -165,7 +166,7 @@ export function RentalResumeTool() {
                 className="mt-2 min-h-[88px] w-full rounded-xl border border-[var(--color-border)] px-4 py-3"
                 value={form.behaviorTraining}
                 onChange={(e) => set("behaviorTraining", e.target.value)}
-                placeholder="e.g. Kennel Club Good Citizen — Bronze (2025)…"
+                placeholder="e.g. Kennel Club Good Citizen - Bronze (2025)"
               />
             </label>
             <label className="block text-sm font-medium text-[var(--color-ink)]">
@@ -174,7 +175,7 @@ export function RentalResumeTool() {
                 className="mt-2 min-h-[88px] w-full rounded-xl border border-[var(--color-border)] px-4 py-3"
                 value={form.behaviorPledge}
                 onChange={(e) => set("behaviorPledge", e.target.value)}
-                placeholder="I commit to prompt waste pick-up, noise awareness, and…"
+                placeholder="I commit to prompt waste pick-up, noise awareness, and..."
               />
             </label>
             <label className="block text-sm font-medium text-[var(--color-ink)]">
@@ -199,7 +200,7 @@ export function RentalResumeTool() {
                 className="mt-2 min-h-[72px] w-full rounded-xl border border-[var(--color-border)] px-4 py-3"
                 value={form.insuranceNote}
                 onChange={(e) => set("insuranceNote", e.target.value)}
-                placeholder="e.g. Lifetime cover, £X excess, insurer name…"
+                placeholder="e.g. Lifetime cover, £X excess, insurer name"
               />
             </label>
           </div>
@@ -211,7 +212,7 @@ export function RentalResumeTool() {
               onClick={onDownloadPdf}
               className="rounded-xl bg-[var(--color-brand-800)] px-5 py-3 text-sm font-medium text-white hover:bg-[var(--color-brand-600)] disabled:opacity-50"
             >
-              {pdfBusy ? "Preparing PDF…" : "Download PDF resume"}
+              {pdfBusy ? "Preparing PDF..." : "Download PDF resume"}
             </button>
             {!canPdf && (
               <span className="text-sm text-[var(--color-muted)]">Add your name and pet name first.</span>
@@ -219,7 +220,7 @@ export function RentalResumeTool() {
           </div>
 
           <div className="mt-8 rounded-xl border border-[var(--color-border)] bg-[var(--color-brand-50)] p-4 text-sm text-[var(--color-ink)]">
-            <p className="font-semibold">Insurance — compare cover (affiliate)</p>
+            <p className="font-semibold">Insurance - compare cover (affiliate)</p>
             <p className="mt-2 text-[var(--color-muted)]">
               Replace these with your programme links when approved. Buttons use{" "}
               <code className="text-xs">rel=&quot;sponsored nofollow&quot;</code>.
@@ -251,7 +252,7 @@ export function RentalResumeTool() {
               Lifetime budgeter (illustrative)
             </h2>
             <p className="mt-2 text-sm text-[var(--color-muted)]">
-              April 2026-style benchmarks for planning conversations — not quotes for your pet.
+              April 2026-style benchmarks for planning conversations - not quotes for your pet.
             </p>
             <ul className="mt-6 space-y-4">
               {BENCHMARKS.map((b) => (
@@ -268,7 +269,7 @@ export function RentalResumeTool() {
 
           <div className="rounded-2xl border border-[var(--color-brand-600)]/30 bg-white p-6 shadow-sm">
             <h2 className="font-[family-name:var(--font-display)] text-xl font-semibold text-[var(--color-ink)]">
-              Premium Rental Pack — £2.99
+              Premium Rental Pack - £2.99
             </h2>
             <p className="mt-2 text-sm leading-relaxed text-[var(--color-muted)]">
               Extra landlord-ready wording, legal guidance pointers, and a richer budget worksheet.
@@ -280,7 +281,7 @@ export function RentalResumeTool() {
               disabled={checkoutBusy}
               className="mt-6 w-full rounded-xl bg-[var(--color-ink)] px-4 py-3 text-sm font-medium text-white hover:opacity-90 disabled:opacity-60"
             >
-              {checkoutBusy ? "Redirecting…" : "Unlock Premium Rental Pack"}
+              {checkoutBusy ? "Redirecting..." : "Unlock Premium Rental Pack"}
             </button>
             {checkoutMsg && <p className="mt-3 text-sm text-red-700">{checkoutMsg}</p>}
           </div>

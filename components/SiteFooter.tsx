@@ -41,8 +41,8 @@ export function SiteFooter() {
           </div>
         </div>
         <p className="mt-10 text-xs text-[var(--color-muted)]">
-          © {year} PetGadgetHub. Not affiliated with Amazon. Product names are trademarks of their
-          respective owners.
+          {"\u00a9"} {year} PetGadgetHub. Not affiliated with Amazon. Product names are trademarks of
+          their respective owners.
         </p>
       </div>
     </footer>

@@ -5,6 +5,7 @@ import { CookieBanner } from "@/components/CookieBanner";
 import { DisclosureBanner } from "@/components/DisclosureBanner";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
+import { getMetadataBase } from "@/lib/siteUrl";
 
 import "./globals.css";
 
@@ -27,7 +28,7 @@ export const metadata: Metadata = {
   },
   description:
     "Problem-first guides to pet tech: hydration, safety, walks, and home life. Clear writing, no hype, and transparent Amazon affiliate disclosures.",
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
+  metadataBase: getMetadataBase(),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

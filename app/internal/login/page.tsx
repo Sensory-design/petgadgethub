@@ -7,7 +7,7 @@ export default function InternalLoginPage() {
     <Suspense
       fallback={
         <div className="mx-auto max-w-md px-4 py-16 text-sm text-[var(--color-muted)] sm:px-6">
-          Loading…
+          Loading...
         </div>
       }
     >

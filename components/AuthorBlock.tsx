@@ -1,8 +1,8 @@
 const TEAM = [
   {
     name: "Maya Chen",
-    role: "Editor, pet behaviour & safety",
-    bio: "Maya writes with one foot in veterinary clinics and one in living rooms ù she cares about what actually happens when a product shows up at your door.",
+    role: "Editor, pet behaviour and safety",
+    bio: "Maya writes with one foot in veterinary clinics and one in living rooms - she cares about what actually happens when a product shows up at your door.",
     initials: "MC",
   },
 ] as const;
@@ -31,7 +31,7 @@ export function AuthorBlock() {
       </div>
       <p className="mt-4 text-xs text-[var(--color-muted)]">
         We do not accept payment for placement. If we link to a product, it is because we believe it
-        solves a real problem ù and we disclose affiliate relationships clearly.
+        solves a real problem - and we disclose affiliate relationships clearly.
       </p>
     </aside>
   );

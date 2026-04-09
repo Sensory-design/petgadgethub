@@ -63,7 +63,7 @@ export default function PrivacyPage() {
         <p className="mt-4 leading-relaxed text-[var(--color-ink)]">
           When you browse this site, our hosting provider (for example Vercel) may process technical
           data such as IP address, user agent, and request logs for security and reliability. We do
-          not use this site to collect names, postal addresses, or payment details — purchases happen
+          not use this site to collect names, postal addresses, or payment details - purchases happen
           on Amazon’s checkout, under Amazon’s terms and privacy notice.
         </p>
       </section>

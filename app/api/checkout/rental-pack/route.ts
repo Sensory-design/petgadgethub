@@ -2,15 +2,16 @@ import { NextResponse } from "next/server";
 
 import Stripe from "stripe";
 
+import { getSiteOrigin } from "@/lib/siteUrl";
+
 /**
- * POST — creates a Stripe Checkout Session for the Premium Rental Pack (£2.99).
+ * POST - creates a Stripe Checkout Session for the Premium Rental Pack (£2.99).
  * Set STRIPE_SECRET_KEY and STRIPE_PRICE_RENTAL_PACK in the environment.
  */
 export async function POST() {
   const secret = process.env.STRIPE_SECRET_KEY;
   const priceId = process.env.STRIPE_PRICE_RENTAL_PACK;
-  const site = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
-  const base = site.replace(/\/$/, "");
+  const base = getSiteOrigin().replace(/\/$/, "");
 
   if (!secret || !priceId) {
     return NextResponse.json(

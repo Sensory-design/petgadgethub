@@ -41,7 +41,7 @@ export default function AboutPage() {
       <p className="mt-4 leading-relaxed text-[var(--color-ink)]">
         Prices change. Stock changes. When we cannot reliably sync live data, we hide price displays
         and point you to Amazon for current details. That keeps the site honest and avoids showing
-        stale numbers beside a “buy” button.
+        stale numbers beside a buy button.
       </p>
 
       <h2 className="mt-12 font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]">

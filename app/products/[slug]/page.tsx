@@ -86,7 +86,7 @@ export default async function ProductPage({ params }: Props) {
 
       <div className="mt-12 rounded-2xl border border-[var(--color-border)] bg-white p-6 shadow-sm">
         <p className="text-sm text-[var(--color-muted)]">
-          Ready to compare sellers, shipping options, and today’s price on Amazon?
+          Ready to compare sellers, shipping options, and the current price on Amazon?
         </p>
         <AffiliateLink
           href={href}
