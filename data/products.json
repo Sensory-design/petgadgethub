@@ -10,6 +10,9 @@
       "solution": "A circulating fountain keeps water interesting and fresh. Stainless steel is also easier to clean thoroughly than plastic, which matters if you want to avoid that faint old-bowl smell.",
       "honestNote": "You will still need to clean it on a schedule. No fountain replaces basic maintenance.",
       "category": "Hydration",
+      "whyWePicked": "Strong stainless bowl, quiet pump, and thousands of owners reporting cats that finally drink more.",
+      "rating": 4.5,
+      "reviewCountApprox": 12000,
       "imageSrc": "https://images.unsplash.com/photo-1571131116858-2295ade82a72?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Cat drinking water from a ceramic bowl",
       "faq": [
@@ -31,6 +34,9 @@
       "problem": "Thin bags rip at the worst moment. The rest of the walk becomes memorable, and not in a good way.",
       "solution": "A dependable roll means you can focus on your dog, not your fingers. Biodegradable options are a small choice that adds up when you walk daily.",
       "category": "Daily walks",
+      "whyWePicked": "USDA biobased bulk rolls: fewer ripped bags per walk and a lower cost per bag than tiny packs.",
+      "rating": 4.7,
+      "reviewCountApprox": 8500,
       "imageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Person walking a Golden Retriever on a sunny street",
       "faq": [
@@ -53,6 +59,9 @@
       "solution": "A compact indoor camera with simple app setup lets you see what is happening at home. Useful for puppies, older pets, or anyone who just likes a quick reassurance.",
       "honestNote": "Night lighting and Wi-Fi strength vary by home; placement matters more than the brand name.",
       "category": "Home monitoring",
+      "whyWePicked": "Pan-tilt 2K picture, app setup most people finish in minutes, and Alexa or Google if you use voice at home.",
+      "rating": 4.4,
+      "reviewCountApprox": 25000,
       "imageSrc": "https://images.unsplash.com/photo-1565967093927-41cf31460afc?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Brown dog sitting alone on a leather sofa at home",
       "faq": [
@@ -74,6 +83,9 @@
       "problem": "Lint rollers run out fast on heavy shedders. Vacuums help, but upholstery still holds onto hair that seems magnetically attracted to guests' pants.",
       "solution": "A reusable roller can be surprisingly satisfying for fabric surfaces - quick passes before visitors arrive, without a pile of sticky sheets.",
       "category": "Grooming and home",
+      "whyWePicked": "No refills, works on sofas and car seats, and the review count speaks for itself.",
+      "rating": 4.5,
+      "reviewCountApprox": 200000,
       "imageSrc": "https://images.unsplash.com/photo-1546177747-80e61bda11cb?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Brown Maine Coon cat lounging on an ottoman",
       "faq": [
@@ -96,6 +108,9 @@
       "solution": "A programmable feeder with portion control dispenses at fixed times so your pet eats consistently whether you are home or not. Useful for cats prone to overeating and dogs on vet-recommended meal plans.",
       "honestNote": "These work best with dry kibble. Wet food or mixed diets need a different approach.",
       "category": "Feeding",
+      "whyWePicked": "Granary-style hopper, portion control, and dual power so a blip at the wall socket does not skip dinner.",
+      "rating": 4.4,
+      "reviewCountApprox": 15000,
       "imageSrc": "https://images.unsplash.com/photo-1767023028317-bbafd3157967?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Fluffy golden cat eating from a metal food bowl",
       "faq": [
@@ -118,12 +133,15 @@
       "solution": "A GPS tracker helps you get direction when seconds count. It is not a substitute for training and a secure leash - but it is a practical backup layer.",
       "honestNote": "Battery life and subscription terms depend on the plan you choose; read the details before you buy.",
       "category": "Safety",
+      "whyWePicked": "Live tracking and virtual fences are the features people actually use when a dog slips the lead.",
+      "rating": 4.2,
+      "reviewCountApprox": 10000,
       "imageSrc": "https://images.unsplash.com/photo-1771157552643-2ba2fae724fb?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Boxer dog running freely through a forest path",
       "faq": [
         {
           "q": "Does Tractive GPS require a monthly subscription?",
-          "a": "Yes. Tractive requires an active subscription for live tracking to work. Without it, the device does not transmit location data. Plans vary by country but typically start around PS5 per month in the UK and USD 5 in the US. Annual plans are cheaper per month."
+          "a": "Yes. Tractive requires an active subscription for live tracking to work. Without it, the device does not transmit location data. Plans vary by country but typically start around £5 per month in the UK and USD 5 in the US. Annual plans are cheaper per month."
         },
         {
           "q": "How accurate is a GPS dog tracker?",

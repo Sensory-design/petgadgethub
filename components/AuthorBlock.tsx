@@ -1,9 +1,9 @@
 const TEAM = [
   {
-    name: "Maya Chen",
-    role: "Editor, pet behaviour and safety",
-    bio: "Maya writes with one foot in veterinary clinics and one in living rooms - she cares about what actually happens when a product shows up at your door.",
-    initials: "MC",
+    name: "PetGadgetHub editorial",
+    role: "Independent guides, no paid placements",
+    bio: "We are a small team of pet owners who got tired of vague five-star reviews. We write the way we talk to friends: what broke, what helped, and what is not worth the hype.",
+    initials: "PG",
   },
 ] as const;
 

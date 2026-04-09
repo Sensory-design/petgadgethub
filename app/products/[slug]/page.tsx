@@ -2,9 +2,10 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 
-import { AffiliateLink } from "@/components/AffiliateLink";
+import { AmazonCta } from "@/components/AmazonCta";
 import { AuthorBlock } from "@/components/AuthorBlock";
 import { buildProductUrl } from "@/lib/buildAffiliateUrl";
+import { amazonSocialProofLine } from "@/lib/formatAmazonSocialProof";
 import { faqLd, productLd } from "@/lib/jsonLd";
 import { getProducts } from "@/lib/getProducts";
 import { getAffiliateRegion } from "@/lib/regionFromRequest";
@@ -44,6 +45,7 @@ export default async function ProductPage({ params }: Props) {
   if (!product) notFound();
 
   const href = buildProductUrl(product.asin, region);
+  const social = amazonSocialProofLine(product.rating, product.reviewCountApprox);
 
   return (
     <article className="mx-auto max-w-3xl px-4 py-12 sm:px-6 sm:py-16">
@@ -64,6 +66,12 @@ export default async function ProductPage({ params }: Props) {
         {product.title}
       </h1>
       <p className="mt-4 text-lg leading-relaxed text-[var(--color-muted)]">{product.tagline}</p>
+      {social && (
+        <p className="mt-2 text-sm text-[var(--color-brand-800)]">{social} (approx., from Amazon)</p>
+      )}
+      <p className="mt-3 text-sm font-medium text-[var(--color-ink)]">
+        Why we picked it: {product.whyWePicked}
+      </p>
       <p className="mt-2 text-sm text-[var(--color-muted)]">Page updated {updated}</p>
 
       <div className="relative mt-10 aspect-[16/10] overflow-hidden rounded-2xl border border-[var(--color-border)] bg-[var(--color-brand-50)]">
@@ -76,6 +84,13 @@ export default async function ProductPage({ params }: Props) {
           sizes="(max-width:768px) 100vw, 768px"
         />
       </div>
+
+      <AmazonCta
+        href={href}
+        isFallback={isFallback}
+        intro="Want the current price, shipping options, and full Amazon reviews? One click opens the listing."
+        className="mt-8"
+      />
 
       <section className="mt-12">
         <h2 className="font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]">
@@ -101,23 +116,12 @@ export default async function ProductPage({ params }: Props) {
         )}
       </section>
 
-      <div className="mt-12 rounded-2xl border border-[var(--color-border)] bg-white p-6 shadow-sm">
-        <p className="text-sm text-[var(--color-muted)]">
-          Ready to compare sellers, shipping options, and the current price on Amazon?
-        </p>
-        <AffiliateLink
-          href={href}
-          className="mt-4 w-full rounded-xl bg-[var(--color-brand-800)] px-4 py-3 text-center text-sm text-white hover:bg-[var(--color-brand-600)] sm:w-auto"
-        >
-          {isFallback ? "Check availability on Amazon" : "View on Amazon"}
-        </AffiliateLink>
-        {isFallback && (
-          <p className="mt-3 text-xs text-[var(--color-muted)]">
-            We are not displaying a live price on PetGadgetHub. What you pay is determined at
-            checkout on Amazon.
-          </p>
-        )}
-      </div>
+      <AmazonCta
+        href={href}
+        isFallback={isFallback}
+        intro="Ready to compare sellers, Prime eligibility, and the price today?"
+        className="mt-12"
+      />
 
       {product.faq && product.faq.length > 0 && (
         <section className="mt-14">
@@ -134,6 +138,13 @@ export default async function ProductPage({ params }: Props) {
           </dl>
         </section>
       )}
+
+      <AmazonCta
+        href={href}
+        isFallback={isFallback}
+        intro="Still deciding? The Amazon page shows live price, delivery date, and questions from recent buyers."
+        className="mt-14"
+      />
 
       <div className="mt-14">
         <AuthorBlock />

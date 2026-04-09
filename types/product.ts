@@ -11,6 +11,9 @@ export const productSchema = z.object({
   category: z.string().min(1),
   imageSrc: z.string().min(1),
   imageAlt: z.string().min(1),
+  whyWePicked: z.string().min(1),
+  rating: z.number().min(1).max(5).optional(),
+  reviewCountApprox: z.number().int().positive().optional(),
   faq: z
     .array(z.object({ q: z.string().min(1), a: z.string().min(1) }))
     .optional(),

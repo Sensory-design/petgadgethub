@@ -25,12 +25,14 @@ export default async function HomePage() {
           Pet tech, explained for humans
         </p>
         <h1 className="mt-3 font-[family-name:var(--font-display)] text-4xl font-semibold leading-tight tracking-tight text-[var(--color-ink)] sm:text-5xl">
-          Find gear that matches the messiness of real pet life.
+          Honest picks for the cat who ignores the water bowl, the dog who found a hole in the fence,
+          and the sofa that grew fur overnight.
         </h1>
         <p className="mt-6 text-lg leading-relaxed text-[var(--color-muted)]">
-          Most product pages shout features. We start with the awkward truth: the spilled water bowl,
-          the surprise escape, the sofa that mysteriously grew fur. Then we suggest something that
-          usually helps - with clear affiliate disclosures and no fake review voice.
+          You are not here for a spec sheet. You are here because something specific is going wrong
+          at home. Each guide names that problem first, then points to gear that usually helps. We
+          earn from Amazon affiliate links and say so up front - no fake review voice, no list of 47
+          random products.
         </p>
         <p className="mt-4 text-sm text-[var(--color-muted)]">
           Last updated {updated}.{" "}
@@ -41,17 +43,12 @@ export default async function HomePage() {
       </header>
 
       <section id="picks" className="mt-16 scroll-mt-24" aria-labelledby="picks-heading">
-        <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
-          <h2
-            id="picks-heading"
-            className="font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]"
-          >
-            Problem-solution matchups
-          </h2>
-          <p className="text-sm text-[var(--color-muted)]">
-            {region === "uk" ? "Links use our Amazon.co.uk tag." : "Links use our Amazon.com tag."}
-          </p>
-        </div>
+        <h2
+          id="picks-heading"
+          className="font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]"
+        >
+          What we are recommending right now
+        </h2>
         <div className="mt-10">
           <ProductGrid products={products} region={region} isFallback={isFallback} />
         </div>
@@ -62,9 +59,10 @@ export default async function HomePage() {
           Why this site exists
         </h2>
         <p className="mt-4 leading-relaxed text-[var(--color-ink)]">
-          Buying pet tech online is easy. Buying the right item on the first try is not. PetGadgetHub
-          is a small editorial project: fewer products, clearer context, and writing that sounds like
-          something you would tell a friend - not a catalogue.
+          PetGadgetHub exists because most review sites dump dozens of affiliate links and call it
+          research. Here you get one problem, one straight answer, and one clear link to Amazon when
+          you are ready. Affiliate income pays for hosting and time - it does not buy a spot on the
+          page. If we link to something, it is because we think it solves a real headache.
         </p>
       </section>
 

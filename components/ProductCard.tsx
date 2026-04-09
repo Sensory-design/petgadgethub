@@ -4,6 +4,7 @@ import Link from "next/link";
 import { AffiliateLink } from "@/components/AffiliateLink";
 import { buildProductUrl } from "@/lib/buildAffiliateUrl";
 import type { AffiliateRegion } from "@/lib/affiliateTag";
+import { amazonSocialProofLine } from "@/lib/formatAmazonSocialProof";
 import type { Product } from "@/types/product";
 
 type Props = {
@@ -14,6 +15,7 @@ type Props = {
 
 export function ProductCard({ product, region, isFallback }: Props) {
   const href = buildProductUrl(product.asin, region);
+  const social = amazonSocialProofLine(product.rating, product.reviewCountApprox);
 
   return (
     <article className="group flex h-full flex-col overflow-hidden rounded-2xl border border-[var(--color-border)] bg-white shadow-sm transition-shadow hover:shadow-md">
@@ -36,25 +38,22 @@ export function ProductCard({ product, region, isFallback }: Props) {
           </Link>
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-[var(--color-muted)]">{product.tagline}</p>
+        {social && (
+          <p className="mt-2 text-xs text-[var(--color-brand-700)]">{social}</p>
+        )}
+        <p className="mt-3 text-sm font-medium leading-snug text-[var(--color-ink)]">
+          Why we picked it: {product.whyWePicked}
+        </p>
         <p className="mt-4 line-clamp-3 text-sm leading-relaxed text-[var(--color-ink)]">
           {product.problem}
         </p>
         <div className="mt-auto pt-6">
-          {isFallback ? (
-            <AffiliateLink
-              href={href}
-              className="w-full rounded-xl bg-[var(--color-brand-800)] px-4 py-3 text-sm text-white hover:bg-[var(--color-brand-600)]"
-            >
-              Check availability on Amazon
-            </AffiliateLink>
-          ) : (
-            <AffiliateLink
-              href={href}
-              className="w-full rounded-xl bg-[var(--color-brand-800)] px-4 py-3 text-sm text-white hover:bg-[var(--color-brand-600)]"
-            >
-              View on Amazon
-            </AffiliateLink>
-          )}
+          <AffiliateLink
+            href={href}
+            className="w-full rounded-xl bg-[var(--color-brand-800)] px-4 py-3 text-sm text-white hover:bg-[var(--color-brand-600)]"
+          >
+            See it on Amazon &rarr;
+          </AffiliateLink>
           {isFallback && (
             <p className="mt-2 text-center text-xs text-[var(--color-muted)]">
               We do not show live prices here. What you pay depends on Amazon at checkout.
