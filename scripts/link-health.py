@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Weekly ASIN link check: GET Amazon PDPs for each ASIN in data/products.json.
-Amazon may return interstitials or bot checks — treat non-200 as "needs manual review".
+Amazon may return interstitials or bot checks ï¿½ treat non-200 as "needs manual review".
 Run: python scripts/link-health.py
 """
 

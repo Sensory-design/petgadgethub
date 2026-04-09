@@ -1,6 +1,6 @@
 /**
  * Suggest page titles/descriptions using a small "trending terms" list you maintain.
- * Does not call paid APIs — keeps costs at zero.
+ * Does not call paid APIs ï¿½ keeps costs at zero.
  *
  * Run: npm run metadata:update
  * Output: scripts/output/meta-suggestions.json
@@ -31,7 +31,7 @@ async function main() {
     const term = TRENDING_PET_TECH_TERMS[0];
     return {
       slug: p.slug,
-      suggestedTitle: `${p.title} — ${term} | PetGadgetHub`,
+      suggestedTitle: `${p.title} ï¿½ ${term} | PetGadgetHub`,
       suggestedDescription: `${p.tagline} ${term}.`,
     };
   });
