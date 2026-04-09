@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fifteen new product guides in [data/products.json](data/products.json) (**50 total**): PetSafe ScoopFree Ultra, iFetch launcher, Petcube Bites 2 Lite, Arlo Essential Indoor, KONG Extreme Large, Greenies Teenie, PetSafe Smart Feed Wi-Fi, oneisall grooming clippers, Outward Hound DayPak, Kurgo Tru-Fit, Chuckit Ultra Ball, Petmate Ultra Vari Kennel, Levoit Core 300, simplehuman pet food can, Wobble Wag Giggle Ball.
 
+### Fixed
+
+- Petmate Ultra Vari Kennel ASIN corrected to `B000R3J5L0` (36 in. listing).
+
 ### Changed
 
 - [public/llms.txt](public/llms.txt): 50 picks.

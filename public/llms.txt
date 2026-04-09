@@ -65,7 +65,7 @@ Product detail pages live at /products/{slug}. ASINs are in data/products.json.
 - Outward Hound DayPak backpack (daily walks, B003OQ4LZY)
 - Kurgo Tru-Fit harness (travel, B00C7N3XJK)
 - Chuckit Ultra Ball (daily walks, B00063KG84)
-- Petmate Ultra Vari Kennel (travel, B0002DH3QM)
+- Petmate Ultra Vari Kennel 36 in. (travel, B000R3J5L0)
 - Levoit Core 300 air purifier (home air, B07VVK39F7)
 - simplehuman X-Large pet food can (feeding, B00MG9Q68G)
 - Wobble Wag Giggle Ball (enrichment, B0040QH4QO)
