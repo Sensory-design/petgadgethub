@@ -1,5 +1,6 @@
 import { AuthorBlock } from "@/components/AuthorBlock";
 import { ProductGrid } from "@/components/ProductGrid";
+import { organizationLd, websiteLd } from "@/lib/jsonLd";
 import { getProducts } from "@/lib/getProducts";
 import { getAffiliateRegion } from "@/lib/regionFromRequest";
 
@@ -11,6 +12,14 @@ export default async function HomePage() {
 
   return (
     <div className="mx-auto max-w-6xl px-4 pb-20 pt-10 sm:px-6 sm:pt-14">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationLd()) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteLd()) }}
+      />
       <header className="max-w-3xl">
         <p className="text-sm font-semibold uppercase tracking-wide text-[var(--color-brand-600)]">
           Pet tech, explained for humans

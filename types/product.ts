@@ -11,6 +11,9 @@ export const productSchema = z.object({
   category: z.string().min(1),
   imageSrc: z.string().min(1),
   imageAlt: z.string().min(1),
+  faq: z
+    .array(z.object({ q: z.string().min(1), a: z.string().min(1) }))
+    .optional(),
 });
 
 export const productsFileSchema = z.object({

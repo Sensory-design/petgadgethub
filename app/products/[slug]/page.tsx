@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { AffiliateLink } from "@/components/AffiliateLink";
 import { AuthorBlock } from "@/components/AuthorBlock";
 import { buildProductUrl } from "@/lib/buildAffiliateUrl";
+import { faqLd, productLd } from "@/lib/jsonLd";
 import { getProducts } from "@/lib/getProducts";
 import { getAffiliateRegion } from "@/lib/regionFromRequest";
 
@@ -20,10 +21,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { products } = await getProducts();
   const product = products.find((p) => p.slug === slug);
   if (!product) return {};
+  const description = `${product.tagline} ${product.solution}`.slice(0, 160);
   return {
-    title: product.title,
-    description: product.tagline,
-    openGraph: { title: product.title, description: product.tagline },
+    title: `${product.title} - Is it worth it?`,
+    description,
+    openGraph: {
+      title: `${product.title} - PetGadgetHub`,
+      description,
+      images: [{ url: product.imageSrc, alt: product.imageAlt }],
+    },
+    twitter: { card: "summary_large_image", title: product.title, description },
   };
 }
 
@@ -40,6 +47,16 @@ export default async function ProductPage({ params }: Props) {
 
   return (
     <article className="mx-auto max-w-3xl px-4 py-12 sm:px-6 sm:py-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(productLd(product, region)) }}
+      />
+      {product.faq && product.faq.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd(product.faq)) }}
+        />
+      )}
       <p className="text-sm font-semibold uppercase tracking-wide text-[var(--color-brand-600)]">
         {product.category}
       </p>
@@ -101,6 +118,22 @@ export default async function ProductPage({ params }: Props) {
           </p>
         )}
       </div>
+
+      {product.faq && product.faq.length > 0 && (
+        <section className="mt-14">
+          <h2 className="font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]">
+            Common questions
+          </h2>
+          <dl className="mt-6 divide-y divide-[var(--color-border)]">
+            {product.faq.map(({ q, a }) => (
+              <div key={q} className="py-5">
+                <dt className="font-semibold text-[var(--color-ink)]">{q}</dt>
+                <dd className="mt-2 leading-relaxed text-[var(--color-muted)]">{a}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+      )}
 
       <div className="mt-14">
         <AuthorBlock />

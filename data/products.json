@@ -11,7 +11,17 @@
       "honestNote": "You will still need to clean it on a schedule. No fountain replaces basic maintenance.",
       "category": "Hydration",
       "imageSrc": "https://images.unsplash.com/photo-1571131116858-2295ade82a72?w=800&q=80&auto=format&fit=crop",
-      "imageAlt": "Cat drinking water from a ceramic bowl"
+      "imageAlt": "Cat drinking water from a ceramic bowl",
+      "faq": [
+        {
+          "q": "Do cats drink more water from a fountain than a bowl?",
+          "a": "Many cats do. Moving water triggers the same instinct that leads cats to drink from running taps. A fountain will not fix every cat, but it is one of the most consistently effective nudges for dry-food eaters."
+        },
+        {
+          "q": "Is stainless steel safer than plastic for a pet water fountain?",
+          "a": "Yes, for most cats. Plastic can develop micro-scratches that harbour bacteria and the material can leach BPA over time. Stainless steel is non-porous, holds temperature better, and is easier to sterilise in a dishwasher."
+        }
+      ]
     },
     {
       "slug": "pet-n-pet-biodegradable-bags",
@@ -22,7 +32,17 @@
       "solution": "A dependable roll means you can focus on your dog, not your fingers. Biodegradable options are a small choice that adds up when you walk daily.",
       "category": "Daily walks",
       "imageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
-      "imageAlt": "Person walking a Golden Retriever on a sunny street"
+      "imageAlt": "Person walking a Golden Retriever on a sunny street",
+      "faq": [
+        {
+          "q": "Are biodegradable dog poop bags actually better for the environment?",
+          "a": "They decompose significantly faster in industrial composting conditions. Most still end up in landfill where decomposition is much slower, but they produce less microplastic than conventional bags and are a net improvement for dogs walked daily over years."
+        },
+        {
+          "q": "How many dog waste bags do I need per week?",
+          "a": "Most dogs go two to four times per day. Budget two bags per walk as a safe rule. An average active dog will use 20 to 30 bags per week, so buying in bulk rolls is almost always cheaper per bag."
+        }
+      ]
     },
     {
       "slug": "kasa-smart-pet-cam",
@@ -34,7 +54,17 @@
       "honestNote": "Night lighting and Wi-Fi strength vary by home; placement matters more than the brand name.",
       "category": "Home monitoring",
       "imageSrc": "https://images.unsplash.com/photo-1565967093927-41cf31460afc?w=800&q=80&auto=format&fit=crop",
-      "imageAlt": "Brown dog sitting alone on a leather sofa at home"
+      "imageAlt": "Brown dog sitting alone on a leather sofa at home",
+      "faq": [
+        {
+          "q": "Does the Kasa pet camera require a subscription?",
+          "a": "Basic live view is free with a Kasa account. Cloud recording and extended clip history require a paid Kasa Care plan. Many owners use live view only and find it sufficient for day-to-day check-ins."
+        },
+        {
+          "q": "Can a smart pet camera work without strong Wi-Fi?",
+          "a": "No, a stable Wi-Fi connection is essential. Most cameras need at least a 2 Mbps upload speed and perform best within 10 metres of your router. A Wi-Fi extender in a dead-zone room often solves placement issues."
+        }
+      ]
     },
     {
       "slug": "chomchom-roller",
@@ -45,7 +75,17 @@
       "solution": "A reusable roller can be surprisingly satisfying for fabric surfaces - quick passes before visitors arrive, without a pile of sticky sheets.",
       "category": "Grooming and home",
       "imageSrc": "https://images.unsplash.com/photo-1546177747-80e61bda11cb?w=800&q=80&auto=format&fit=crop",
-      "imageAlt": "Brown Maine Coon cat lounging on an ottoman"
+      "imageAlt": "Brown Maine Coon cat lounging on an ottoman",
+      "faq": [
+        {
+          "q": "Does the ChomChom roller work on car seats and stairs?",
+          "a": "Yes. The bidirectional rolling motion works well on upholstered car seats, stairs carpet, and most sofa fabrics. It is less effective on smooth leather or hard surfaces where hair can simply be wiped off."
+        },
+        {
+          "q": "How do I clean a ChomChom pet hair roller?",
+          "a": "Press the release button on the end chamber and the collected hair compacts into a clump you can lift out. Empty it after each session. The roller itself needs no adhesive refills and lasts for years with this basic maintenance."
+        }
+      ]
     },
     {
       "slug": "petlibro-automatic-feeder",
@@ -57,7 +97,17 @@
       "honestNote": "These work best with dry kibble. Wet food or mixed diets need a different approach.",
       "category": "Feeding",
       "imageSrc": "https://images.unsplash.com/photo-1767023028317-bbafd3157967?w=800&q=80&auto=format&fit=crop",
-      "imageAlt": "Fluffy golden cat eating from a metal food bowl"
+      "imageAlt": "Fluffy golden cat eating from a metal food bowl",
+      "faq": [
+        {
+          "q": "Can an automatic pet feeder replace manual feeding entirely?",
+          "a": "For dry-food schedules, yes in a practical sense. It handles consistent timing and portion control reliably. It cannot handle wet food safely over several hours, notice signs of illness, or replace the bonding that comes with feeding time. Think of it as a backup and consistency tool, not a complete replacement."
+        },
+        {
+          "q": "What kibble size works in an automatic pet feeder?",
+          "a": "Most feeders handle standard dry kibble up to about 1.5 cm in diameter. Very large breed kibble and irregularly shaped treats can jam the dispensing chute. Check the manufacturer specs against your specific food before buying."
+        }
+      ]
     },
     {
       "slug": "tractive-gps-dog-6",
@@ -69,7 +119,17 @@
       "honestNote": "Battery life and subscription terms depend on the plan you choose; read the details before you buy.",
       "category": "Safety",
       "imageSrc": "https://images.unsplash.com/photo-1771157552643-2ba2fae724fb?w=800&q=80&auto=format&fit=crop",
-      "imageAlt": "Boxer dog running freely through a forest path"
+      "imageAlt": "Boxer dog running freely through a forest path",
+      "faq": [
+        {
+          "q": "Does Tractive GPS require a monthly subscription?",
+          "a": "Yes. Tractive requires an active subscription for live tracking to work. Without it, the device does not transmit location data. Plans vary by country but typically start around PS5 per month in the UK and USD 5 in the US. Annual plans are cheaper per month."
+        },
+        {
+          "q": "How accurate is a GPS dog tracker?",
+          "a": "Consumer GPS trackers like Tractive are typically accurate to within 5 to 10 metres outdoors in open areas. Accuracy reduces in dense urban environments and near tall buildings. They are not reliable indoors. For most lost-dog scenarios, that level of accuracy is more than sufficient to narrow down a search area."
+        }
+      ]
     }
   ]
 }

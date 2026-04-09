@@ -1,0 +1,35 @@
+# PetGadgetHub
+
+> Problem-first guides to pet technology for real pet owners. Independent editorial. Transparent Amazon affiliate disclosures on every page.
+
+## What this site is
+
+PetGadgetHub is a small, editorially independent affiliate review site focused on practical pet gadgets: water fountains, GPS trackers, smart cameras, automatic feeders, and everyday walk gear. Every recommendation starts with a real problem, not a product spec sheet.
+
+## Editorial approach
+
+- We describe the problem before mentioning any product.
+- We include an honest note on each product page where limitations matter.
+- Prices are not displayed on product cards because they change. We link directly to Amazon for live pricing.
+- All outbound product links are Amazon affiliate links (tags: petgadgethu06-20 for US/CA, petgadgethub9-21 for UK). This is disclosed in a sticky banner on every page.
+
+## Products currently covered
+
+- Petlibro Stainless Steel Pet Fountain (hydration, ASIN B09ZXS6D4Y)
+- Pet N Pet Biodegradable Poop Bags (daily walks, ASIN B01H3Y9M96)
+- Kasa Smart Pet Camera (home monitoring, ASIN B08GS1D684)
+- ChomChom Pet Hair Remover (grooming and home, ASIN B00BAGTNAQ)
+- Petlibro Automatic Cat and Dog Feeder (feeding, ASIN B09GCMJXDB)
+- Tractive GPS Dog Tracker (safety, ASIN B0B88XG7V4)
+
+## Key pages
+
+- /: Homepage with product grid
+- /products/{slug}: Individual product guide with problem, solution, honest note, and FAQs
+- /about: Editorial mission and affiliate disclosure details
+- /privacy: Privacy policy (contact: petgadgethub@protonmail.com)
+- /tools/rental-resume: Free UK pet rental resume generator (Renters Rights Act 2025)
+
+## Contact
+
+petgadgethub@protonmail.com
