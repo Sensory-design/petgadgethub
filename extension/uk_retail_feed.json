@@ -1,0 +1,13 @@
+{
+  "updated": "2026-04-09",
+  "entries": [
+    {
+      "skuHint": "EXAMPLE-REPLACE-ME",
+      "amazonTitleKeywords": ["example", "pet food"],
+      "retailer": "Jollyes",
+      "dealUrl": "https://example.com/replace-with-real-deeplink",
+      "priceGbp": 0,
+      "notes": "All outbound deal links must use rel=\"sponsored nofollow\" in the extension UI."
+    }
+  ]
+}
