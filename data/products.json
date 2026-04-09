@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09",
+  "updated": "2026-04-10",
   "products": [
     {
       "slug": "petlibro-stainless-fountain",
@@ -1256,6 +1256,546 @@
         {
           "q": "Flushable?",
           "a": "Do not flush pet wipes - bin them unless the exact SKU says sewer-safe in your region."
+        }
+      ]
+    },
+    {
+      "slug": "petsafe-scoopfree-ultra-litter-box",
+      "asin": "B016PXH9R2",
+      "title": "PetSafe ScoopFree Ultra Self-Cleaning Litter Box (Covered)",
+      "tagline": "Hands-off scooping when crystal trays fit your routine.",
+      "problem": "Manual litter boxes mean daily scooping and odour that hits you the moment you open the door.",
+      "solution": "A covered automatic rake system moves waste into a closed compartment while crystal litter absorbs moisture on a timer you set.",
+      "honestNote": "Ongoing tray refills are a real cost - budget before you commit.",
+      "category": "Hygiene",
+      "whyWePicked": "PetSafe owns this category name; covered Ultra reduces tracking versus open trays.",
+      "rating": 4.2,
+      "reviewCountApprox": 5500,
+      "score": 8,
+      "pros": [
+        "Less daily scooping than a traditional box",
+        "Covered option cuts litter scatter",
+        "Timer-based rake fits predictable schedules"
+      ],
+      "cons": [
+        "Disposable trays add running cost",
+        "Some cats reject covered or automatic boxes"
+      ],
+      "verdict": "Worth it when your cat accepts crystals and you can fund tray refills long term.",
+      "imageSrc": "https://images.unsplash.com/photo-1513245543132-31f507938bfc?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Cat resting indoors near home",
+      "faq": [
+        {
+          "q": "Can I use clumping litter in ScoopFree Ultra?",
+          "a": "This Ultra model is designed for crystal litter in disposable trays. Clumping versions use a different ScoopFree line - check the exact SKU."
+        },
+        {
+          "q": "Will my cat use an automatic box?",
+          "a": "Introduce slowly with the motor off, then short cycles. Anxious cats may need weeks."
+        }
+      ]
+    },
+    {
+      "slug": "ifetch-automatic-ball-launcher",
+      "asin": "B0084ZF7W4",
+      "title": "iFetch Automatic Ball Launcher (Small / Medium Dogs)",
+      "tagline": "Indoor-friendly fetch when your arm needs a break.",
+      "problem": "High-energy small dogs want dozens of throws; your shoulder has a lower daily quota.",
+      "solution": "A compact launcher throws mini tennis balls on a short arc so many flats and gardens stay playable.",
+      "honestNote": "Only use iFetch mini balls or approved sizes - standard tennis balls can jam.",
+      "category": "Enrichment",
+      "whyWePicked": "Category pioneer for indoor mini-ball fetch - still the name people compare against.",
+      "rating": 4.3,
+      "reviewCountApprox": 8500,
+      "score": 8,
+      "pros": [
+        "Adjustable distance for small spaces",
+        "Battery or mains power options on most models",
+        "Mental stimulation for ball-obsessed dogs"
+      ],
+      "cons": [
+        "Mini balls only - wrong size jams the chute",
+        "Noise may spook sound-sensitive dogs at first"
+      ],
+      "verdict": "Great for toy-driven dogs when you train the machine like any new appliance.",
+      "imageSrc": "https://images.unsplash.com/photo-1546527868-ccb7ee7dfa6a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog playing with a ball on grass",
+      "faq": [
+        {
+          "q": "Which balls fit iFetch?",
+          "a": "Use the manufacturer-sized mini balls. Standard tennis balls are too large for the Mini and can damage the feeder."
+        },
+        {
+          "q": "Is it safe indoors?",
+          "a": "Use the lowest distance setting and clear breakables; supervise until your dog ignores the machine casing."
+        }
+      ]
+    },
+    {
+      "slug": "petcube-bites-2-lite",
+      "asin": "B08XXKJGKH",
+      "title": "Petcube Bites 2 Lite (Treat Camera)",
+      "tagline": "Toss treats from your phone without a premium camera bill.",
+      "problem": "You want treat reinforcement from work, but flagship pet cams with dispensers price out many owners.",
+      "solution": "A 1080p wide-angle camera with fling-style treat delivery and two-way audio covers the basics guilt-free.",
+      "honestNote": "Subscription may apply for cloud history - confirm Petcube plans in your region.",
+      "category": "Home monitoring",
+      "whyWePicked": "Lower entry price than Furbo for treat toss plus a pet-first app.",
+      "rating": 4.1,
+      "reviewCountApprox": 3200,
+      "score": 8,
+      "pros": [
+        "Treat toss without flagship pricing",
+        "1080p and night vision baseline",
+        "Pet-tuned motion and sound alerts"
+      ],
+      "cons": [
+        "Treat jam if you use wrong kibble size",
+        "Cloud history often subscription-based"
+      ],
+      "verdict": "Solid mid-tier treat cam - match treat size to the hopper and read the plan terms.",
+      "imageSrc": "https://images.unsplash.com/photo-1587300008628-5960829a0d7a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog looking up indoors",
+      "faq": [
+        {
+          "q": "Petcube Bites vs Furbo?",
+          "a": "Both toss treats; pick on price, app reviews, and whether you already own a subscription ecosystem."
+        },
+        {
+          "q": "Cats?",
+          "a": "Works if your cat is treat-motivated; place the unit where paws cannot pull it over."
+        }
+      ]
+    },
+    {
+      "slug": "arlo-essential-indoor-camera",
+      "asin": "B08NCSHY4B",
+      "title": "Arlo Essential Indoor Camera",
+      "tagline": "Privacy shutter and crisp HD for crate and couch checks.",
+      "problem": "You want an indoor eye on pets without wondering if the lens is live when you walk past naked.",
+      "solution": "A compact indoor cam with a physical privacy shutter, 1080p, night vision, and app alerts when motion trips.",
+      "honestNote": "Full cloud history on Arlo usually needs a Secure plan - check current pricing.",
+      "category": "Home monitoring",
+      "whyWePicked": "Physical shutter is rare at the price - good for bedroom-adjacent pet corners.",
+      "rating": 4.2,
+      "reviewCountApprox": 14000,
+      "score": 8,
+      "pros": [
+        "Built-in privacy shutter",
+        "Clear 1080p and night vision",
+        "Arlo app ecosystem if you add outdoor later"
+      ],
+      "cons": [
+        "Subscription for extended cloud history",
+        "No treat toss - general security cam feature set"
+      ],
+      "verdict": "Strong indoor pick when privacy and brand ecosystem matter as much as pet alerts.",
+      "imageSrc": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Modern living room interior",
+      "faq": [
+        {
+          "q": "Does Arlo work without subscription?",
+          "a": "Live view often works; recorded history and smart detection typically need Arlo Secure in most regions."
+        },
+        {
+          "q": "Mounting?",
+          "a": "Shelf or wall mount; aim at crate or sofa - wide angle covers most flats in one camera."
+        }
+      ]
+    },
+    {
+      "slug": "kong-extreme-large-dog-toy",
+      "asin": "B0002AR0II",
+      "title": "KONG Extreme Dog Toy (Large, Black)",
+      "tagline": "Black rubber for jaws that destroy red KONGs.",
+      "problem": "Power chewers shred standard toys in minutes, then swallow pieces that vet visits love.",
+      "solution": "Extreme-line natural rubber is denser than Classic red - stuff, freeze, and supervise like any KONG.",
+      "honestNote": "Size to weight chart - undersized Extreme is still a choke risk.",
+      "category": "Enrichment",
+      "whyWePicked": "The standard escalation when Classic red does not survive first session.",
+      "rating": 4.7,
+      "reviewCountApprox": 32000,
+      "score": 9,
+      "pros": [
+        "More durable rubber than Classic for heavy chewers",
+        "Same stuff-and-freeze enrichment workflow",
+        "Huge review history for aggressive chewers"
+      ],
+      "cons": [
+        "Not indestructible - inspect and replace when chunks tear",
+        "Heavier than Classic - wrong size still dangerous"
+      ],
+      "verdict": "Right step up for power chewers already sized correctly on KONG.",
+      "imageSrc": "https://images.unsplash.com/photo-1546527868-ccb7ee7dfa6a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog with chew toy outdoors",
+      "faq": [
+        {
+          "q": "Extreme vs Classic?",
+          "a": "Extreme uses tougher rubber for stronger jaws. If Classic lasts weeks, you may not need Extreme."
+        },
+        {
+          "q": "Can I microwave it?",
+          "a": "Do not microwave rubber. Freeze stuffed KONGs in the freezer only."
+        }
+      ]
+    },
+    {
+      "slug": "greenies-teenie-dental-treats",
+      "asin": "B006W6Y29G",
+      "title": "Greenies Teenie Dental Dog Treats",
+      "tagline": "Daily teeth-friendly chews sized for small jaws.",
+      "problem": "Plaque builds fast on small breeds, but brushing daily is not realistic for every owner.",
+      "solution": "VOHC-accepted dental chews in tiny sizes let many dogs work tartar down during a daily ritual.",
+      "honestNote": "Count calories against meals - treats are not weight-loss tools.",
+      "category": "Health",
+      "whyWePicked": "Household name with size lines from Teenie to Large - easy vet conversations.",
+      "rating": 4.8,
+      "reviewCountApprox": 95000,
+      "score": 8,
+      "pros": [
+        "Size range for most breeds",
+        "Widely accepted VOHC dental chew",
+        "Easy daily habit versus brushing battles"
+      ],
+      "cons": [
+        "Not for dogs who gulp without chewing",
+        "Adds calories if meals are not adjusted"
+      ],
+      "verdict": "Reasonable default dental chew when you pick the right size and supervise gulpers.",
+      "imageSrc": "https://images.unsplash.com/photo-1530281700549-e82e7bf170d6?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Small dog portrait outdoors",
+      "faq": [
+        {
+          "q": "Greenies safe for puppies?",
+          "a": "Follow the age and weight on the pack; very young puppies may need softer options - ask your vet."
+        },
+        {
+          "q": "Do they replace brushing?",
+          "a": "They help; they do not replace professional dental care or brushing when your vet recommends it."
+        }
+      ]
+    },
+    {
+      "slug": "petsafe-smart-feed-wifi",
+      "asin": "B075WSMX5S",
+      "title": "PetSafe Smart Feed Wi-Fi Automatic Pet Feeder",
+      "tagline": "Adjust portions from your phone when plans change mid-day.",
+      "problem": "Basic timers cannot skip a meal when you are late or dispense a little extra after a vet call.",
+      "solution": "Wi-Fi scheduling lets you change meals from the app, with low-food alerts on many setups.",
+      "honestNote": "Dry kibble only - wet food needs a different product category.",
+      "category": "Feeding",
+      "whyWePicked": "PetSafe app ecosystem pairs well if you already use their doors or fountains.",
+      "rating": 4.3,
+      "reviewCountApprox": 11000,
+      "score": 8,
+      "pros": [
+        "Remote schedule changes from the app",
+        "Low-food notifications on supported firmware",
+        "Stainless bowl option on some SKUs"
+      ],
+      "cons": [
+        "Wi-Fi outages need a fallback plan",
+        "Jam risk with oversized kibble - check chute specs"
+      ],
+      "verdict": "Useful when your schedule shifts often - still dry-food only and Wi-Fi dependent.",
+      "imageSrc": "https://images.unsplash.com/photo-1767023028317-bbafd3157967?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Cat eating from a bowl",
+      "faq": [
+        {
+          "q": "Smart Feed vs Petlibro?",
+          "a": "Both schedule dry meals; pick on app reviews, hopper shape, and whether you want camera features elsewhere."
+        },
+        {
+          "q": "Multi-pet?",
+          "a": "One feeder is one diet - food-aggressive pets may need separate feeding zones."
+        }
+      ]
+    },
+    {
+      "slug": "oneisall-dog-grooming-clippers",
+      "asin": "B07D3K3Q3K",
+      "title": "oneisall Cordless Dog Grooming Clippers Kit",
+      "tagline": "Quiet cordless trims between pro grooms.",
+      "problem": "Salon gaps leave coats matted and hot spots hidden under fluff.",
+      "solution": "A cordless clipper kit with guide combs lets you maintain length at home between full grooms.",
+      "honestNote": "First home grooms look uneven - watch tutorials and go slow.",
+      "category": "Grooming and home",
+      "whyWePicked": "High Amazon volume for budget cordless kits - good backup when pros are booked out.",
+      "rating": 4.5,
+      "reviewCountApprox": 48000,
+      "score": 8,
+      "pros": [
+        "Cordless for awkward angles",
+        "Guide combs for length control",
+        "Often quieter than old mains clippers"
+      ],
+      "cons": [
+        "Blades need oiling and cooling breaks",
+        "Heavy mats need pro tools first"
+      ],
+      "verdict": "Practical maintenance clipper - not a show groom substitute on neglected coats.",
+      "imageSrc": "https://images.unsplash.com/photo-1583337130417-334622a0fd0d?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Grooming a fluffy dog",
+      "faq": [
+        {
+          "q": "Cats?",
+          "a": "Some owners use low-vibration clippers on cats; anxious cats may need a groomer - never force."
+        },
+        {
+          "q": "Blade care?",
+          "a": "Clean hair after each session, oil per manual, replace when they pull instead of cut."
+        }
+      ]
+    },
+    {
+      "slug": "outward-hound-daypak-backpack",
+      "asin": "B003OQ4LZY",
+      "title": "Outward Hound DayPak Dog Backpack",
+      "tagline": "Let your dog carry water on long walks without pulling sideways.",
+      "problem": "Your pockets are full; your dog still has energy to burn on weekend hikes.",
+      "solution": "A balanced saddlebag setup spreads light load on both sides so your dog works a little on trail.",
+      "honestNote": "Vet guidance says keep total pack weight under about 10 to 15 percent of body weight.",
+      "category": "Daily walks",
+      "whyWePicked": "Outward Hound dominates accessible dog packs - good first pack for day hikes.",
+      "rating": 4.4,
+      "reviewCountApprox": 9000,
+      "score": 8,
+      "pros": [
+        "Dual panniers balance load",
+        "Reflective trim on many colours",
+        "Affordable entry versus expedition brands"
+      ],
+      "cons": [
+        "Fit varies by breed - measure girth",
+        "Not for puppies with growing joints - ask your vet"
+      ],
+      "verdict": "Fun add-on for fit adult dogs when you keep loads light and balanced.",
+      "imageSrc": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Hiker with dog on a trail",
+      "faq": [
+        {
+          "q": "How much weight?",
+          "a": "Many trainers cite roughly 10 to 15 percent of body weight max including empty pack - confirm with your vet."
+        },
+        {
+          "q": "Puppy?",
+          "a": "Generally wait until growth plates close - your vet can advise by breed."
+        }
+      ]
+    },
+    {
+      "slug": "kurgo-tru-fit-crash-tested-harness",
+      "asin": "B00C7N3XJK",
+      "title": "Kurgo Tru-Fit Smart Harness (Car and Walking)",
+      "tagline": "Crash-tested line options for dogs that ride shotgun.",
+      "problem": "Loose dogs in cars become projectiles; ordinary harnesses were never tested for impact.",
+      "solution": "A padded harness with seat-belt loop and crash-tested variants (per size/SKU) bridges walks and road trips.",
+      "honestNote": "Verify the exact SKU includes the crash-tested hardware you need - Kurgo publishes size charts.",
+      "category": "Travel",
+      "whyWePicked": "Kurgo documents testing more clearly than no-name car harnesses.",
+      "rating": 4.4,
+      "reviewCountApprox": 7000,
+      "score": 8,
+      "pros": [
+        "Walk harness plus car restraint in one system",
+        "Padded chest plate on Tru-Fit line",
+        "Documented testing story versus mystery brands"
+      ],
+      "cons": [
+        "Fit is everything - wrong size fails in a crash",
+        "Some dogs need habituation to car tethering"
+      ],
+      "verdict": "Buy for the testing docs and fit session - not just the cheapest tether.",
+      "imageSrc": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog looking out of a car window",
+      "faq": [
+        {
+          "q": "Is every Tru-Fit crash tested?",
+          "a": "Kurgo offers tested and non-tested SKUs - read the box and listing for your size."
+        },
+        {
+          "q": "With airbags?",
+          "a": "Pets belong in the back seat - front airbags can injure restrained pets."
+        }
+      ]
+    },
+    {
+      "slug": "chuckit-ultra-ball",
+      "asin": "B00063KG84",
+      "title": "Chuckit! Ultra Ball (Medium, 2-Pack)",
+      "tagline": "Rubber core and bright cover - easier on teeth than felt tennis balls.",
+      "problem": "Abrasive tennis felt wears teeth; soggy balls pick up dirt on every retrieve.",
+      "solution": "Chuckit Ultra balls use a rubber core and durable outer surface sized to match Chuckit launchers.",
+      "honestNote": "Size to your launcher - medium ball for medium launcher.",
+      "category": "Daily walks",
+      "whyWePicked": "Default upgrade from free tennis balls for dogs that fetch daily.",
+      "rating": 4.8,
+      "reviewCountApprox": 85000,
+      "score": 9,
+      "pros": [
+        "Better durability than street tennis balls",
+        "High visibility colours",
+        "Pairs with Chuckit launcher cups"
+      ],
+      "cons": [
+        "Still not indestructible for dedicated chewers",
+        "Wrong size will not seat in the launcher"
+      ],
+      "verdict": "Cheap quality-of-life upgrade for fetch addicts - supervise heavy chewers.",
+      "imageSrc": "https://images.unsplash.com/photo-1587300008628-5960829a0d7a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog ready to play fetch",
+      "faq": [
+        {
+          "q": "Ultra vs tennis ball?",
+          "a": "Ultra uses rubber and synthetic outer - less abrasive felt wear on teeth over time."
+        },
+        {
+          "q": "Water?",
+          "a": "They float on many models - handy for beach dogs."
+        }
+      ]
+    },
+    {
+      "slug": "petmate-ultra-vari-kennel",
+      "asin": "B0002DH3QM",
+      "title": "Petmate Ultra Vari Kennel (Wire Door)",
+      "tagline": "ICA- and airline-familiar hard shell for travel and recovery.",
+      "problem": "Soft carriers crush in cargo; flimsy crates crack on first impact.",
+      "solution": "A vented plastic kennel with secure metal door fits many airline cargo specs when labelled correctly.",
+      "honestNote": "Always confirm current IATA and airline pet rules - they change.",
+      "category": "Travel",
+      "whyWePicked": "Petmate Vari is the airline cargo reference shape in many markets.",
+      "rating": 4.6,
+      "reviewCountApprox": 16000,
+      "score": 8,
+      "pros": [
+        "Rugged shell for cargo hold travel",
+        "Multiple sizes for breed fit",
+        "Ventilation pattern recognised worldwide"
+      ],
+      "cons": [
+        "Heavy to lug versus soft bags",
+        "Hardware kits for air travel are sometimes sold separately"
+      ],
+      "verdict": "Default hard crate path when soft-sided will not meet the airline rule set.",
+      "imageSrc": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Pet travel crate context",
+      "faq": [
+        {
+          "q": "Cabin or cargo?",
+          "a": "Most Vari sizes target cargo hold; cabin usually needs soft under-seat dimensions instead."
+        },
+        {
+          "q": "Bolts for flying?",
+          "a": "Many airlines require metal hardware around the shell - buy the airline kit if required."
+        }
+      ]
+    },
+    {
+      "slug": "levoit-core-300-air-purifier",
+      "asin": "B07VVK39F7",
+      "title": "Levoit Core 300 Air Purifier",
+      "tagline": "Cut dander and litter dust in small pet rooms.",
+      "problem": "Litter dust and dog dander hang in bedroom air - vacuums never catch the fine stuff.",
+      "solution": "A HEPA-class purifier sized for small rooms cycles air several times per hour on medium fan.",
+      "honestNote": "Not medical advice - severe allergies need allergist plans.",
+      "category": "Home air",
+      "whyWePicked": "Levoit Core 300 is the volume leader for affordable bedroom-sized HEPA units.",
+      "rating": 4.7,
+      "reviewCountApprox": 220000,
+      "score": 8,
+      "pros": [
+        "Compact footprint for flats",
+        "Huge owner base for filter hacks and noise notes",
+        "Quiet sleep mode on most units"
+      ],
+      "cons": [
+        "Filter replacements are an ongoing cost",
+        "One unit does not clean a whole house"
+      ],
+      "verdict": "Sensible add-on for litter-box rooms and dander-heavy bedrooms - size the room to the CADR.",
+      "imageSrc": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Bright airy room interior",
+      "faq": [
+        {
+          "q": "Pet-specific filter?",
+          "a": "Levoit sells pet-allergy filters on some models - optional upgrade if offered for your unit."
+        },
+        {
+          "q": "Where to place?",
+          "a": "Near litter box or dog bed with clearance around intake - not flush against walls."
+        }
+      ]
+    },
+    {
+      "slug": "simplehuman-pet-food-can",
+      "asin": "B00MG9Q68G",
+      "title": "simplehuman X-Large Pet Food Storage Can",
+      "tagline": "Airtight kibble storage that does not smell like the shed.",
+      "problem": "Paper food bags rip, attract ants, and dump kibble across the floor when a corner tears.",
+      "solution": "A sealed stainless bin with magnetic scoop mount keeps dry food fresh and pests out of the pantry.",
+      "honestNote": "Premium price - measure bag size against can volume before you buy.",
+      "category": "Feeding",
+      "whyWePicked": "simplehuman bins are the kitchen-grade option when aesthetics matter in open-plan homes.",
+      "rating": 4.7,
+      "reviewCountApprox": 6000,
+      "score": 8,
+      "pros": [
+        "Strong seal versus ants and smells",
+        "Stainless shell wipes clean",
+        "Scoop stores on lid on many models"
+      ],
+      "cons": [
+        "Cost versus plastic bins",
+        "Heavy when full - plan placement before filling"
+      ],
+      "verdict": "Buy once cry once for tidy kibble storage in visible kitchens.",
+      "imageSrc": "https://images.unsplash.com/photo-1601758228044-f3f2794d9a8b?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog near food area outdoors",
+      "faq": [
+        {
+          "q": "Which size?",
+          "a": "Match internal volume to your typical bag size plus a little headroom - charts are on the listing."
+        },
+        {
+          "q": "Wet food?",
+          "a": "This line targets dry kibble; wet food needs fridge storage instead."
+        }
+      ]
+    },
+    {
+      "slug": "wobble-wag-giggle-ball",
+      "asin": "B0040QH4QO",
+      "title": "Wobble Wag Giggle Ball",
+      "tagline": "No batteries - noise from internal tubes when it rolls.",
+      "problem": "Battery toys die mid-day; silent balls bore dogs that need auditory feedback.",
+      "solution": "A hollow ball with internal sound tubes giggles as it moves - good for indoor sound play at moderate volume.",
+      "honestNote": "Noise annoys noise-sensitive humans - use in daytime or shared walls with care.",
+      "category": "Enrichment",
+      "whyWePicked": "Oddball classic that still sells - unique sound without electronics.",
+      "rating": 4.3,
+      "reviewCountApprox": 18000,
+      "score": 7,
+      "pros": [
+        "No batteries or charging",
+        "Encourages chase without treat food",
+        "Durable enough for many medium chewers"
+      ],
+      "cons": [
+        "Loud on hard floors",
+        "Not for sound-phobic dogs or thin walls"
+      ],
+      "verdict": "Fun novelty for ball-driven dogs when your household tolerates the giggle.",
+      "imageSrc": "https://images.unsplash.com/photo-1546527868-ccb7ee7dfa6a?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog playing on grass",
+      "faq": [
+        {
+          "q": "Why does it giggle?",
+          "a": "Internal tubes move air as the ball rolls - no speaker, no app."
+        },
+        {
+          "q": "Size for large dogs?",
+          "a": "Buy the large variant if offered - small balls are choke risks for big jaws."
         }
       ]
     }

@@ -15,7 +15,7 @@ PetGadgetHub is a small, editorially independent affiliate review site focused o
 - Prices are not displayed on product cards because they change. We link directly to Amazon for live pricing.
 - All outbound product links are Amazon affiliate links (tags: petgadgethu06-20 for US/CA, petgadgethub9-21 for UK). This is disclosed in a sticky banner on every page.
 
-## Products currently covered (35 picks)
+## Products currently covered (50 picks)
 
 Product detail pages live at /products/{slug}. ASINs are in data/products.json.
 
@@ -54,6 +54,21 @@ Product detail pages live at /products/{slug}. ASINs are in data/products.json.
 - JW Hol-ee Roller Dog Toy (enrichment, B0002AR182)
 - Sherpa Original Deluxe Carrier (travel, B0002DHMV8)
 - Earth Rated Dog Wipes (grooming and home, B00MW8G62E)
+- PetSafe ScoopFree Ultra litter box (hygiene, B016PXH9R2)
+- iFetch automatic ball launcher (enrichment, B0084ZF7W4)
+- Petcube Bites 2 Lite (home monitoring, B08XXKJGKH)
+- Arlo Essential Indoor Camera (home monitoring, B08NCSHY4B)
+- KONG Extreme Large (enrichment, B0002AR0II)
+- Greenies Teenie dental treats (health, B006W6Y29G)
+- PetSafe Smart Feed Wi-Fi (feeding, B075WSMX5S)
+- oneisall grooming clippers kit (grooming and home, B07D3K3Q3K)
+- Outward Hound DayPak backpack (daily walks, B003OQ4LZY)
+- Kurgo Tru-Fit harness (travel, B00C7N3XJK)
+- Chuckit Ultra Ball (daily walks, B00063KG84)
+- Petmate Ultra Vari Kennel (travel, B0002DH3QM)
+- Levoit Core 300 air purifier (home air, B07VVK39F7)
+- simplehuman X-Large pet food can (feeding, B00MG9Q68G)
+- Wobble Wag Giggle Ball (enrichment, B0040QH4QO)
 
 ## Key pages
 
