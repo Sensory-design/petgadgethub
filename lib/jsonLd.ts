@@ -1,4 +1,5 @@
 import type { AffiliateRegion } from "@/lib/affiliateTag";
+import { buildProductUrl } from "@/lib/buildAffiliateUrl";
 import type { Product } from "@/types/product";
 import { getSiteOrigin } from "@/lib/siteUrl";
 
@@ -26,7 +27,6 @@ export function websiteLd() {
 
 export function productLd(product: Product, region: AffiliateRegion) {
   const base = getSiteOrigin();
-  const amazonHost = region === "uk" ? "amazon.co.uk" : "amazon.com";
   return {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -39,7 +39,7 @@ export function productLd(product: Product, region: AffiliateRegion) {
     offers: {
       "@type": "Offer",
       availability: "https://schema.org/InStock",
-      url: `https://www.${amazonHost}/dp/${product.asin}`,
+      url: buildProductUrl(product.asin, region),
       seller: { "@type": "Organization", name: "Amazon" },
       priceCurrency: region === "uk" ? "GBP" : "USD",
     },

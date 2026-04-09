@@ -15,12 +15,12 @@ PetGadgetHub is a small, editorially independent affiliate review site focused o
 
 ## Products currently covered
 
-- Petlibro Stainless Steel Pet Fountain (hydration, ASIN B09ZXS6D4Y)
-- Pet N Pet Biodegradable Poop Bags (daily walks, ASIN B01H3Y9M96)
-- Kasa Smart Pet Camera (home monitoring, ASIN B08GS1D684)
+- Petlibro Stainless Steel Pet Fountain (hydration, ASIN B09B2852X8)
+- Pet N Pet Plant-Based Poop Bags (daily walks, ASIN B07MBY2694)
+- Kasa Smart Indoor Camera KC410S (home monitoring, ASIN B08ZXJJTYJ)
 - ChomChom Pet Hair Remover (grooming and home, ASIN B00BAGTNAQ)
-- Petlibro Automatic Cat and Dog Feeder (feeding, ASIN B09GCMJXDB)
-- Tractive GPS Dog Tracker (safety, ASIN B0B88XG7V4)
+- Petlibro Automatic Cat and Dog Feeder (feeding, ASIN B098J4SKB9)
+- Tractive GPS Dog Tracker (safety, ASIN B099SF2X9L)
 
 ## Key pages
 
