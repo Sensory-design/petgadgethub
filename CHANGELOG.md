@@ -7,6 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- 4 new quizzes: **My dog is bored at home** (Enrichment), **Travelling with my pet** (Travel), **My pet needs feeding sorted** (Feeding), **Pet fur everywhere** (Grooming). Brings quiz coverage to 8 flows and 40+ products.
+
+### Changed
+
+- Homepage: **Not sure where to start?** quiz CTA moved directly below the hero (above Browse by category) for visibility.
+- All quiz disclaimers now end with "No data is stored." per content guide.
+- `dog-pulls-on-lead`: fixed small dog path that previously boosted only 1 product; now returns 3 options.
+- `llms.txt`: updated Quizzes section with all 8 quiz routes.
+
+## [1.0.4] - 2026-04-10
+
+### Added
+
+- [.cursor/rules/content.md](.cursor/rules/content.md): auto-loaded content style guide (voice, all product copy fields, guide/quiz standards, UK context, model selection).
+- [docs/CONTENT_GUIDE.md](docs/CONTENT_GUIDE.md): long-form human-readable content guide with annotated good/bad examples for every field.
+
+### Changed
+
+- [docs/HANDOVER.md](docs/HANDOVER.md): docs map now lists CONTENT_GUIDE.md.
+- [.cursor/rules/project.md](.cursor/rules/project.md): pointer to content rules file.
+
 ## [1.0.3] - 2026-04-10
 
 ### Added

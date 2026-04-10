@@ -7,7 +7,7 @@
       "category": "Hydration",
       "heroImageSrc": "https://images.unsplash.com/photo-1571131116858-2295ade82a72?w=800&q=80&auto=format&fit=crop",
       "heroImageAlt": "Cat drinking from a pet water fountain",
-      "disclaimer": "This quiz does not replace veterinary advice. If your cat has stopped drinking entirely, contact your vet.",
+      "disclaimer": "This quiz does not replace veterinary advice. If your cat has stopped drinking entirely, contact your vet. No data is stored.",
       "relatedGuideSlugs": ["cat-water-fountain-buying-guide"],
       "questions": [
         {
@@ -16,18 +16,18 @@
           "options": [
             {
               "id": "bowl",
-              "label": "A regular bowl",
+              "label": "A regular bowl — ignores it mostly",
               "boosts": ["petlibro-stainless-fountain", "catit-flower-fountain", "drinkwell-platinum-fountain"]
             },
             {
               "id": "tap",
-              "label": "Only the tap",
+              "label": "Only the tap — they wait for running water",
               "boosts": ["petlibro-stainless-fountain", "drinkwell-platinum-fountain"]
             },
             {
               "id": "nothing",
-              "label": "Almost nothing — I'm worried",
-              "boosts": ["petlibro-stainless-fountain"]
+              "label": "Almost nothing — I'm genuinely worried",
+              "boosts": ["petlibro-stainless-fountain", "drinkwell-platinum-fountain"]
             }
           ]
         },
@@ -37,17 +37,17 @@
           "options": [
             {
               "id": "easy-clean",
-              "label": "Easy to clean (stainless steel)",
+              "label": "Easy to clean — I want stainless, not plastic",
               "boosts": ["petlibro-stainless-fountain", "drinkwell-platinum-fountain"]
             },
             {
               "id": "budget",
-              "label": "Lowest price to try it out",
+              "label": "Lowest price to try it before committing",
               "boosts": ["catit-flower-fountain"]
             },
             {
               "id": "quiet",
-              "label": "Quiet pump — my cat scares easily",
+              "label": "Quiet pump — my cat startles easily",
               "boosts": ["petlibro-stainless-fountain", "catit-flower-fountain"]
             }
           ]
@@ -63,7 +63,7 @@
             },
             {
               "id": "multiple",
-              "label": "Two or more",
+              "label": "Two or more — needs decent capacity",
               "boosts": ["petlibro-stainless-fountain", "drinkwell-platinum-fountain"]
             }
           ]
@@ -77,7 +77,7 @@
       "category": "Home monitoring",
       "heroImageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
       "heroImageAlt": "Brown dog sitting alone on a leather sofa at home",
-      "disclaimer": "Camera recommendations depend on your home layout and Wi-Fi. This quiz gives a starting point, not a guarantee.",
+      "disclaimer": "Camera recommendations depend on your home layout and Wi-Fi setup. This quiz gives a starting point, not a guarantee. No data is stored.",
       "relatedGuideSlugs": ["best-pet-camera-small-flat"],
       "questions": [
         {
@@ -96,7 +96,7 @@
             },
             {
               "id": "both",
-              "label": "Both (or other)",
+              "label": "Both — or I'm not sure yet",
               "boosts": ["kasa-smart-pet-cam", "wyze-cam-v3-indoor-outdoor", "arlo-essential-indoor-camera"]
             }
           ]
@@ -107,7 +107,7 @@
           "options": [
             {
               "id": "small-flat",
-              "label": "Small flat or studio",
+              "label": "Small flat or studio — one main room to cover",
               "boosts": ["blink-mini-indoor-camera", "petcube-cam-wifi", "kasa-smart-pet-cam"]
             },
             {
@@ -119,16 +119,16 @@
         },
         {
           "id": "budget",
-          "text": "How do you feel about ongoing costs?",
+          "text": "How do you feel about ongoing subscription costs?",
           "options": [
             {
               "id": "cheap",
-              "label": "No subscriptions — as cheap as possible",
+              "label": "No subscriptions — as cheap as possible to run",
               "boosts": ["blink-mini-indoor-camera", "kasa-smart-pet-cam", "wyze-cam-v3-indoor-outdoor"]
             },
             {
               "id": "features",
-              "label": "Happy to pay for better features",
+              "label": "Happy to pay monthly for better features",
               "boosts": ["furbo-360-dog-camera", "petcube-bites-2-lite", "arlo-essential-indoor-camera"]
             }
           ]
@@ -142,7 +142,7 @@
       "category": "Training",
       "heroImageSrc": "https://images.pexels.com/photos/1485637/pexels-photo-1485637.jpeg?auto=compress&cs=tinysrgb&w=800",
       "heroImageAlt": "Person walking a large dog on a leash outdoors",
-      "disclaimer": "No harness or headcollar replaces training. These tools make walks manageable while you work on loose-lead skills.",
+      "disclaimer": "No harness or headcollar replaces training. These tools make walks more manageable while you work on loose-lead skills. No data is stored.",
       "relatedGuideSlugs": ["best-dog-harness-pulling-uk"],
       "questions": [
         {
@@ -152,12 +152,12 @@
             {
               "id": "small",
               "label": "Small (under 10 kg)",
-              "boosts": ["ruffwear-front-range-harness"]
+              "boosts": ["ruffwear-front-range-harness", "petsafe-gentle-leader-headcollar", "kurgo-tru-fit-crash-tested-harness"]
             },
             {
               "id": "medium",
               "label": "Medium (10–25 kg)",
-              "boosts": ["ruffwear-front-range-harness", "petsafe-gentle-leader-headcollar"]
+              "boosts": ["ruffwear-front-range-harness", "petsafe-gentle-leader-headcollar", "halti-optifit-headcollar"]
             },
             {
               "id": "large",
@@ -168,17 +168,22 @@
         },
         {
           "id": "harness-history",
-          "text": "Have you tried a harness before?",
+          "text": "Have you tried a harness or headcollar before?",
           "options": [
             {
               "id": "no",
-              "label": "No — first time looking",
-              "boosts": ["ruffwear-front-range-harness", "kurgo-tru-fit-crash-tested-harness"]
+              "label": "No — first time looking for a solution",
+              "boosts": ["ruffwear-front-range-harness", "kurgo-tru-fit-crash-tested-harness", "petsafe-gentle-leader-headcollar"]
             },
             {
               "id": "yes-still-pulls",
-              "label": "Yes, but my dog still pulls hard",
+              "label": "Yes — a harness didn't help, they still pull hard",
               "boosts": ["petsafe-gentle-leader-headcollar", "halti-optifit-headcollar"]
+            },
+            {
+              "id": "yes-car-too",
+              "label": "Yes — and I also need it to clip into the car",
+              "boosts": ["kurgo-tru-fit-crash-tested-harness", "ruffwear-front-range-harness"]
             }
           ]
         },
@@ -189,7 +194,7 @@
             {
               "id": "urban",
               "label": "Urban pavements and streets",
-              "boosts": ["petsafe-gentle-leader-headcollar", "ruffwear-front-range-harness"]
+              "boosts": ["petsafe-gentle-leader-headcollar", "halti-optifit-headcollar", "ruffwear-front-range-harness"]
             },
             {
               "id": "trails",
@@ -212,7 +217,7 @@
       "category": "Safety",
       "heroImageSrc": "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=800",
       "heroImageAlt": "Dog running freely through a forest path",
-      "disclaimer": "Trackers help you find a lost pet; they do not replace secure fencing, training, or a collar and ID tag. If your pet is missing, use your tracker and local lost-pet services — this quiz is not emergency advice.",
+      "disclaimer": "Trackers help you find a lost pet — they do not replace secure fencing, training, or an ID tag on the collar. If your pet is missing, use your tracker and local lost-pet services. This quiz is not emergency advice. No data is stored.",
       "relatedGuideSlugs": ["best-gps-dog-tracker-uk"],
       "questions": [
         {
@@ -247,7 +252,7 @@
             },
             {
               "id": "local",
-              "label": "Usually nearby — garden or same few streets",
+              "label": "Usually nearby — garden or a few streets",
               "boosts": ["tractive-gps-dog-6", "airtag-pet-collar-holder"]
             },
             {
@@ -263,7 +268,7 @@
           "options": [
             {
               "id": "ok-live-gps",
-              "label": "Fine if it means live GPS when I panic",
+              "label": "Fine — live GPS when I panic is worth it",
               "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker"]
             },
             {
@@ -275,6 +280,308 @@
               "id": "flexible",
               "label": "Whatever works best for my situation",
               "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker", "airtag-pet-collar-holder"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "my-dog-is-bored-at-home",
+      "title": "My dog is bored and destructive at home",
+      "subtitle": "3 quick questions to find the right toy or enrichment",
+      "category": "Enrichment",
+      "heroImageSrc": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80&auto=format&fit=crop",
+      "heroImageAlt": "Golden retriever dog playing with a ball in a garden",
+      "disclaimer": "Toys slow destruction — they do not replace exercise or training. If your dog is anxious or destructive, a vet or qualified behaviourist can help. No data is stored.",
+      "questions": [
+        {
+          "id": "play-style",
+          "text": "What does your dog actually do when bored?",
+          "options": [
+            {
+              "id": "chew",
+              "label": "Chews furniture, shoes, or anything left out",
+              "boosts": ["kong-classic-dog-toy", "kong-extreme-large-dog-toy", "jw-hol-ee-roller-dog-toy"]
+            },
+            {
+              "id": "fetch",
+              "label": "Brings you a ball and stares at you constantly",
+              "boosts": ["chuckit-sport-ball-launcher", "ifetch-automatic-ball-launcher", "wobble-wag-giggle-ball"]
+            },
+            {
+              "id": "pacing",
+              "label": "Paces, whines, or generally mopes around",
+              "boosts": ["outward-hound-dog-brick-puzzle", "kong-classic-dog-toy", "ifetch-automatic-ball-launcher"]
+            }
+          ]
+        },
+        {
+          "id": "supervision",
+          "text": "Do you need them to entertain themselves, or are you joining in?",
+          "options": [
+            {
+              "id": "solo",
+              "label": "Solo — I need them busy while I work",
+              "boosts": ["kong-classic-dog-toy", "ifetch-automatic-ball-launcher", "outward-hound-dog-brick-puzzle", "wobble-wag-giggle-ball"]
+            },
+            {
+              "id": "together",
+              "label": "Together — I want to play with them",
+              "boosts": ["chuckit-sport-ball-launcher", "jw-hol-ee-roller-dog-toy"]
+            },
+            {
+              "id": "mix",
+              "label": "Mix — sometimes solo, sometimes with me",
+              "boosts": ["kong-classic-dog-toy", "ifetch-automatic-ball-launcher", "chuckit-sport-ball-launcher"]
+            }
+          ]
+        },
+        {
+          "id": "dog-size",
+          "text": "How big is your dog?",
+          "options": [
+            {
+              "id": "small",
+              "label": "Small (under 10 kg)",
+              "boosts": ["jw-hol-ee-roller-dog-toy", "outward-hound-dog-brick-puzzle", "wobble-wag-giggle-ball", "kong-classic-dog-toy"]
+            },
+            {
+              "id": "medium",
+              "label": "Medium (10–25 kg)",
+              "boosts": ["kong-classic-dog-toy", "ifetch-automatic-ball-launcher", "chuckit-sport-ball-launcher", "outward-hound-dog-brick-puzzle"]
+            },
+            {
+              "id": "large",
+              "label": "Large or strong chewer (over 25 kg)",
+              "boosts": ["kong-extreme-large-dog-toy", "ifetch-automatic-ball-launcher", "chuckit-sport-ball-launcher"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "travelling-with-my-pet",
+      "title": "I'm travelling with my pet and need the right gear",
+      "subtitle": "3 quick questions to pack right",
+      "category": "Travel",
+      "heroImageSrc": "https://images.unsplash.com/photo-1534361960057-19f073c7f7b4?w=800&q=80&auto=format&fit=crop",
+      "heroImageAlt": "Dog looking out of a car window on a road trip",
+      "disclaimer": "Check airline or transport operator pet policies before you travel — carrier dimensions and weight limits vary. This quiz is a starting point. No data is stored.",
+      "questions": [
+        {
+          "id": "transport",
+          "text": "How are you travelling?",
+          "options": [
+            {
+              "id": "car",
+              "label": "By car — short or long journey",
+              "boosts": ["dog-car-seat-hammock-cover", "kurgo-tru-fit-crash-tested-harness", "petmate-ultra-vari-kennel", "bonza-collapsible-travel-bowl"]
+            },
+            {
+              "id": "plane-train",
+              "label": "By plane or train",
+              "boosts": ["petsfit-airline-pet-carrier", "sherpa-original-deluxe-carrier", "bonza-collapsible-travel-bowl"]
+            },
+            {
+              "id": "walking",
+              "label": "On foot — hiking, camping, day trips",
+              "boosts": ["outward-hound-daypak-backpack", "bonza-collapsible-travel-bowl", "kurgo-tru-fit-crash-tested-harness"]
+            }
+          ]
+        },
+        {
+          "id": "pet-type",
+          "text": "What kind of pet is travelling with you?",
+          "options": [
+            {
+              "id": "dog-large",
+              "label": "Dog — medium or large",
+              "boosts": ["dog-car-seat-hammock-cover", "kurgo-tru-fit-crash-tested-harness", "petmate-ultra-vari-kennel", "outward-hound-daypak-backpack"]
+            },
+            {
+              "id": "dog-small",
+              "label": "Dog — small (under 8 kg)",
+              "boosts": ["petsfit-airline-pet-carrier", "bonza-collapsible-travel-bowl", "outward-hound-daypak-backpack"]
+            },
+            {
+              "id": "cat",
+              "label": "A cat",
+              "boosts": ["sherpa-original-deluxe-carrier", "petmate-ultra-vari-kennel", "bonza-collapsible-travel-bowl"]
+            }
+          ]
+        },
+        {
+          "id": "main-concern",
+          "text": "What worries you most about this trip?",
+          "options": [
+            {
+              "id": "car-safety",
+              "label": "Keeping the car clean and them safely restrained",
+              "boosts": ["dog-car-seat-hammock-cover", "kurgo-tru-fit-crash-tested-harness"]
+            },
+            {
+              "id": "comfort",
+              "label": "Keeping them calm and comfortable in a carrier",
+              "boosts": ["sherpa-original-deluxe-carrier", "petsfit-airline-pet-carrier", "petmate-ultra-vari-kennel"]
+            },
+            {
+              "id": "packing-light",
+              "label": "Packing light without forgetting anything",
+              "boosts": ["outward-hound-daypak-backpack", "bonza-collapsible-travel-bowl"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "my-pet-needs-feeding-sorted",
+      "title": "I need to sort out my pet's feeding routine",
+      "subtitle": "3 quick questions to find the right feeder or bowl",
+      "category": "Feeding",
+      "heroImageSrc": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=800&q=80&auto=format&fit=crop",
+      "heroImageAlt": "Dog eating from a bowl on a kitchen floor",
+      "disclaimer": "Automatic feeders work best with dry kibble. Always confirm your kibble size fits the chute before buying. No data is stored.",
+      "relatedGuideSlugs": ["automatic-pet-feeder-buying-guide-uk"],
+      "questions": [
+        {
+          "id": "feeding-problem",
+          "text": "What is the main problem with feeding right now?",
+          "options": [
+            {
+              "id": "eats-fast",
+              "label": "They eat too fast — I worry about bloating",
+              "boosts": ["outward-hound-fun-feeder-slo-bowl"]
+            },
+            {
+              "id": "away-often",
+              "label": "I'm away a lot and want scheduled, automatic feeds",
+              "boosts": ["petlibro-automatic-feeder", "petsafe-smart-feed-wifi"]
+            },
+            {
+              "id": "food-storage",
+              "label": "I just need a smarter way to store dry food",
+              "boosts": ["simplehuman-pet-food-can", "petlibro-automatic-feeder"]
+            },
+            {
+              "id": "food-theft",
+              "label": "One pet steals the other's food",
+              "boosts": ["surefeed-microchip-pet-feeder"]
+            }
+          ]
+        },
+        {
+          "id": "pet-count",
+          "text": "How many pets are you feeding?",
+          "options": [
+            {
+              "id": "one",
+              "label": "Just one",
+              "boosts": ["petlibro-automatic-feeder", "outward-hound-fun-feeder-slo-bowl", "petsafe-smart-feed-wifi", "simplehuman-pet-food-can"]
+            },
+            {
+              "id": "multiple-squabble",
+              "label": "Two or more — and they fight over food",
+              "boosts": ["surefeed-microchip-pet-feeder", "petlibro-automatic-feeder"]
+            },
+            {
+              "id": "multiple-fine",
+              "label": "Two or more — they eat fine together",
+              "boosts": ["petlibro-automatic-feeder", "petsafe-smart-feed-wifi", "simplehuman-pet-food-can"]
+            }
+          ]
+        },
+        {
+          "id": "tech-level",
+          "text": "How much tech do you want involved?",
+          "options": [
+            {
+              "id": "smartphone",
+              "label": "Full smartphone control — I want to monitor from my phone",
+              "boosts": ["petsafe-smart-feed-wifi"]
+            },
+            {
+              "id": "basic-timer",
+              "label": "Basic digital timer is fine — no app needed",
+              "boosts": ["petlibro-automatic-feeder", "surefeed-microchip-pet-feeder"]
+            },
+            {
+              "id": "no-tech",
+              "label": "No electronics — just a physical solution",
+              "boosts": ["outward-hound-fun-feeder-slo-bowl", "simplehuman-pet-food-can"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pet-fur-everywhere",
+      "title": "My pet is leaving fur everywhere",
+      "subtitle": "3 quick questions to find the right grooming tool",
+      "category": "Grooming and home",
+      "heroImageSrc": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?w=800&q=80&auto=format&fit=crop",
+      "heroImageAlt": "Dog being brushed and groomed at home",
+      "disclaimer": "Grooming frequency depends on coat type and shedding season. If your pet's skin or coat looks unusually poor, speak to a vet before trying new grooming tools. No data is stored.",
+      "questions": [
+        {
+          "id": "fur-location",
+          "text": "Where is most of the problem showing up?",
+          "options": [
+            {
+              "id": "home",
+              "label": "On the furniture and my clothes — not on them",
+              "boosts": ["chomchom-roller", "bissell-pet-hair-eraser-handheld", "furminator-deshedding-tool-medium"]
+            },
+            {
+              "id": "pet",
+              "label": "On my pet — they look scruffy or matted",
+              "boosts": ["self-cleaning-slicker-brush", "furminator-deshedding-tool-medium", "oneisall-dog-grooming-clippers"]
+            },
+            {
+              "id": "both",
+              "label": "Both equally",
+              "boosts": ["furminator-deshedding-tool-medium", "chomchom-roller", "self-cleaning-slicker-brush"]
+            }
+          ]
+        },
+        {
+          "id": "pet-type",
+          "text": "What kind of pet is it?",
+          "options": [
+            {
+              "id": "short-hair-dog",
+              "label": "Short-haired dog — heavy shedder",
+              "boosts": ["furminator-deshedding-tool-medium", "earth-rated-dog-wipes", "chomchom-roller"]
+            },
+            {
+              "id": "long-hair-dog",
+              "label": "Long-haired dog — gets matted",
+              "boosts": ["self-cleaning-slicker-brush", "furminator-deshedding-tool-medium", "oneisall-dog-grooming-clippers"]
+            },
+            {
+              "id": "cat",
+              "label": "A cat",
+              "boosts": ["self-cleaning-slicker-brush", "furminator-deshedding-tool-medium", "chomchom-roller"]
+            }
+          ]
+        },
+        {
+          "id": "goal",
+          "text": "Are you mainly trying to clean the home or groom the pet?",
+          "options": [
+            {
+              "id": "clean-home",
+              "label": "Clean the home — sofa, car, clothes",
+              "boosts": ["chomchom-roller", "bissell-pet-hair-eraser-handheld"]
+            },
+            {
+              "id": "groom-pet",
+              "label": "Groom the pet properly at home",
+              "boosts": ["self-cleaning-slicker-brush", "oneisall-dog-grooming-clippers", "casfuy-dog-nail-grinder", "furminator-deshedding-tool-medium"]
+            },
+            {
+              "id": "both",
+              "label": "Both — reduce shedding at source and clean up",
+              "boosts": ["furminator-deshedding-tool-medium", "chomchom-roller", "self-cleaning-slicker-brush"]
             }
           ]
         }

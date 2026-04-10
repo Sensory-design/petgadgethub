@@ -58,7 +58,7 @@
 | Category blurbs | `data/categories.json` |
 | Long-form guides | `data/guides.json` + `types/guide.ts`; routes `/guides`, `/guides/[slug]`; optional `relatedQuizSlug` links to `/quiz/[slug]` |
 | Quizzes | `data/quizzes.json` + `types/quiz.ts`; routes `/quiz`, `/quiz/[slug]` (client-side scoring, no stored answers) |
-| Homepage | Featured picks + quiz CTA + **newest 3 guides** (`getGuides()` sorted by `publishedAt` desc) |
+| Homepage | Hero, then **quiz CTA** (above categories), category nav, featured picks, **newest 3 guides** (`getGuides()` sorted by `publishedAt` desc) |
 
 **Internal sales / tools:** `/internal/*` (gated if `INTERNAL_SECRET`), `/tools/rental-resume` (Stripe — see `.env.example`).
 
@@ -80,6 +80,7 @@
 
 | Doc | Use |
 |-----|-----|
+| [CONTENT_GUIDE.md](CONTENT_GUIDE.md) | Voice, copy standards, field-by-field guidance, model selection |
 | [DOMAIN.md](DOMAIN.md) | Custom domain, DNS, GSC notes, local DNS troubleshooting |
 | [PRODUCTION_CHECKLIST.md](PRODUCTION_CHECKLIST.md) | Vercel env, Search Console, Associates — dashboard checklist |
 | [CHANGELOG.md](../CHANGELOG.md) | Release history |

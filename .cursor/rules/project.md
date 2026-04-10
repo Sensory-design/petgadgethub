@@ -2,6 +2,8 @@
 
 **Full context for new sessions:** [docs/HANDOVER.md](../../docs/HANDOVER.md) (URLs, Vercel, Search Console, DNS, scripts).
 
+**Content & voice rules:** [.cursor/rules/content.md](content.md) — follow for all copy in products.json, guides.json, quizzes.json, and UI text.
+
 Human changelog and release notes: [CHANGELOG.md](../../CHANGELOG.md) (repo root).
 
 ## Product hub vs tools

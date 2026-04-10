@@ -89,6 +89,10 @@ Interactive "pet problem solver" quizzes live at /quiz/{slug}. Currently publish
 - /quiz/watch-pet-when-out
 - /quiz/dog-pulls-on-lead
 - /quiz/worried-dog-gets-lost
+- /quiz/my-dog-is-bored-at-home
+- /quiz/travelling-with-my-pet
+- /quiz/my-pet-needs-feeding-sorted
+- /quiz/pet-fur-everywhere
 
 ## Key pages
 
