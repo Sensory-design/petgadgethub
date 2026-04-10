@@ -1,6 +1,6 @@
 # Handover — PetGadgetHub (for new Cursor sessions)
 
-**Last updated:** 2026-04-11. Treat this as the **onboarding snapshot** for AI assistants and humans joining the project.
+**Last updated:** 2026-04-10. Treat this as the **onboarding snapshot** for AI assistants and humans joining the project.
 
 ---
 
@@ -56,8 +56,9 @@
 |------|----------|
 | Products (50) | `data/products.json` + `types/product.ts` (Zod) |
 | Category blurbs | `data/categories.json` |
-| Long-form guides | `data/guides.json` + `types/guide.ts`; routes `/guides`, `/guides/[slug]` |
-| Homepage | Featured picks + **newest 3 guides** (`getGuides()` sorted by `publishedAt` desc) |
+| Long-form guides | `data/guides.json` + `types/guide.ts`; routes `/guides`, `/guides/[slug]`; optional `relatedQuizSlug` links to `/quiz/[slug]` |
+| Quizzes | `data/quizzes.json` + `types/quiz.ts`; routes `/quiz`, `/quiz/[slug]` (client-side scoring, no stored answers) |
+| Homepage | Featured picks + quiz CTA + **newest 3 guides** (`getGuides()` sorted by `publishedAt` desc) |
 
 **Internal sales / tools:** `/internal/*` (gated if `INTERNAL_SECRET`), `/tools/rental-resume` (Stripe — see `.env.example`).
 
@@ -95,13 +96,14 @@
 
 ## Suggested next steps (product)
 
-1. Confirm **Search Console** shows submitted **`sitemap.xml`** as Success; wait for Performance data.
-2. **Associates** reports when traffic grows.
-3. Add guides / products via JSON; run **`npm run build`** before merge.
-4. Optional: **`amazonImageUrl`** on products + PA-API script when Associates/API access allows.
+1. **Ship quizzes to production:** push `main`, confirm Vercel deploy, then in **Search Console** use **URL Inspection** on `https://petgadgethub.co.uk/quiz` (optional) — the sitemap already includes `/quiz` and each `/quiz/{slug}`.
+2. Confirm **Search Console** shows submitted **`sitemap.xml`** as Success; wait for Performance data.
+3. **Associates** reports when traffic grows; watch whether quiz result pages drive more outbound clicks than browse-only paths.
+4. Add guides / products / new quiz flows via JSON; run **`npm run build`** before merge.
+5. Optional: **`amazonImageUrl`** on products + PA-API script when Associates/API access allows.
 
 ---
 
 ## Version
 
-See **`package.json`** `version` and **[CHANGELOG.md](../CHANGELOG.md)** — major recent work includes category hub, guides section, SEO (canonical, JSON-LD), DNS tooling, v0.9.0+ guides.
+See **`package.json`** `version` and **[CHANGELOG.md](../CHANGELOG.md)** — v1.0.x adds Pet Problem Solver quizzes (`/quiz`); earlier work includes category hub, guides, SEO (canonical, JSON-LD), DNS tooling.

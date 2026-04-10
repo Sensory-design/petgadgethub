@@ -14,6 +14,8 @@ export const guideSchema = z.object({
   heroImageSrc: z.string().min(1),
   heroImageAlt: z.string().min(1),
   readingTimeMinutes: z.number().int().positive(),
+  /** Optional slug in `data/quizzes.json` — links to `/quiz/[slug]` from the guide page. */
+  relatedQuizSlug: z.string().min(1).optional(),
   relatedProductSlugs: z.array(z.string()).optional(),
   faq: z
     .array(z.object({ q: z.string().min(1), a: z.string().min(1) }))

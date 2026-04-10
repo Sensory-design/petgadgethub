@@ -1,0 +1,284 @@
+{
+  "quizzes": [
+    {
+      "slug": "cat-not-drinking",
+      "title": "My cat won't drink enough",
+      "subtitle": "3 quick questions to find the right fountain",
+      "category": "Hydration",
+      "heroImageSrc": "https://images.unsplash.com/photo-1571131116858-2295ade82a72?w=800&q=80&auto=format&fit=crop",
+      "heroImageAlt": "Cat drinking from a pet water fountain",
+      "disclaimer": "This quiz does not replace veterinary advice. If your cat has stopped drinking entirely, contact your vet.",
+      "relatedGuideSlugs": ["cat-water-fountain-buying-guide"],
+      "questions": [
+        {
+          "id": "water-source",
+          "text": "What does your cat currently drink from?",
+          "options": [
+            {
+              "id": "bowl",
+              "label": "A regular bowl",
+              "boosts": ["petlibro-stainless-fountain", "catit-flower-fountain", "drinkwell-platinum-fountain"]
+            },
+            {
+              "id": "tap",
+              "label": "Only the tap",
+              "boosts": ["petlibro-stainless-fountain", "drinkwell-platinum-fountain"]
+            },
+            {
+              "id": "nothing",
+              "label": "Almost nothing — I'm worried",
+              "boosts": ["petlibro-stainless-fountain"]
+            }
+          ]
+        },
+        {
+          "id": "material",
+          "text": "What matters most to you in a fountain?",
+          "options": [
+            {
+              "id": "easy-clean",
+              "label": "Easy to clean (stainless steel)",
+              "boosts": ["petlibro-stainless-fountain", "drinkwell-platinum-fountain"]
+            },
+            {
+              "id": "budget",
+              "label": "Lowest price to try it out",
+              "boosts": ["catit-flower-fountain"]
+            },
+            {
+              "id": "quiet",
+              "label": "Quiet pump — my cat scares easily",
+              "boosts": ["petlibro-stainless-fountain", "catit-flower-fountain"]
+            }
+          ]
+        },
+        {
+          "id": "cat-count",
+          "text": "How many cats share this water source?",
+          "options": [
+            {
+              "id": "one",
+              "label": "Just one",
+              "boosts": ["catit-flower-fountain", "petlibro-stainless-fountain"]
+            },
+            {
+              "id": "multiple",
+              "label": "Two or more",
+              "boosts": ["petlibro-stainless-fountain", "drinkwell-platinum-fountain"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "watch-pet-when-out",
+      "title": "I want to watch my pet when I'm out",
+      "subtitle": "3 quick questions to find the right camera",
+      "category": "Home monitoring",
+      "heroImageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
+      "heroImageAlt": "Brown dog sitting alone on a leather sofa at home",
+      "disclaimer": "Camera recommendations depend on your home layout and Wi-Fi. This quiz gives a starting point, not a guarantee.",
+      "relatedGuideSlugs": ["best-pet-camera-small-flat"],
+      "questions": [
+        {
+          "id": "pet-type",
+          "text": "What kind of pet are you watching?",
+          "options": [
+            {
+              "id": "dog",
+              "label": "A dog",
+              "boosts": ["furbo-360-dog-camera", "kasa-smart-pet-cam", "petcube-bites-2-lite"]
+            },
+            {
+              "id": "cat",
+              "label": "A cat",
+              "boosts": ["blink-mini-indoor-camera", "kasa-smart-pet-cam", "petcube-cam-wifi"]
+            },
+            {
+              "id": "both",
+              "label": "Both (or other)",
+              "boosts": ["kasa-smart-pet-cam", "wyze-cam-v3-indoor-outdoor", "arlo-essential-indoor-camera"]
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "text": "What is your living space like?",
+          "options": [
+            {
+              "id": "small-flat",
+              "label": "Small flat or studio",
+              "boosts": ["blink-mini-indoor-camera", "petcube-cam-wifi", "kasa-smart-pet-cam"]
+            },
+            {
+              "id": "house",
+              "label": "House with multiple rooms",
+              "boosts": ["kasa-smart-pet-cam", "furbo-360-dog-camera", "arlo-essential-indoor-camera", "wyze-cam-v3-indoor-outdoor"]
+            }
+          ]
+        },
+        {
+          "id": "budget",
+          "text": "How do you feel about ongoing costs?",
+          "options": [
+            {
+              "id": "cheap",
+              "label": "No subscriptions — as cheap as possible",
+              "boosts": ["blink-mini-indoor-camera", "kasa-smart-pet-cam", "wyze-cam-v3-indoor-outdoor"]
+            },
+            {
+              "id": "features",
+              "label": "Happy to pay for better features",
+              "boosts": ["furbo-360-dog-camera", "petcube-bites-2-lite", "arlo-essential-indoor-camera"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "dog-pulls-on-lead",
+      "title": "My dog pulls on the lead",
+      "subtitle": "3 quick questions to find the right walking gear",
+      "category": "Training",
+      "heroImageSrc": "https://images.pexels.com/photos/1485637/pexels-photo-1485637.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "heroImageAlt": "Person walking a large dog on a leash outdoors",
+      "disclaimer": "No harness or headcollar replaces training. These tools make walks manageable while you work on loose-lead skills.",
+      "relatedGuideSlugs": ["best-dog-harness-pulling-uk"],
+      "questions": [
+        {
+          "id": "dog-size",
+          "text": "How big is your dog?",
+          "options": [
+            {
+              "id": "small",
+              "label": "Small (under 10 kg)",
+              "boosts": ["ruffwear-front-range-harness"]
+            },
+            {
+              "id": "medium",
+              "label": "Medium (10–25 kg)",
+              "boosts": ["ruffwear-front-range-harness", "petsafe-gentle-leader-headcollar"]
+            },
+            {
+              "id": "large",
+              "label": "Large or strong (over 25 kg)",
+              "boosts": ["petsafe-gentle-leader-headcollar", "halti-optifit-headcollar", "kurgo-tru-fit-crash-tested-harness"]
+            }
+          ]
+        },
+        {
+          "id": "harness-history",
+          "text": "Have you tried a harness before?",
+          "options": [
+            {
+              "id": "no",
+              "label": "No — first time looking",
+              "boosts": ["ruffwear-front-range-harness", "kurgo-tru-fit-crash-tested-harness"]
+            },
+            {
+              "id": "yes-still-pulls",
+              "label": "Yes, but my dog still pulls hard",
+              "boosts": ["petsafe-gentle-leader-headcollar", "halti-optifit-headcollar"]
+            }
+          ]
+        },
+        {
+          "id": "walk-environment",
+          "text": "Where do you usually walk?",
+          "options": [
+            {
+              "id": "urban",
+              "label": "Urban pavements and streets",
+              "boosts": ["petsafe-gentle-leader-headcollar", "ruffwear-front-range-harness"]
+            },
+            {
+              "id": "trails",
+              "label": "Parks, trails, and countryside",
+              "boosts": ["ruffwear-front-range-harness", "kurgo-tru-fit-crash-tested-harness"]
+            },
+            {
+              "id": "both",
+              "label": "A mix of both",
+              "boosts": ["ruffwear-front-range-harness", "petsafe-gentle-leader-headcollar", "halti-optifit-headcollar"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "worried-dog-gets-lost",
+      "title": "I'm worried my pet could get lost",
+      "subtitle": "3 quick questions to narrow down live GPS vs AirTag",
+      "category": "Safety",
+      "heroImageSrc": "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "heroImageAlt": "Dog running freely through a forest path",
+      "disclaimer": "Trackers help you find a lost pet; they do not replace secure fencing, training, or a collar and ID tag. If your pet is missing, use your tracker and local lost-pet services — this quiz is not emergency advice.",
+      "relatedGuideSlugs": ["best-gps-dog-tracker-uk"],
+      "questions": [
+        {
+          "id": "pet-type",
+          "text": "Who will wear the tracker?",
+          "options": [
+            {
+              "id": "dog-medium",
+              "label": "A dog (roughly over 4 kg)",
+              "boosts": ["tractive-gps-dog-6", "airtag-pet-collar-holder"]
+            },
+            {
+              "id": "cat-small",
+              "label": "A cat or a very small dog",
+              "boosts": ["tractive-gps-cat-tracker", "tractive-gps-dog-6"]
+            },
+            {
+              "id": "not-sure",
+              "label": "Not sure yet — I just want a starting point",
+              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker", "airtag-pet-collar-holder"]
+            }
+          ]
+        },
+        {
+          "id": "escape-risk",
+          "text": "If they bolt, what is the realistic worst case?",
+          "options": [
+            {
+              "id": "rural-miles",
+              "label": "Open country — they could be miles away",
+              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker"]
+            },
+            {
+              "id": "local",
+              "label": "Usually nearby — garden or same few streets",
+              "boosts": ["tractive-gps-dog-6", "airtag-pet-collar-holder"]
+            },
+            {
+              "id": "urban-iphone",
+              "label": "Dense city and I use an iPhone",
+              "boosts": ["airtag-pet-collar-holder", "tractive-gps-dog-6"]
+            }
+          ]
+        },
+        {
+          "id": "subscription",
+          "text": "How do you feel about a monthly subscription?",
+          "options": [
+            {
+              "id": "ok-live-gps",
+              "label": "Fine if it means live GPS when I panic",
+              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker"]
+            },
+            {
+              "id": "no-sub",
+              "label": "I want to avoid monthly fees if I can",
+              "boosts": ["airtag-pet-collar-holder"]
+            },
+            {
+              "id": "flexible",
+              "label": "Whatever works best for my situation",
+              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker", "airtag-pet-collar-holder"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

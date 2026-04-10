@@ -3,11 +3,16 @@ import type { MetadataRoute } from "next";
 import { slugFromCategory } from "@/lib/categorySlug";
 import { getProducts } from "@/lib/getProducts";
 import { getGuides } from "@/lib/getGuides";
+import { getQuizzes } from "@/lib/getQuizzes";
 import { getSiteOrigin } from "@/lib/siteUrl";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const base = getSiteOrigin().replace(/\/$/, "");
-  const [{ products }, guides] = await Promise.all([getProducts(), getGuides()]);
+  const [{ products }, guides, quizzes] = await Promise.all([
+    getProducts(),
+    getGuides(),
+    getQuizzes(),
+  ]);
 
   const categoryLabels = [...new Set(products.map((p) => p.category))];
 
@@ -26,6 +31,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.85,
+    },
+    {
+      url: `${base}/quiz`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
     },
     {
       url: `${base}/tools/rental-resume`,
@@ -56,5 +67,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.85,
   }));
 
-  return [...staticRoutes, ...categoryRoutes, ...productRoutes, ...guideRoutes];
+  const quizRoutes: MetadataRoute.Sitemap = quizzes.map((q) => ({
+    url: `${base}/quiz/${q.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
+
+  return [...staticRoutes, ...categoryRoutes, ...productRoutes, ...guideRoutes, ...quizRoutes];
 }

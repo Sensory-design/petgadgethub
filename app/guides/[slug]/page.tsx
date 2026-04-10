@@ -6,6 +6,7 @@ import { notFound } from "next/navigation";
 import { ProductCard } from "@/components/ProductCard";
 import { breadcrumbLd, faqLd } from "@/lib/jsonLd";
 import { getGuide, getGuides } from "@/lib/getGuides";
+import { getQuiz } from "@/lib/getQuizzes";
 import { getProducts } from "@/lib/getProducts";
 import { getSiteOrigin } from "@/lib/siteUrl";
 import { getAffiliateRegion } from "@/lib/regionFromRequest";
@@ -59,13 +60,14 @@ function articleLd(guide: { slug: string; title: string; summary: string; publis
 
 export default async function GuidePage({ params }: Props) {
   const { slug } = await params;
-  const [guide, { products, isFallback }, region] = await Promise.all([
-    getGuide(slug),
+  const guide = await getGuide(slug);
+  if (!guide) notFound();
+
+  const [relatedQuiz, { products, isFallback }, region] = await Promise.all([
+    guide.relatedQuizSlug ? getQuiz(guide.relatedQuizSlug) : Promise.resolve(null),
     getProducts(),
     getAffiliateRegion(),
   ]);
-
-  if (!guide) notFound();
 
   const relatedProducts = (guide.relatedProductSlugs ?? [])
     .map((s) => products.find((p) => p.slug === s))
@@ -122,6 +124,21 @@ export default async function GuidePage({ params }: Props) {
       <p className="mt-3 text-sm text-[var(--color-muted)]">
         {guide.readingTimeMinutes} min read &middot; Published {guide.publishedAt}
       </p>
+
+      {relatedQuiz && (
+        <aside className="mt-6 rounded-xl border border-[var(--color-brand-200)] bg-[var(--color-brand-50)] p-4 sm:p-5">
+          <p className="text-sm font-semibold text-[var(--color-ink)]">Matching quiz</p>
+          <p className="mt-1 text-sm leading-relaxed text-[var(--color-muted)]">
+            {relatedQuiz.subtitle} No sign-up; nothing is stored on our servers.
+          </p>
+          <Link
+            href={`/quiz/${relatedQuiz.slug}`}
+            className="mt-3 inline-flex items-center text-sm font-semibold text-[var(--color-brand-800)] hover:underline"
+          >
+            Take quiz: {relatedQuiz.title} &rarr;
+          </Link>
+        </aside>
+      )}
 
       <div className="relative mt-10 aspect-[16/10] overflow-hidden rounded-2xl border border-[var(--color-border)] bg-[var(--color-brand-50)]">
         <Image

@@ -72,7 +72,7 @@ Product detail pages live at /products/{slug}. ASINs are in data/products.json.
 
 ## Guides
 
-Long-form buying guides live at /guides/{slug}. Currently published:
+Long-form buying guides live at /guides/{slug}. Some guides include a "Matching quiz" link to a related /quiz/{slug} flow. Currently published:
 
 - /guides/best-gps-dog-tracker-uk
 - /guides/cat-water-fountain-buying-guide
@@ -81,11 +81,21 @@ Long-form buying guides live at /guides/{slug}. Currently published:
 - /guides/best-dog-harness-pulling-uk
 - /guides/pet-air-purifier-dander-uk
 
+## Quizzes
+
+Interactive "pet problem solver" quizzes live at /quiz/{slug}. Currently published:
+
+- /quiz/cat-not-drinking
+- /quiz/watch-pet-when-out
+- /quiz/dog-pulls-on-lead
+- /quiz/worried-dog-gets-lost
+
 ## Key pages
 
 - /: Homepage with featured product grid, category browse, and a teaser of recent guides
 - /products/{slug}: Individual product guide with ScoreBox (editorial score), problem, solution, honest note, and FAQs
 - /guides: Listing of long-form guides; /guides/{slug} for each article
+- /quiz: Pet problem solver quizzes — answer a few questions, get filtered product recommendations
 - /categories: Category hub — one card per category (not a flat list of all products)
 - /categories/{category}: Filtered picks for a single category (hydration, training, travel, etc.)
 - /about: Editorial mission and affiliate disclosure details

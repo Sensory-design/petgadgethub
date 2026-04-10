@@ -90,6 +90,24 @@ export default async function HomePage() {
         </p>
       </section>
 
+      <section className="mt-20 rounded-2xl border border-[var(--color-brand-200)] bg-[var(--color-brand-50)] p-8 sm:p-10">
+        <h2 className="font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]">
+          Not sure where to start?
+        </h2>
+        <p className="mt-3 text-[var(--color-muted)]">
+          Take a 30-second quiz and we&rsquo;ll point you to the right gear. No sign-up, no data
+          stored.
+        </p>
+        <p className="mt-5">
+          <Link
+            href="/quiz"
+            className="inline-flex items-center justify-center rounded-xl bg-[var(--color-brand-800)] px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-[var(--color-brand-600)]"
+          >
+            See all quizzes &rarr;
+          </Link>
+        </p>
+      </section>
+
       {guideTeaser.length > 0 && (
         <section className="mt-20" aria-labelledby="guides-teaser-heading">
           <h2

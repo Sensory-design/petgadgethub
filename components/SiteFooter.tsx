@@ -28,6 +28,11 @@ export function SiteFooter() {
                   All picks by category
                 </Link>
               </li>
+              <li>
+                <Link href="/quiz" className="hover:text-[var(--color-ink)]">
+                  Pet problem solver quizzes
+                </Link>
+              </li>
             </ul>
             <p className="mt-6 font-medium text-[var(--color-ink)]">Transparency</p>
             <ul className="mt-2 space-y-2 text-[var(--color-muted)]">

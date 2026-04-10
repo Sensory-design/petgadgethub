@@ -8,6 +8,7 @@ const nav: { href: string; label: string; hideOnMobile?: boolean }[] = [
   { href: "/#picks", label: "Our picks", hideOnMobile: true },
   { href: "/categories", label: "All picks" },
   { href: "/guides", label: "Guides" },
+  { href: "/quiz", label: "Quiz" },
   { href: "/about", label: "About" },
   { href: "/privacy", label: "Privacy", hideOnMobile: true },
 ];

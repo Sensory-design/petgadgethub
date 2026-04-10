@@ -9,6 +9,7 @@
       "heroImageSrc": "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=800",
       "heroImageAlt": "Boxer dog running freely through a forest path",
       "readingTimeMinutes": 6,
+      "relatedQuizSlug": "worried-dog-gets-lost",
       "relatedProductSlugs": ["tractive-gps-dog-6", "tractive-gps-cat-tracker", "airtag-pet-collar-holder"],
       "faq": [
         {
@@ -72,6 +73,7 @@
       "heroImageSrc": "https://images.unsplash.com/photo-1571131116858-2295ade82a72?w=800&q=80&auto=format&fit=crop",
       "heroImageAlt": "Cat drinking from a flowing pet water fountain",
       "readingTimeMinutes": 5,
+      "relatedQuizSlug": "cat-not-drinking",
       "relatedProductSlugs": ["petlibro-stainless-fountain", "catit-flower-fountain", "drinkwell-platinum-fountain"],
       "faq": [
         {
@@ -135,6 +137,7 @@
       "heroImageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
       "heroImageAlt": "Brown dog sitting alone on a leather sofa at home",
       "readingTimeMinutes": 5,
+      "relatedQuizSlug": "watch-pet-when-out",
       "relatedProductSlugs": ["kasa-smart-pet-cam", "blink-mini-indoor-camera", "petcube-cam-wifi", "furbo-360-dog-camera"],
       "faq": [
         {
@@ -261,6 +264,7 @@
       "heroImageSrc": "https://images.pexels.com/photos/1485637/pexels-photo-1485637.jpeg?auto=compress&cs=tinysrgb&w=800",
       "heroImageAlt": "Person walking a large dog on a leash outdoors",
       "readingTimeMinutes": 6,
+      "relatedQuizSlug": "dog-pulls-on-lead",
       "relatedProductSlugs": ["ruffwear-front-range-harness", "petsafe-gentle-leader-headcollar", "halti-optifit-headcollar"],
       "faq": [
         {

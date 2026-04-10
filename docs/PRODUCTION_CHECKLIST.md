@@ -26,7 +26,7 @@ Do these once `https://petgadgethub.co.uk` loads the Next.js site. Nothing here 
 
 1. [Search Console](https://search.google.com/search-console) → property **`https://petgadgethub.co.uk`** (URL prefix).
 2. **Sitemaps** → add: `https://petgadgethub.co.uk/sitemap.xml`
-3. Optional: **URL Inspection** → request indexing for `/` and `/guides` after big content updates.
+3. Optional: **URL Inspection** → request indexing for `/` and `/guides` after big content updates. After adding **quiz** routes, `/quiz` and individual `/quiz/{slug}` URLs are in **`sitemap.xml`**; re-fetch happens automatically, or inspect `/quiz` once to nudge discovery.
 
 ## 4. Amazon Associates
 

@@ -7,6 +7,50 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.3] - 2026-04-10
+
+### Added
+
+- New quiz **I'm worried my pet could get lost** at `/quiz/worried-dog-gets-lost` (Safety): live GPS vs AirTag, matched to [best-gps-dog-tracker-uk](data/guides.json) guide.
+- [data/guides.json](data/guides.json): `relatedQuizSlug` on **Best GPS Dog Tracker UK 2026** pointing to that quiz.
+
+## [1.0.2] - 2026-04-10
+
+### Added
+
+- [types/guide.ts](types/guide.ts): optional `relatedQuizSlug` field.
+- [data/guides.json](data/guides.json): linked three guides to matching quizzes (cat fountains, pet camera, dog harness).
+
+### Changed
+
+- [app/guides/[slug]/page.tsx](app/guides/[slug]/page.tsx): when `relatedQuizSlug` is set, show a **Matching quiz** callout with link to `/quiz/{slug}`.
+
+## [1.0.1] - 2026-04-10
+
+### Added
+
+- [components/SiteFooter.tsx](components/SiteFooter.tsx): Explore link to `/quiz` ("Pet problem solver quizzes").
+
+### Changed
+
+- [package.json](package.json): version **1.0.1** (aligns npm package with post-quiz release track).
+- [docs/HANDOVER.md](docs/HANDOVER.md): quizzes in content table, homepage line, suggested next steps (deploy + Search Console), version blurb.
+- [docs/PRODUCTION_CHECKLIST.md](docs/PRODUCTION_CHECKLIST.md): note on quiz URLs and sitemap after quiz feature.
+
+## [1.0.0] - 2026-04-10
+
+### Added
+
+- **Pet Problem Solver quizzes**: `/quiz` listing and `/quiz/[slug]` interactive flows with client-side scoring, product recommendations via `ProductCard`, and full SEO metadata.
+- Three seed quizzes: "My cat won't drink enough" (Hydration), "I want to watch my pet when I'm out" (Home monitoring), "My dog pulls on the lead" (Training).
+- [data/quizzes.json](data/quizzes.json), [types/quiz.ts](types/quiz.ts), [lib/getQuizzes.ts](lib/getQuizzes.ts): quiz data model with Zod validation.
+- [components/QuizFlow.tsx](components/QuizFlow.tsx): `"use client"` stepper with intro, question, and results screens.
+- [components/QuizCard.tsx](components/QuizCard.tsx): card component for quiz listing grid.
+- Homepage: "Not sure where to start?" quiz CTA section.
+- Nav: "Quiz" link in site header.
+- Sitemap: `/quiz` and per-quiz routes.
+- [public/llms.txt](public/llms.txt): quiz routes documented.
+
 ## [0.9.1] - 2026-04-11
 
 ### Added
