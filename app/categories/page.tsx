@@ -63,7 +63,7 @@ export default async function AllCategoriesPage() {
         <h1 className="font-[family-name:var(--font-display)] text-3xl font-semibold text-[var(--color-ink)] sm:text-4xl">
           Browse by category
         </h1>
-        <p className="mt-3 text-[var(--color-muted)]">
+        <p className="mt-3 text-lg leading-relaxed text-[var(--color-muted)]">
           {products.length} guides across {sortedLabels.length} categories. Last updated {updated}.
           Pick a category below to see all our picks with honest pros, cons, and Amazon links.
         </p>

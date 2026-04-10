@@ -20,7 +20,7 @@ export function GuideCard({ guide }: Props) {
           {guide.category}
         </span>
       </div>
-      <div className="flex flex-1 flex-col p-5">
+      <div className="flex flex-1 flex-col p-6">
         <p className="text-xs text-[var(--color-muted)]">
           {guide.readingTimeMinutes} min read &middot; {guide.publishedAt}
         </p>
@@ -33,7 +33,7 @@ export function GuideCard({ guide }: Props) {
         <div className="mt-auto pt-5">
           <Link
             href={`/guides/${guide.slug}`}
-            className="inline-flex items-center text-sm font-semibold text-[var(--color-brand-800)] hover:underline"
+            className="inline-flex w-full items-center justify-center rounded-xl bg-[var(--color-brand-800)] px-4 py-3 text-sm font-semibold text-white transition-colors hover:bg-[var(--color-brand-600)]"
           >
             Read the guide &rarr;
           </Link>

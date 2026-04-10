@@ -23,7 +23,7 @@ export function QuizCard({ quiz }: Props) {
           {quiz.questions.length} questions
         </span>
       </div>
-      <div className="flex flex-1 flex-col p-5">
+      <div className="flex flex-1 flex-col p-6">
         <h2 className="font-[family-name:var(--font-display)] text-xl font-semibold leading-snug text-[var(--color-ink)]">
           <Link href={`/quiz/${quiz.slug}`} className="hover:underline">
             {quiz.title}
@@ -35,7 +35,7 @@ export function QuizCard({ quiz }: Props) {
         <div className="mt-auto pt-5">
           <Link
             href={`/quiz/${quiz.slug}`}
-            className="inline-flex w-full items-center justify-center rounded-xl bg-[var(--color-brand-800)] px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[var(--color-brand-600)]"
+            className="inline-flex w-full items-center justify-center rounded-xl bg-[var(--color-brand-800)] px-4 py-3 text-sm font-semibold text-white transition-colors hover:bg-[var(--color-brand-600)]"
           >
             Take the quiz &rarr;
           </Link>

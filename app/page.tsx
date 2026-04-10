@@ -10,7 +10,7 @@ import { getGuides } from "@/lib/getGuides";
 import { getProducts } from "@/lib/getProducts";
 import { getAffiliateRegion } from "@/lib/regionFromRequest";
 
-const HOMEPAGE_PICKS = 8;
+const HOMEPAGE_PICKS = 9;
 
 export default async function HomePage() {
   const [{ products, isFallback, updated }, region, guides] = await Promise.all([

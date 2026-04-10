@@ -89,18 +89,20 @@ export default async function CategoryPage({ params }: Props) {
         </span>
         <span className="text-[var(--color-ink)]">{label}</span>
       </nav>
-      <h1 className="mt-4 font-[family-name:var(--font-display)] text-3xl font-semibold text-[var(--color-ink)] sm:text-4xl">
-        {label}
-      </h1>
-      {categoryIntro && (
-        <p className="mt-3 max-w-2xl text-lg leading-relaxed text-[var(--color-muted)]">
-          {categoryIntro}
+      <header className="mt-4 max-w-3xl">
+        <h1 className="font-[family-name:var(--font-display)] text-3xl font-semibold text-[var(--color-ink)] sm:text-4xl">
+          {label}
+        </h1>
+        {categoryIntro && (
+          <p className="mt-3 text-lg leading-relaxed text-[var(--color-muted)]">
+            {categoryIntro}
+          </p>
+        )}
+        <p className="mt-3 text-sm text-[var(--color-muted)]">
+          {filtered.length} guide{filtered.length === 1 ? "" : "s"}. Last updated {updated}.
         </p>
-      )}
-      <p className="mt-3 text-sm text-[var(--color-muted)]">
-        {filtered.length} guide{filtered.length === 1 ? "" : "s"}. Last updated {updated}.
-      </p>
-      <div className="mt-10">
+      </header>
+      <div className="mt-12">
         <ProductGrid products={filtered} region={region} isFallback={isFallback} />
       </div>
     </div>
