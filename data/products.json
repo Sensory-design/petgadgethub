@@ -76,25 +76,25 @@
       "slug": "kasa-smart-pet-cam",
       "asin": "B08ZXJJTYJ",
       "title": "Kasa Smart Indoor Camera (KC410S)",
-      "tagline": "Our pick for pan-tilt pet-room check-ins.",
-      "problem": "Who it is for: renters and first-time camera buyers who want to scan a whole room without drilling. Who should skip: anyone who needs long free cloud history.",
-      "solution": "The pan-tilt camera lets you check multiple pet zones from one shelf and pairs with a straightforward app setup. That makes it more flexible than a fixed camera at the same price.",
-      "honestNote": "Night lighting and Wi-Fi strength vary by home; placement matters more than the brand name.",
+    "tagline": "Our pick for pan-tilt pet-room check-ins.",
+    "problem": "You are at work and your dog is in the living room doing something you cannot see. A fixed camera shows you one angle — usually the wrong one. The dog is always just off-screen, behind the sofa, or in the corner the lens cannot reach. A pan-tilt camera solves this by letting you steer the view from your phone, covering the full room from a single shelf. If you only need eyes on one spot (a crate, a door), a cheaper fixed camera works fine.",
+    "solution": "The Kasa KC410S pans 360 degrees and tilts to cover floor-to-ceiling in 2K resolution. You control it from the Kasa app — tap to steer, pinch to zoom. Motion tracking follows movement automatically, so if your dog walks across the room, the camera follows without you touching anything. Setup takes most people under ten minutes: plug in, scan the QR code, connect to Wi-Fi. Works with Alexa and Google Assistant if you want voice control.",
+    "honestNote": "Live view is free. Cloud recording and extended clip history require a paid Kasa Care plan — check current pricing before assuming you get free storage. Performance depends heavily on your Wi-Fi upload speed and the camera's distance from your router.",
       "category": "Home monitoring",
-      "whyWePicked": "Pan-tilt 2K picture, app setup most people finish in minutes, and Alexa or Google if you use voice at home.",
-      "rating": 4.4,
-      "reviewCountApprox": 25000,
-      "score": 8,
-      "pros": [
-        "Pan-tilt 2K without a pro install",
-        "Quick app setup for most homes",
-        "Works with common voice assistants"
-      ],
-      "cons": [
-        "Cloud history usually costs extra",
-        "Upload speed and placement matter more than specs"
-      ],
-      "verdict": "A sensible value pick for full-room check-ins - just budget for cloud storage if you want history.",
+    "whyWePicked": "Pan-tilt 2K from a single shelf position covers a full room — no drilling, no second camera needed.",
+    "rating": 4.4,
+    "reviewCountApprox": 25000,
+    "score": 8,
+    "pros": [
+      "360-degree pan covers the whole room from one spot",
+      "2K resolution — clear enough to read body language",
+      "Works with Alexa and Google Assistant out of the box"
+    ],
+    "cons": [
+      "Cloud clip history requires a paid plan",
+      "2.4 GHz Wi-Fi only — check your router settings"
+    ],
+    "verdict": "Our default pet camera for renters who want full-room coverage without drilling holes — budget for cloud storage if you want history.",
       "imageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Brown dog sitting alone on a leather sofa at home",
       "faq": [
@@ -255,25 +255,25 @@
       "slug": "furbo-360-dog-camera",
       "asin": "B09GDQZLD1",
       "title": "Furbo 360 Dog Camera",
-      "tagline": "Our pick for treat-toss check-ins.",
-      "problem": "Who it is for: dog owners who want to see the whole room and reward calm behavior remotely. Who should skip: anyone who does not need treat tossing or dislikes subscription upsells.",
-      "solution": "The rotating camera covers more of the room than a fixed lens, and the treat toss gives you a real reward tool instead of only a speaker. That is what separates it from a basic indoor cam.",
-      "honestNote": "Cloud features and extended history may need a subscription. Check the current Furbo plan in your country.",
+    "tagline": "Our pick for treat-toss check-ins.",
+    "problem": "Watching your dog on a camera and not being able to do anything is frustrating. You can see them pacing or barking, but all you have is a tiny speaker that makes your voice sound like a robot — which often makes anxiety worse. What most owners actually want is a way to reward calm behaviour from their phone: the dog settles, you toss a treat, the dog learns that being alone is not the end of the world. If you do not care about treat tossing and just want a basic live view, a Blink or Kasa will do the same job for less money.",
+    "solution": "The Furbo 360 rotates to cover the full room and tosses treats on command from the app. It detects barking and sends an alert to your phone, so you can check in at the moment it matters — not twenty minutes later. The 360-degree rotation means one camera covers a living room without blind spots. Treats load into a top hopper that holds around 100 small pieces.",
+    "honestNote": "Many of Furbo's advanced features — bark alerts, person detection, activity logs — sit behind a subscription called Furbo Dog Nanny. Without it, you get live view and manual treat toss. Check the current plan pricing before buying.",
       "category": "Home monitoring",
-      "whyWePicked": "360 coverage plus treat toss solves the two real reasons people buy a pet cam: guilt and damage control.",
-      "rating": 4.2,
-      "reviewCountApprox": 5400,
-      "score": 8,
-      "pros": [
-        "360 view plus treat toss in one device",
-        "Bark alerts can catch noise spikes",
-        "Rotating coverage beats a fixed wide-angle in many rooms"
-      ],
-      "cons": [
-        "Premium features may need a subscription",
-        "Needs stable Wi-Fi and thoughtful placement"
-      ],
-      "verdict": "The pet camera to buy when remote rewards matter - just check which features sit behind the subscription.",
+    "whyWePicked": "The only mainstream pet camera that combines 360-degree view with treat tossing — the two features people actually use.",
+    "rating": 4.2,
+    "reviewCountApprox": 5400,
+    "score": 8,
+    "pros": [
+      "Treat toss lets you reward calm behaviour remotely",
+      "360-degree rotation covers the full room from one spot",
+      "Bark alerts sent to your phone in real time"
+    ],
+    "cons": [
+      "Advanced features locked behind Furbo Dog Nanny subscription",
+      "Premium price — roughly double a basic indoor camera"
+    ],
+    "verdict": "Worth the premium if remote treat rewards matter to you — check which features need the subscription before buying.",
       "imageSrc": "https://images.pexels.com/photos/2607544/pexels-photo-2607544.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Happy dog looking up expectantly",
       "faq": [
@@ -364,24 +364,24 @@
       "asin": "B07CJCMR75",
       "title": "DogRook Anti-Bark Collar (Vibration and Sound)",
       "tagline": "Our pick for a no-shock bark interruption trial.",
-      "problem": "Who it is for: owners who want to try vibration before any harsher bark-control method. Who should skip: fearful dogs or anyone looking for a collar to replace training.",
-      "solution": "The collar uses sound and vibration to interrupt the barking loop without a shock setting. That can help on nuisance barking if the dog is sensitive to vibration and you also work on the trigger.",
-      "honestNote": "Not every dog stops for vibration alone. If barking is fear-based, training and a behaviourist beat any collar.",
+    "problem": "Your dog barks when the postman arrives, when a car door slams, or when next door's cat walks across the fence — and your neighbours are losing patience. You have tried telling the dog to stop, which works for about thirty seconds. Shock collars are off the table — you are not willing to hurt the dog. You want something that interrupts the bark without pain, while you work on the underlying trigger with training. If the barking is driven by fear or separation anxiety, no collar will fix it — a qualified behaviourist is the right next step, not a gadget.",
+    "solution": "The DogRook uses progressive vibration and sound to interrupt the bark cycle. It does not shock. When the dog barks, the collar vibrates — most dogs pause to investigate the sensation, which breaks the bark spiral long enough for you to redirect. The collar adjusts sensitivity levels so you can tune it to your dog's bark intensity rather than triggering on background noise. Rechargeable battery and a wide neck-size range cover most breeds.",
+    "honestNote": "Vibration works on some dogs and not others. Bold, determined barkers may ignore it entirely after a few days. Dogs that bark from fear or anxiety often get worse with any collar-based intervention — if your dog barks when left alone, see a behaviourist first.",
       "category": "Training",
-      "whyWePicked": "Established no-shock line with wide weight range and rechargeable battery.",
+      "whyWePicked": "No-shock vibration collar with adjustable sensitivity — the least invasive electronic bark interrupter we found.",
       "rating": 4.1,
       "reviewCountApprox": 22000,
       "score": 7,
       "pros": [
-        "No-shock modes for owners who refuse zap collars",
-        "Wide weight range and rechargeable battery",
-        "Can interrupt bark spirals for sensitive dogs"
+        "Vibration and sound only — no shock setting",
+        "Adjustable sensitivity reduces false triggers",
+        "Rechargeable battery and wide neck-size range"
       ],
       "cons": [
-        "Fails on some dogs - especially fear barkers",
-        "Ambient noise can cause false triggers"
+        "Bold or fear-driven barkers may ignore vibration entirely",
+        "Background noise can still cause occasional false triggers"
       ],
-      "verdict": "Reasonable only as a training aid - do not expect it to solve fear barking on its own.",
+      "verdict": "A reasonable bark interrupter while you train the underlying trigger — not a solution for fear-based or separation barking.",
       "imageSrc": "https://images.unsplash.com/photo-1771157552643-2ba2fae724fb?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Small dog looking alert outdoors",
       "faq": [
@@ -507,25 +507,25 @@
       "slug": "blink-mini-indoor-camera",
       "asin": "B07X37DT9M",
       "title": "Blink Mini Indoor Security Camera",
-      "tagline": "Our pick for basic budget room checks.",
-      "problem": "Who it is for: owners who want a cheap indoor camera for crates, doors, or food bowls. Who should skip: anyone wanting pan-tilt coverage or pet-specific features.",
-      "solution": "The compact plug-in camera gives you live view, motion alerts, and two-way audio without much setup. It works best when you only need eyes on one predictable spot.",
-      "honestNote": "Cloud clip history typically needs a Blink subscription plan after any trial. Read current terms before you buy.",
+    "tagline": "Our pick for cheapest eyes on one spot.",
+    "problem": "Sometimes you do not need a camera that pans, tilts, or tosses treats. You need a small box that points at the crate, the front door, or the food bowl and shows you what is happening right now. The Blink Mini does exactly that for roughly the price of a takeaway. It plugs in, connects to Wi-Fi, and streams 1080p video to your phone. If you want to watch multiple rooms, buy two — they are cheap enough to stack. Anyone who needs full-room coverage from a single camera should look at a pan-tilt model like the Kasa instead.",
+    "solution": "The Blink Mini is a fixed-lens 1080p camera that plugs into a USB power socket. Motion detection sends alerts to your phone, two-way audio lets you talk through the camera, and night vision works in a dark room. Setup takes about five minutes: scan the code, connect to Wi-Fi in the Blink app. It integrates with Alexa if you want to pull up a live view on an Echo Show.",
+    "honestNote": "Live view is free. Cloud clip storage requires a Blink subscription — without it, motion clips are not saved. Local storage is possible with a Blink Sync Module 2 and a USB drive, but that is an extra purchase and setup step.",
       "category": "Home monitoring",
-      "whyWePicked": "Low upfront cost, simple setup, and a huge owner base for troubleshooting tips online.",
-      "rating": 4.3,
-      "reviewCountApprox": 180000,
-      "score": 8,
-      "pros": [
-        "Low cost and huge community for tips",
-        "Plug-in simplicity - no battery babysitting",
-        "Alexa integration for many setups"
-      ],
-      "cons": [
-        "Clip storage often subscription-based",
-        "Pet-specific AI features not included"
-      ],
-      "verdict": "A good low-cost room camera - but it stays a basic fixed-lens option.",
+    "whyWePicked": "Cheapest way to put eyes on a crate or doorway — buy two for less than one premium pet camera.",
+    "rating": 4.3,
+    "reviewCountApprox": 180000,
+    "score": 7,
+    "pros": [
+      "Costs roughly the same as a takeaway meal",
+      "Plug in and connect in under five minutes",
+      "Alexa integration for Echo Show live view"
+    ],
+    "cons": [
+      "Clip storage needs a subscription or Sync Module 2",
+      "Fixed lens — no pan, tilt, or pet-specific features"
+    ],
+    "verdict": "The cheapest way to watch one spot — buy two if you need more coverage rather than paying for a pan-tilt.",
       "imageSrc": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Modern living room interior with natural light",
       "faq": [
@@ -831,25 +831,25 @@
       "slug": "petcube-cam-wifi",
       "asin": "B09FFBN6W7",
       "title": "Petcube Cam Wi-Fi Pet Camera",
-      "tagline": "Our pick for straightforward pet-room check-ins.",
-      "problem": "Who it is for: owners who want a simple pet camera without paying for a treat dispenser. Who should skip: anyone needing 2K pan-tilt coverage or a free long cloud history.",
-      "solution": "The compact camera covers the basics: live view, night vision, two-way audio, and motion alerts in a pet-focused app. That is enough for sofa checks, crate checks, and seeing who made the mess.",
-      "honestNote": "Some advanced alerts may need a subscription - confirm Petcube's current plans.",
+    "tagline": "Our pick for a pet-focused app without treat hardware.",
+    "problem": "Most indoor cameras are designed for home security — the app is full of intruder zones, arm/disarm schedules, and terminology that has nothing to do with checking on your dog. The Petcube Cam is built around pet monitoring from the ground up: the app shows your pet feed, not a security dashboard. If you want a camera where everything in the interface assumes you are watching an animal, not guarding a property, this is one of the few that delivers that. If you want 2K resolution or pan-tilt, the Kasa is a better fit.",
+    "solution": "The Petcube Cam provides 1080p live view, night vision, two-way audio, and motion alerts through an app designed specifically for pet owners. Sound and motion detection is tuned for animal movement rather than generic security triggers. The camera is compact enough to sit on a shelf or mount to a wall without looking like a surveillance unit.",
+    "honestNote": "Petcube's more advanced features — extended video history, smart alerts — typically require a subscription. Free tier gives you live view and basic alerts. Confirm current plan pricing in your region before buying.",
       "category": "Home monitoring",
-      "whyWePicked": "Petcube focuses on pet UX; pricing often undercuts premium pet cams with similar specs.",
-      "rating": 4.3,
-      "reviewCountApprox": 2500,
-      "score": 8,
-      "pros": [
-        "Pet-first app versus generic security clutter",
-        "1080p, night vision, two-way audio baseline",
-        "Often priced under premium pet cams"
-      ],
-      "cons": [
-        "Advanced alerts may need a subscription",
-        "Many units are 2.4 GHz Wi-Fi only"
-      ],
-      "verdict": "A solid mid-tier pet cam - just confirm the subscription terms and Wi-Fi band support.",
+    "whyWePicked": "Pet-first app interface means you spend time watching your pet, not configuring security zones.",
+    "rating": 4.3,
+    "reviewCountApprox": 2500,
+    "score": 7,
+    "pros": [
+      "App designed for pet owners, not home security",
+      "1080p with night vision and two-way audio",
+      "Compact and unobtrusive on a shelf"
+    ],
+    "cons": [
+      "Video history and smart alerts need a subscription",
+      "2.4 GHz Wi-Fi only on most units"
+    ],
+    "verdict": "The camera to choose if you value a clean pet-focused app over raw specs — confirm the subscription tier before buying.",
       "imageSrc": "https://images.pexels.com/photos/1938126/pexels-photo-1938126.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Bright modern living room",
       "faq": [
@@ -940,24 +940,24 @@
       "asin": "B0002AR0I8",
       "title": "PetSafe Gentle Leader Headcollar",
       "tagline": "Our pick for reducing hard leash pulling.",
-      "problem": "Who it is for: dogs that drag on walks and owners willing to do a real acclimation period. Who should skip: anyone wanting a no-training instant fix.",
-      "solution": "The headcollar redirects the nose, which reduces pulling leverage more effectively than a flat collar. It works best when you introduce it slowly with treats, not by snapping it on and marching out.",
-      "honestNote": "Some dogs paw at it for weeks; acclimation with treats is not optional.",
+    "problem": "Your dog pulls so hard on a flat collar that walks are a wrestling match. A back-clip harness did not help — it just moved the pulling from the neck to the chest. The Gentle Leader works differently: it wraps around the muzzle and redirects the head, so when the dog pulls, their nose turns back towards you instead of powering forward. It is one of the most effective single tools for serious pullers. But it is not a quick fix — most dogs need a week or more of positive acclimation before they accept something on their face. If you are not willing to do that gradual introduction with treats and patience, a front-clip harness is a less effective but easier alternative.",
+    "solution": "The strap sits around the muzzle (not a muzzle — the dog can still eat, drink, pant, and bark) and clips under the chin. When the dog pulls, their own forward motion turns their head to the side, which naturally slows them down. The physics work the same way a horse halter does: control the head, control the body. PetSafe includes a fitting guide and training DVD. Most owners report a noticeable reduction in pulling from the first properly fitted walk.",
+    "honestNote": "Dogs will paw at it, rub their face on the ground, and generally protest during the first few days. This is normal and does not mean it hurts — it means it feels strange. Acclimation with high-value treats is not optional; skipping it usually means the dog fights it indefinitely.",
       "category": "Training",
-      "whyWePicked": "Vet-trainer staple for pullers when fitted with the included video guidance.",
+      "whyWePicked": "The most widely recommended headcollar by UK trainers and behaviourists — redirects pulling at the source.",
       "rating": 4.4,
       "reviewCountApprox": 42000,
       "score": 8,
-      "pros": [
-        "Redirects pull without throat pressure",
-        "Lightweight versus many harness stacks",
-        "Years of field use in training circles"
-      ],
-      "cons": [
-        "Acclimation period - dogs can fuss at first",
-        "Not every dog tolerates face straps"
-      ],
-      "verdict": "One of the better tools for serious pullers - only if you commit to gradual training.",
+    "pros": [
+      "Redirects pulling at the nose — works where harnesses fail",
+      "Lightweight and unobtrusive compared to bulky harnesses",
+      "Includes fitting guide and training instructions"
+    ],
+    "cons": [
+      "Requires a genuine acclimation period with treats",
+      "Some dogs never fully accept something on their face"
+    ],
+    "verdict": "The most effective single tool for serious pullers — only if you commit to a week of gradual introduction with treats.",
       "imageSrc": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Dog on a leash outdoors",
       "faq": [
@@ -1047,25 +1047,25 @@
       "slug": "wyze-cam-v3-indoor-outdoor",
       "asin": "B08N5W4H1C",
       "title": "Wyze Cam v3",
-      "tagline": "Our pick for low-cost multi-camera coverage.",
-      "problem": "Who it is for: owners who want several cameras on a budget for crates, doors, and pet rooms. Who should skip: anyone who needs premium privacy controls or hates subscription upsells.",
-      "solution": "The v3 gives you 1080p video, color night vision, and a low per-camera cost, so covering more than one angle is realistic. That matters more than fancy features when you are watching multiple pet zones.",
-      "honestNote": "Cloud features may need Cam Plus - read current Wyze terms in your region.",
+    "tagline": "Our pick for covering multiple rooms cheaply.",
+    "problem": "If you want a camera on the crate and another on the back door and a third in the kitchen, the cost adds up fast with premium pet cameras. The Wyze Cam v3 is cheap enough that buying three is still less than one Furbo. That makes it the practical choice when coverage across multiple rooms matters more than pet-specific features like treat tossing. Anyone who wants a single camera with full-room coverage should look at a pan-tilt model instead.",
+    "solution": "The Wyze Cam v3 delivers 1080p video with colour night vision — a feature most budget cameras lack. It is small enough to tuck on a shelf, mount to a wall, or sit on a windowsill. Motion and sound detection send alerts to your phone. The camera works indoors and in sheltered outdoor positions (it is rated IP65), so pointing one at a garden door is viable. App setup takes a few minutes per camera.",
+    "honestNote": "Many features including person detection and extended cloud clips require Wyze Cam Plus — a separate subscription. Wyze has also faced criticism over privacy policy changes. Read the current terms carefully if that matters to you.",
       "category": "Home monitoring",
-      "whyWePicked": "Low price per camera so you can cover crate and door on one budget.",
-      "rating": 4.4,
-      "reviewCountApprox": 210000,
-      "score": 8,
-      "pros": [
-        "Very low cost per camera",
-        "Colour night vision versus many budget rivals",
-        "Huge community for troubleshooting"
-      ],
-      "cons": [
-        "Subscription upsell for full cloud history",
-        "Privacy policy changes have frustrated some users"
-      ],
-      "verdict": "Best when you want several decent cameras cheaply - expect some app and subscription compromises.",
+    "whyWePicked": "Low enough per unit to put three in your home for less than one premium pet camera costs.",
+    "rating": 4.4,
+    "reviewCountApprox": 210000,
+    "score": 7,
+    "pros": [
+      "Buy three for less than one Furbo",
+      "Colour night vision — rare at this price",
+      "IP65 rated for sheltered outdoor use too"
+    ],
+    "cons": [
+      "Key features locked behind Cam Plus subscription",
+      "Wyze privacy policy has changed multiple times"
+    ],
+    "verdict": "The budget pick when you need multiple cameras — accept the subscription trade-offs and read the privacy terms.",
       "imageSrc": "https://images.pexels.com/photos/374825/pexels-photo-374825.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Home interior with soft light",
       "faq": [
@@ -1120,24 +1120,24 @@
       "asin": "B01N6NTLUB",
       "title": "Company of Animals Halti Optifit Headcollar",
       "tagline": "Our pick when standard headcollars fit poorly.",
-      "problem": "Who it is for: dogs that slip, twist, or rub out of simpler headcollars. Who should skip: owners whose dog already walks well in a basic harness.",
-      "solution": "The extra adjustment points let you tune the fit around the nose and cheeks more precisely than simpler halters. That makes it useful for dogs that fall between standard shapes.",
-      "honestNote": "Still requires acclimation - swap to high-value treats on first walks.",
+    "problem": "You tried a Gentle Leader or similar headcollar and your dog managed to paw it off, twist it sideways, or rub it loose against your leg within minutes. The standard one-size geometry does not work for every muzzle shape — flat-faced breeds, narrow greyhound noses, and dogs that fall between sizes all struggle. The Halti Optifit has more adjustment points around the nose and cheeks, which lets you dial in a fit that stays put on dogs that defeat simpler headcollars. If your dog already walks well in a front-clip harness or a standard Gentle Leader, this is unnecessary extra hardware.",
+    "solution": "The Optifit uses an adjustable noseband and cheek straps that adapt to your dog's specific muzzle shape rather than relying on a single-size loop. A padded noseband reduces rubbing during the acclimation period. The chin strap clips to a standard lead, and a safety link attaches to the regular collar as a backup in case the headcollar slips. The result is a headcollar that stays in position on dogs that pop out of simpler designs.",
+    "honestNote": "Acclimation is still required — the Halti being better-fitting does not mean the dog will accept it immediately. Use high-value treats for the first week of walks. If your dog rejected all headcollars after a patient acclimation attempt, a front-clip harness may be the better path.",
       "category": "Training",
-      "whyWePicked": "Strong alternative when Gentle Leader geometry does not suit your dog's muzzle.",
+      "whyWePicked": "More adjustment points than any other headcollar — the one to try when simpler designs slip or twist off.",
       "rating": 4.3,
       "reviewCountApprox": 6500,
       "score": 8,
-      "pros": [
-        "More adjustment points than basic halters",
-        "Padded noseband on many kits",
-        "Good for dogs between breed-chart gaps"
-      ],
-      "cons": [
-        "Slightly more setup than slip-on halters",
-        "Some dogs still reject any headcollar"
-      ],
-      "verdict": "Best as a fit upgrade over simpler headcollars - patience still matters more than hardware.",
+    "pros": [
+      "Adjustable noseband and cheek straps fit unusual muzzle shapes",
+      "Padded noseband reduces rubbing during acclimation",
+      "Safety link to collar as backup against slipping"
+    ],
+    "cons": [
+      "More straps to adjust than simpler headcollars",
+      "Dogs that reject all headcollars will reject this one too"
+    ],
+    "verdict": "The headcollar to try when the Gentle Leader slips or twists off — same acclimation patience required.",
       "imageSrc": "https://images.pexels.com/photos/374826/pexels-photo-374826.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Person walking a dog on a path",
       "faq": [
@@ -1335,25 +1335,25 @@
       "slug": "petcube-bites-2-lite",
       "asin": "B08XXKJGKH",
       "title": "Petcube Bites 2 Lite (Treat Camera)",
-      "tagline": "Our pick for remote treat tossing on a budget.",
-      "problem": "Who it is for: owners who want to reward or distract a pet remotely without paying Furbo prices. Who should skip: anyone who does not need treat tossing or hates hopper maintenance.",
-      "solution": "The camera gives you live video, two-way audio, and app-triggered treat tossing in one box. That lets you do more than passively watch a bored dog from work.",
-      "honestNote": "Subscription may apply for cloud history - confirm Petcube plans in your region.",
+    "tagline": "Our pick for remote treat tossing on a budget.",
+    "problem": "You want to toss treats remotely to reward your dog for settling or distract them from barking, but the Furbo is more than you want to spend on a camera. The Petcube Bites 2 Lite does the same core job — live video plus app-triggered treat toss — at a lower entry price. If your dog is not food-motivated or you do not plan to use the treat function, a basic camera without the hopper is simpler and cheaper.",
+    "solution": "The camera combines 1080p live video, night vision, two-way audio, and a built-in treat hopper that you trigger from the Petcube app. Load small treats or kibble into the top, tap the button on your phone, and the camera flings one across the room. Sound and motion alerts are tuned for pet activity. The pet-focused app keeps the interface clean compared to generic security camera software.",
+    "honestNote": "Treat jams happen if you use kibble that is too large or irregularly shaped for the hopper. Test your treat size before relying on it. Cloud video history requires a Petcube subscription on most plans.",
       "category": "Home monitoring",
-      "whyWePicked": "Lower entry price than Furbo for treat toss plus a pet-first app.",
-      "rating": 4.1,
-      "reviewCountApprox": 3200,
-      "score": 8,
-      "pros": [
-        "Treat toss without flagship pricing",
-        "1080p and night vision baseline",
-        "Pet-tuned motion and sound alerts"
-      ],
-      "cons": [
-        "Treat jam if you use wrong kibble size",
-        "Cloud history often subscription-based"
-      ],
-      "verdict": "A good treat-camera value pick - just use the right treat size and expect some subscription nudges.",
+    "whyWePicked": "Same treat-toss function as the Furbo at a lower price — the main reason to choose it over a basic camera.",
+    "rating": 4.1,
+    "reviewCountApprox": 3200,
+    "score": 7,
+    "pros": [
+      "Treat toss at a lower price than the Furbo",
+      "Pet-focused app with sound and motion alerts",
+      "1080p with night vision covers dark rooms"
+    ],
+    "cons": [
+      "Treat jams with oversized or irregular kibble",
+      "Cloud history requires a paid subscription"
+    ],
+    "verdict": "The budget way to toss treats remotely — test your kibble size first and budget for the subscription.",
       "imageSrc": "https://images.pexels.com/photos/374829/pexels-photo-374829.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Dog looking up indoors",
       "faq": [
@@ -1371,25 +1371,25 @@
       "slug": "arlo-essential-indoor-camera",
       "asin": "B08NCSHY4B",
       "title": "Arlo Essential Indoor Camera",
-      "tagline": "Our pick for indoor camera privacy control.",
-      "problem": "Who it is for: owners who want a pet camera in a bedroom or other private room. Who should skip: anyone who does not care about a physical shutter and just wants the cheapest lens.",
-      "solution": "The built-in privacy shutter gives a real off state when you are home, while the camera still covers the basics on 1080p video, alerts, and night vision. That makes it more comfortable for mixed human-pet spaces.",
-      "honestNote": "Full cloud history on Arlo usually needs a Secure plan - check current pricing.",
+    "tagline": "Our pick for pet cameras in private rooms.",
+    "problem": "Putting a camera in a bedroom or changing area to watch a pet creates a privacy problem that software alone does not solve — a hacked or accidentally-shared camera with a clear view of your bed is a real risk. Most indoor cameras have a software-only privacy mode that you have to trust is actually off. The Arlo Essential has a physical privacy shutter that physically blocks the lens when closed. If you want a pet camera in a room where humans also sleep, change, or work from home, the shutter is the feature that makes it comfortable. If the camera goes in a room where privacy is not a concern, cheaper options do the same job.",
+    "solution": "The physical shutter slides closed to block the lens completely — no software trust required. When open, the camera provides 1080p video, night vision, motion detection, and two-way audio through the Arlo app. The wide-angle lens covers most rooms from a shelf or wall mount. If you later add Arlo outdoor cameras, they all live in the same app and ecosystem.",
+    "honestNote": "Extended cloud history and smart detection features require an Arlo Secure subscription. Without it, you get live view and basic alerts. The subscription adds up if you run multiple Arlo cameras.",
       "category": "Home monitoring",
-      "whyWePicked": "Physical shutter is rare at the price - good for bedroom-adjacent pet corners.",
-      "rating": 4.2,
-      "reviewCountApprox": 14000,
-      "score": 8,
-      "pros": [
-        "Built-in privacy shutter",
-        "Clear 1080p and night vision",
-        "Arlo app ecosystem if you add outdoor later"
-      ],
-      "cons": [
-        "Subscription for extended cloud history",
-        "No treat toss - general security cam feature set"
-      ],
-      "verdict": "Strong when privacy matters as much as pet monitoring - long cloud history still costs extra.",
+    "whyWePicked": "Physical privacy shutter is the one feature that makes a bedroom pet camera genuinely comfortable to own.",
+    "rating": 4.2,
+    "reviewCountApprox": 14000,
+    "score": 8,
+    "pros": [
+      "Physical shutter blocks the lens — no software trust needed",
+      "Same Arlo ecosystem for indoor and outdoor cameras",
+      "Wide-angle 1080p with night vision"
+    ],
+    "cons": [
+      "Cloud history and smart alerts need Arlo Secure subscription",
+      "No pet-specific features like treat toss"
+    ],
+    "verdict": "The camera to choose when it lives in a bedroom or private room — the shutter is the whole reason to pay the premium over Blink or Wyze.",
       "imageSrc": "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Modern living room interior",
       "faq": [
