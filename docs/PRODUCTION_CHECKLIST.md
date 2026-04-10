@@ -2,6 +2,13 @@
 
 Do these once `https://petgadgethub.co.uk` loads the Next.js site. Nothing here is committed to git — it is all in **Vercel**, **Google**, and **Amazon** dashboards.
 
+## Status snapshot (2026-04-11)
+
+- **DNS:** `petgadgethub.co.uk` → Vercel (SiteGround DNS Zone Editor; not WordPress for web).
+- **Search Console:** Verified via **HTML tag** in `app/layout.tsx`. Property accessed with **hull.rory@googlemail.com**. Overview may show **“Processing data…”** for a few days — normal.
+- **Sitemap:** Submit **`sitemap.xml`** in Search Console if not already (**Sitemaps** → add `sitemap.xml` → Submit).
+- **Handover doc for new contributors/AI:** [HANDOVER.md](HANDOVER.md).
+
 ## 1. Vercel — environment variable
 
 1. [Vercel Dashboard](https://vercel.com) → **PetGadgetHub** project → **Settings** → **Environment Variables**.

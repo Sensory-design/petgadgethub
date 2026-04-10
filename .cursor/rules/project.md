@@ -1,5 +1,7 @@
 # PetGadgetHub - agent rules
 
+**Full context for new sessions:** [docs/HANDOVER.md](../../docs/HANDOVER.md) (URLs, Vercel, Search Console, DNS, scripts).
+
 Human changelog and release notes: [CHANGELOG.md](../../CHANGELOG.md) (repo root).
 
 ## Product hub vs tools

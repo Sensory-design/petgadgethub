@@ -33,6 +33,8 @@ See [.env.example](.env.example) for `NEXT_PUBLIC_SITE_URL`, optional Amazon Cre
 | `npm run build` | Production build |
 | `npm run start` | Run production server locally |
 | `npm run lint` | ESLint |
+| `npm run verify:domain` | Check live domain serves Vercel (not WordPress) |
+| `npm run fix:dns:windows` | Flush Windows DNS cache (local troubleshooting) |
 | `npm run metadata:update` | Runs `scripts/metadata-updater.ts` |
 
 ## Deploy
@@ -55,4 +57,6 @@ Human-readable release notes: [CHANGELOG.md](CHANGELOG.md).
 
 ## AI / agents
 
-Cursor project rules: [.cursor/rules/project.md](.cursor/rules/project.md). Machine-oriented site summary for LLMs: [public/llms.txt](public/llms.txt) (served at `/llms.txt` when deployed).
+- **New session / handover:** [docs/HANDOVER.md](docs/HANDOVER.md) — live URLs, Vercel, Search Console, DNS, scripts, what not to put in chat.
+- Cursor project rules: [.cursor/rules/project.md](.cursor/rules/project.md).
+- Machine-oriented site summary: [public/llms.txt](public/llms.txt) (served at `/llms.txt` when deployed).

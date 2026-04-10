@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.9.1] - 2026-04-11
+
+### Added
+
+- [docs/HANDOVER.md](docs/HANDOVER.md): onboarding snapshot for new Cursor sessions (URLs, Vercel, Search Console, DNS, scripts, security notes).
+
+### Changed
+
+- [README.md](README.md): AI/agents section links to HANDOVER.
+- [docs/PRODUCTION_CHECKLIST.md](docs/PRODUCTION_CHECKLIST.md): status snapshot and HANDOVER link.
+- [.cursor/rules/project.md](.cursor/rules/project.md): pointer to HANDOVER.
+
 ## [0.9.0] - 2026-04-11
 
 ### Added
