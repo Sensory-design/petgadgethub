@@ -7,6 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.9.0] - 2026-04-11
+
+### Added
+
+- Three new guides in [data/guides.json](data/guides.json): Automatic pet feeder buying guide UK, Best dog harness for pulling UK, Pet air purifier for dander UK — with FAQs and product links.
+- [docs/PRODUCTION_CHECKLIST.md](docs/PRODUCTION_CHECKLIST.md): post-launch steps for Vercel env, Search Console, Associates (dashboard tasks).
+
+### Changed
+
+- [lib/getGuides.ts](lib/getGuides.ts): guides sorted by `publishedAt` descending so the homepage teaser shows the newest first.
+- [public/llms.txt](public/llms.txt): new guide URLs listed.
+- [docs/DOMAIN.md](docs/DOMAIN.md): link to production checklist.
+
+### Verified
+
+- `python scripts/link-health.py --domain www.amazon.co.uk`: 50/50 product ASINs returned HTTP 200.
+
 ## [0.8.2] - 2026-04-10
 
 ### Added

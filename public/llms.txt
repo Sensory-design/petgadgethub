@@ -77,6 +77,9 @@ Long-form buying guides live at /guides/{slug}. Currently published:
 - /guides/best-gps-dog-tracker-uk
 - /guides/cat-water-fountain-buying-guide
 - /guides/best-pet-camera-small-flat
+- /guides/automatic-pet-feeder-buying-guide-uk
+- /guides/best-dog-harness-pulling-uk
+- /guides/pet-air-purifier-dander-uk
 
 ## Key pages
 

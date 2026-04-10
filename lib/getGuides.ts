@@ -7,7 +7,7 @@ export async function getGuides(): Promise<Guide[]> {
   const filePath = path.join(process.cwd(), "data", "guides.json");
   const raw = await readFile(filePath, "utf8");
   const parsed = guidesFileSchema.parse(JSON.parse(raw));
-  return parsed.guides;
+  return [...parsed.guides].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
 export async function getGuide(slug: string): Promise<Guide | null> {

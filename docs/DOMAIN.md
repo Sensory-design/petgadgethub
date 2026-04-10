@@ -2,6 +2,8 @@
 
 Use this checklist to point your UK domain at the Vercel deployment and preserve SEO (HTTPS, optional redirect from the `.vercel.app` URL).
 
+After DNS is live, follow **[PRODUCTION_CHECKLIST.md](PRODUCTION_CHECKLIST.md)** (Vercel env, Search Console, Associates).
+
 ## If you still see the old WordPress site
 
 If `https://petgadgethub.co.uk` loads a **WordPress** theme (or response headers mention `wp-json` and **nginx** from your old host), the domain’s **DNS is not pointing at Vercel yet**. Your **new** PetGadgetHub (Next.js) is still served on the Vercel hostname, for example `https://petgadgethub.vercel.app` — open `/guides` there to confirm. Fix: complete [step 1](#1-add-the-domain-in-vercel) below and add the **A / CNAME records** Vercel shows at your **registrar** (or turn off the old host’s “parked” DNS). Propagation can take from a few minutes up to 48 hours.
