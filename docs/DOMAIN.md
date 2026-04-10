@@ -6,6 +6,22 @@ Use this checklist to point your UK domain at the Vercel deployment and preserve
 
 If `https://petgadgethub.co.uk` loads a **WordPress** theme (or response headers mention `wp-json` and **nginx** from your old host), the domain’s **DNS is not pointing at Vercel yet**. Your **new** PetGadgetHub (Next.js) is still served on the Vercel hostname, for example `https://petgadgethub.vercel.app` — open `/guides` there to confirm. Fix: complete [step 1](#1-add-the-domain-in-vercel) below and add the **A / CNAME records** Vercel shows at your **registrar** (or turn off the old host’s “parked” DNS). Propagation can take from a few minutes up to 48 hours.
 
+## Long-term: keep the domain on Vercel (avoid “it broke again”)
+
+The only durable fix is **DNS that points exclusively at Vercel** for this site. Code cannot override wrong DNS.
+
+1. **Pick one DNS authority**  
+   Either: (A) keep DNS at your registrar but **remove every A/CNAME** that still targets SiteGround, cPanel, or “parking”, and replace them with **only** what Vercel shows; or (B) switch **nameservers** to **Vercel DNS** (Vercel project → Domains → use their nameservers) so all records live in one place and the old host cannot silently win.
+
+2. **Cancel or detach the old WordPress host** for this domain  
+   If you still pay for old hosting, turn off “site” or **remove** the domain from that panel so it does not re-add conflicting records.
+
+3. **Automated check in this repo**  
+   Run locally: `npm run verify:domain` — exits with an error if `https://petgadgethub.co.uk` still looks like WordPress. GitHub Actions runs the same check **weekly** (`.github/workflows/domain-health.yml`); when DNS is correct, the workflow stays green. **Until DNS is fixed, that workflow will fail** (by design). You can disable **Domain health** under **Actions** if the noise bothers you, or use it as a reminder to finish DNS.
+
+4. **After DNS is green**  
+   Confirm `NEXT_PUBLIC_SITE_URL=https://petgadgethub.co.uk` in Vercel (Production) and **Redeploy** once.
+
 ## 1. Add the domain in Vercel
 
 1. Open [Vercel Dashboard](https://vercel.com) → your **PetGadgetHub** project.

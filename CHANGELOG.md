@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.8.1] - 2026-04-10
+
+### Added
+
+- [scripts/verify-production-domain.mjs](scripts/verify-production-domain.mjs): `npm run verify:domain` — fails if `https://petgadgethub.co.uk` still serves WordPress (wrong DNS) instead of Vercel/Next.js.
+- [.github/workflows/domain-health.yml](.github/workflows/domain-health.yml): weekly + manual GitHub Actions check using the same script.
+
+### Changed
+
+- [docs/DOMAIN.md](docs/DOMAIN.md): long-term DNS guidance (single authority, retire old host, automated checks).
+
 ## [0.8.0] - 2026-04-10
 
 ### Added

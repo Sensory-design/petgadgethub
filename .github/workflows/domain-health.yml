@@ -1,0 +1,19 @@
+# Alerts when petgadgethub.co.uk still resolves to legacy WordPress (wrong DNS).
+# Runs weekly and on demand. Fix: docs/DOMAIN.md — point DNS at Vercel.
+
+name: Domain health
+
+on:
+  schedule:
+    - cron: "15 9 * * 1" # Mondays 09:15 UTC
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify production domain
+        run: node scripts/verify-production-domain.mjs

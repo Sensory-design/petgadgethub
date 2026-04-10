@@ -1,12 +1,13 @@
 {
   "name": "petgadgethub",
-  "version": "0.7.0",
+  "version": "0.8.1",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "verify:domain": "node scripts/verify-production-domain.mjs",
     "metadata:update": "npx tsx scripts/metadata-updater.ts"
   },
   "dependencies": {
