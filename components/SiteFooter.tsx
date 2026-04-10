@@ -16,7 +16,20 @@ export function SiteFooter() {
             </p>
           </div>
           <div className="text-sm">
-            <p className="font-medium text-[var(--color-ink)]">Transparency</p>
+            <p className="font-medium text-[var(--color-ink)]">Explore</p>
+            <ul className="mt-2 space-y-2 text-[var(--color-muted)]">
+              <li>
+                <Link href="/guides" className="hover:text-[var(--color-ink)]">
+                  Guides &amp; buying advice
+                </Link>
+              </li>
+              <li>
+                <Link href="/categories" className="hover:text-[var(--color-ink)]">
+                  All picks by category
+                </Link>
+              </li>
+            </ul>
+            <p className="mt-6 font-medium text-[var(--color-ink)]">Transparency</p>
             <ul className="mt-2 space-y-2 text-[var(--color-muted)]">
               <li>
                 <Link href="/about" className="hover:text-[var(--color-ink)]">

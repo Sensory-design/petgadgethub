@@ -5,6 +5,7 @@ import { AffiliateLink } from "@/components/AffiliateLink";
 import { buildProductUrl } from "@/lib/buildAffiliateUrl";
 import type { AffiliateRegion } from "@/lib/affiliateTag";
 import { amazonSocialProofLine } from "@/lib/formatAmazonSocialProof";
+import { productHeroImageSrc } from "@/lib/productHeroImage";
 import { cn } from "@/lib/utils";
 import type { Product } from "@/types/product";
 
@@ -33,7 +34,7 @@ export function ProductCard({ product, region, isFallback, featured }: Props) {
         )}
       >
         <Image
-          src={product.imageSrc}
+          src={productHeroImageSrc(product)}
           alt={product.imageAlt}
           fill
           className="object-cover transition-transform duration-300 group-hover:scale-[1.02]"

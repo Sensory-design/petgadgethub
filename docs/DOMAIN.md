@@ -26,11 +26,15 @@ Wait until Vercel shows **Valid Configuration** (can take a few minutes to 48 ho
 
 In Vercel → **Settings** → **Environment Variables**:
 
-- `NEXT_PUBLIC_SITE_URL` = `https://petgadgethub.co.uk` (no trailing slash)
+- **Name:** `NEXT_PUBLIC_SITE_URL`
+- **Value:** `https://petgadgethub.co.uk` (no trailing slash), using the same hostname you set as **primary** in step 4.
+- **Environment:** enable at least **Production**. Optionally set the same value for **Preview** so previews generate correct absolute URLs in metadata.
 
-Redeploy after changing (or trigger a new deployment from Git).
+If the custom domain is not ready yet, you can temporarily use `https://petgadgethub.vercel.app` (your project’s production hostname). **Change this to the `https://…` custom domain** once DNS validates so `sitemap.xml`, Open Graph, and Stripe return URLs stay canonical.
 
-This keeps `sitemap.xml`, Open Graph, and Stripe return URLs aligned with the live domain.
+**Redeploy** after adding or changing the variable: **Deployments** → open the latest production deployment → **Redeploy**, or push a new commit to `main`.
+
+This keeps `sitemap.xml`, Open Graph, and Stripe return URLs aligned with the live domain (see `lib/siteUrl.ts`).
 
 ## 4. Primary domain and redirects
 
@@ -45,4 +49,16 @@ Vercel automatically issues **308** redirects from non-primary hostnames to the 
 
 ## 6. Google Search Console (optional but recommended)
 
-After go-live, add the property `https://petgadgethub.co.uk` in [Google Search Console](https://search.google.com/search-console) and submit the sitemap: `https://petgadgethub.co.uk/sitemap.xml`.
+Do this **after** HTTPS works on your primary URL (step 5).
+
+1. Open [Google Search Console](https://search.google.com/search-console) and **Add property**.
+2. **URL prefix:** enter `https://petgadgethub.co.uk` (or your live origin). Complete **verification** using one of the methods Google offers (DNS TXT via your registrar is reliable for apex/`www` setups).
+3. After verification, go to **Sitemaps** → add `sitemap.xml` (full URL: `https://petgadgethub.co.uk/sitemap.xml`).
+4. After you ship new routes (e.g. `/guides`), **submit the same sitemap URL again** (or use **URL Inspection** on new URLs) so Google picks up new URLs quickly.
+5. Optionally use **URL Inspection** on the homepage to request indexing once content is stable.
+
+## 7. GitHub: private repository (optional)
+
+To hide **source code** from the public: on GitHub open the repo → **Settings** → **General** → **Danger zone** → **Change repository visibility** → **Make private**.
+
+This does **not** make the **Vercel site** private; visitors can still open your production URL unless you use Vercel **Pro** deployment protection, Cloudflare Access, or app-level auth (see Vercel docs for Hobby limits).

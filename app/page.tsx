@@ -1,14 +1,30 @@
+import Link from "next/link";
+
 import { AuthorBlock } from "@/components/AuthorBlock";
+import { CategoryNav } from "@/components/CategoryNav";
+import { GuideCard } from "@/components/GuideCard";
 import { ProductGrid } from "@/components/ProductGrid";
 import { organizationLd, websiteLd } from "@/lib/jsonLd";
+import { slugFromCategory } from "@/lib/categorySlug";
+import { getGuides } from "@/lib/getGuides";
 import { getProducts } from "@/lib/getProducts";
 import { getAffiliateRegion } from "@/lib/regionFromRequest";
 
+const HOMEPAGE_PICKS = 8;
+
 export default async function HomePage() {
-  const [{ products, isFallback, updated }, region] = await Promise.all([
+  const [{ products, isFallback, updated }, region, guides] = await Promise.all([
     getProducts(),
     getAffiliateRegion(),
+    getGuides(),
   ]);
+
+  const categoryNavItems = [...new Set(products.map((p) => p.category))]
+    .sort()
+    .map((label) => ({ slug: slugFromCategory(label), label }));
+
+  const featuredProducts = products.slice(0, HOMEPAGE_PICKS);
+  const guideTeaser = guides.slice(0, 3);
 
   return (
     <div className="mx-auto max-w-6xl px-4 pb-20 pt-10 sm:px-6 sm:pt-14">
@@ -42,17 +58,64 @@ export default async function HomePage() {
         </p>
       </header>
 
+      <div className="mt-12 max-w-4xl">
+        <p className="text-sm font-semibold uppercase tracking-wide text-[var(--color-brand-600)]">
+          Browse by category
+        </p>
+        <div className="mt-4">
+          <CategoryNav categories={categoryNavItems} />
+        </div>
+      </div>
+
       <section id="picks" className="mt-16 scroll-mt-24" aria-labelledby="picks-heading">
         <h2
           id="picks-heading"
           className="font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]"
         >
-          What we are recommending right now
+          Top picks right now
         </h2>
+        <p className="mt-2 max-w-2xl text-sm text-[var(--color-muted)]">
+          A short list of what we would buy first. Full guides live on each product page.
+        </p>
         <div className="mt-10">
-          <ProductGrid products={products} region={region} isFallback={isFallback} />
+          <ProductGrid products={featuredProducts} region={region} isFallback={isFallback} />
         </div>
+        <p className="mt-10">
+          <Link
+            href="/categories"
+            className="text-sm font-semibold text-[var(--color-brand-800)] underline-offset-4 hover:underline"
+          >
+            See all {products.length} picks
+          </Link>
+        </p>
       </section>
+
+      {guideTeaser.length > 0 && (
+        <section className="mt-20" aria-labelledby="guides-teaser-heading">
+          <h2
+            id="guides-teaser-heading"
+            className="font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]"
+          >
+            From the guides
+          </h2>
+          <p className="mt-2 max-w-2xl text-sm text-[var(--color-muted)]">
+            Longer reads on trackers, fountains, cameras, and what actually matters before you buy.
+          </p>
+          <div className="mt-10 grid grid-cols-1 gap-6 sm:grid-cols-2 xl:grid-cols-3">
+            {guideTeaser.map((guide) => (
+              <GuideCard key={guide.slug} guide={guide} />
+            ))}
+          </div>
+          <p className="mt-10">
+            <Link
+              href="/guides"
+              className="text-sm font-semibold text-[var(--color-brand-800)] underline-offset-4 hover:underline"
+            >
+              See all guides
+            </Link>
+          </p>
+        </section>
+      )}
 
       <section className="mt-20 max-w-3xl">
         <h2 className="font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]">

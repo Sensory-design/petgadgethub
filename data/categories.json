@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "slug": "comfort",
+      "label": "Comfort",
+      "intro": "Beds, anxiety wraps, and cooling gear that actually get used — for pets who need more than a blanket on the floor."
+    },
+    {
+      "slug": "daily-walks",
+      "label": "Daily walks",
+      "intro": "Harnesses, poop bags, and launchers for the part of the day most dogs live for — and most owners just want to go smoothly."
+    },
+    {
+      "slug": "enrichment",
+      "label": "Enrichment",
+      "intro": "Puzzle feeders, treat toys, and launchers that keep clever dogs (and cats) from redecorating your house out of boredom."
+    },
+    {
+      "slug": "feeding",
+      "label": "Feeding",
+      "intro": "Automatic feeders, slow bowls, and portion tools for pets that eat too fast, too late, or from the wrong bowl."
+    },
+    {
+      "slug": "grooming-and-home",
+      "label": "Grooming and home",
+      "intro": "Hair removers, nail grinders, and clippers so fur on the sofa is an occasional fact of life, not a permanent state."
+    },
+    {
+      "slug": "health",
+      "label": "Health",
+      "intro": "Dental treats, wipes, and hygiene gear that vets tend to endorse — without the fuss of a full grooming appointment."
+    },
+    {
+      "slug": "home-air",
+      "label": "Home air",
+      "intro": "Air purifiers that deal with pet dander and odour quietly in the background, so the house smells like a home not a kennel."
+    },
+    {
+      "slug": "home-monitoring",
+      "label": "Home monitoring",
+      "intro": "Cameras and smart monitors for knowing what your pet gets up to the moment you close the front door."
+    },
+    {
+      "slug": "hydration",
+      "label": "Hydration",
+      "intro": "Fountains and water bowls that persuade cats (and dogs) to drink more without a full plumbing project."
+    },
+    {
+      "slug": "hygiene",
+      "label": "Hygiene",
+      "intro": "Litter boxes, odour control, and waste tools that make the less glamorous side of pet ownership bearable."
+    },
+    {
+      "slug": "safety",
+      "label": "Safety",
+      "intro": "GPS trackers, bark collars, and containment gear for pets who treat the garden boundary as a suggestion."
+    },
+    {
+      "slug": "training",
+      "label": "Training",
+      "intro": "Headcollars, harnesses, and gentle training tools for dogs that still think pulling is a competitive sport."
+    },
+    {
+      "slug": "travel",
+      "label": "Travel",
+      "intro": "Carriers, car harnesses, and travel bowls for pets who come everywhere — and the owners who pack for them."
+    }
+  ]
+}

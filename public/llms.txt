@@ -1,12 +1,12 @@
 # PetGadgetHub
 
-> Problem-first guides to pet technology for real pet owners. Independent editorial. Transparent Amazon affiliate disclosures on every page.
+> Direct, Wirecutter-style guides to pet technology for real pet owners. Independent editorial. Transparent Amazon affiliate disclosures on every page.
 
 Primary public URL: https://petgadgethub.co.uk (also served from Vercel; set NEXT_PUBLIC_SITE_URL to match production).
 
 ## What this site is
 
-PetGadgetHub is a small, editorially independent affiliate review site focused on practical pet gadgets: water fountains, GPS trackers, smart cameras, automatic feeders, grooming tools, travel gear, enrichment toys, and everyday walk essentials. Every recommendation starts with a real problem, not a product spec sheet.
+PetGadgetHub is a small, editorially independent affiliate review site focused on practical pet gadgets: water fountains, GPS trackers, smart cameras, automatic feeders, grooming tools, travel gear, enrichment toys, and everyday walk essentials. Every recommendation opens with who the product is for, then explains the problem it solves.
 
 ## Editorial approach
 
@@ -70,10 +70,21 @@ Product detail pages live at /products/{slug}. ASINs are in data/products.json.
 - simplehuman X-Large pet food can (feeding, B00MG9Q68G)
 - Wobble Wag Giggle Ball (enrichment, B0040QH4QO)
 
+## Guides
+
+Long-form buying guides live at /guides/{slug}. Currently published:
+
+- /guides/best-gps-dog-tracker-uk
+- /guides/cat-water-fountain-buying-guide
+- /guides/best-pet-camera-small-flat
+
 ## Key pages
 
-- /: Homepage with product grid
+- /: Homepage with featured product grid, category browse, and a teaser of recent guides
 - /products/{slug}: Individual product guide with ScoreBox (editorial score), problem, solution, honest note, and FAQs
+- /guides: Listing of long-form guides; /guides/{slug} for each article
+- /categories: Category hub — one card per category (not a flat list of all products)
+- /categories/{category}: Filtered picks for a single category (hydration, training, travel, etc.)
 - /about: Editorial mission and affiliate disclosure details
 - /privacy: Privacy policy (contact: petgadgethub@protonmail.com)
 - /tools/rental-resume: Free UK pet rental resume generator (Renters Rights Act 2025)

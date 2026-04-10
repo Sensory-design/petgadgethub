@@ -2,6 +2,7 @@ import type { AffiliateRegion } from "@/lib/affiliateTag";
 import { buildProductUrl } from "@/lib/buildAffiliateUrl";
 import type { Product } from "@/types/product";
 import { getSiteOrigin } from "@/lib/siteUrl";
+import { productHeroImageSrc } from "@/lib/productHeroImage";
 
 export function organizationLd() {
   return {
@@ -27,14 +28,13 @@ export function websiteLd() {
 
 export function productLd(product: Product, region: AffiliateRegion) {
   const base = getSiteOrigin();
+  const hero = productHeroImageSrc(product);
   const core: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": "Product",
     name: product.title,
     description: product.solution,
-    image: product.imageSrc.startsWith("http")
-      ? product.imageSrc
-      : `${base}${product.imageSrc}`,
+    image: hero.startsWith("http") ? hero : `${base}${hero}`,
     url: `${base}/products/${product.slug}`,
     offers: {
       "@type": "Offer",
@@ -80,5 +80,43 @@ export function faqLd(faqs: { q: string; a: string }[]) {
       name: q,
       acceptedAnswer: { "@type": "Answer", text: a },
     })),
+  };
+}
+
+export function breadcrumbLd(items: { name: string; path: string }[]) {
+  const base = getSiteOrigin().replace(/\/$/, "");
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: items.map((item, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: item.name,
+      item: `${base}${item.path}`,
+    })),
+  };
+}
+
+export function collectionPageLd(
+  label: string,
+  slug: string,
+  products: Product[],
+) {
+  const base = getSiteOrigin().replace(/\/$/, "");
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `${label} picks — PetGadgetHub`,
+    url: `${base}/categories/${slug}`,
+    description: `PetGadgetHub guides: ${label.toLowerCase()} gear we recommend, with honest pros and cons.`,
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: products.map((p, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        url: `${base}/products/${p.slug}`,
+        name: p.title,
+      })),
+    },
   };
 }

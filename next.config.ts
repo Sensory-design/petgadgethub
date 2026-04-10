@@ -14,6 +14,16 @@ const nextConfig: NextConfig = {
         hostname: "plus.unsplash.com",
         pathname: "/premium_photo-**",
       },
+      {
+        protocol: "https",
+        hostname: "images.pexels.com",
+        pathname: "/photos/**",
+      },
+      {
+        protocol: "https",
+        hostname: "m.media-amazon.com",
+        pathname: "/images/**",
+      },
     ],
   },
 };

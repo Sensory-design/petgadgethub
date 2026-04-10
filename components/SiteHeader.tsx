@@ -1,12 +1,16 @@
 import Link from "next/link";
 
+import { cn } from "@/lib/utils";
+
 /** Core site first - tools (e.g. rental resume) live in the footer. */
-const nav = [
+const nav: { href: string; label: string; hideOnMobile?: boolean }[] = [
   { href: "/", label: "Home" },
-  { href: "/#picks", label: "Our picks" },
+  { href: "/#picks", label: "Our picks", hideOnMobile: true },
+  { href: "/categories", label: "All picks" },
+  { href: "/guides", label: "Guides" },
   { href: "/about", label: "About" },
-  { href: "/privacy", label: "Privacy" },
-] as const;
+  { href: "/privacy", label: "Privacy", hideOnMobile: true },
+];
 
 export function SiteHeader() {
   return (
@@ -18,12 +22,15 @@ export function SiteHeader() {
           </span>
           <span className="hidden text-sm text-[var(--color-muted)] sm:inline">Honest pet tech picks</span>
         </Link>
-        <nav aria-label="Main" className="flex items-center gap-6 text-sm font-medium">
+        <nav aria-label="Main" className="flex flex-wrap items-center gap-4 text-sm font-medium sm:gap-6">
           {nav.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="text-[var(--color-muted)] transition-colors hover:text-[var(--color-ink)]"
+              className={cn(
+                "text-[var(--color-muted)] transition-colors hover:text-[var(--color-ink)]",
+                item.hideOnMobile && "hidden sm:inline",
+              )}
             >
               {item.label}
             </Link>

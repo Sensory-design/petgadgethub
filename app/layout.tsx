@@ -54,13 +54,19 @@ export const metadata: Metadata = {
     googleBot: { index: true, follow: true, "max-snippet": -1 },
   },
   alternates: {
-    canonical: "/",
+    canonical: "https://petgadgethub.co.uk",
   },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${dmSans.variable} ${fraunces.variable}`}>
+      <head>
+        <meta
+          name="google-site-verification"
+          content="MpdFmMN2iGgYOMnT6E8PPexqUHFclY7UQ6UQYf63X1s"
+        />
+      </head>
       <body className="min-h-screen font-sans">
         <DisclosureBanner />
         <SiteHeader />

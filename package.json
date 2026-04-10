@@ -1,6 +1,6 @@
 {
   "name": "petgadgethub",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -27,6 +27,7 @@
     "@types/react-dom": "^19.1.0",
     "eslint": "^9.24.0",
     "eslint-config-next": "^15.2.4",
+    "paapi5-nodejs-sdk": "^1.1.0",
     "tailwindcss": "^4.1.3",
     "tsx": "^4.19.3",
     "typescript": "^5.8.3"

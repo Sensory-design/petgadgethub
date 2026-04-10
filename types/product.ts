@@ -9,7 +9,10 @@ export const productSchema = z.object({
   solution: z.string().min(1),
   honestNote: z.string().optional(),
   category: z.string().min(1),
+  /** Editorial fallback when `amazonImageUrl` is unset (Unsplash/Pexels). */
   imageSrc: z.string().min(1),
+  /** Amazon CDN hero from PA-API `Images.Primary.Large` when populated (optional). */
+  amazonImageUrl: z.string().url().optional(),
   imageAlt: z.string().min(1),
   whyWePicked: z.string().min(1),
   rating: z.number().min(1).max(5).optional(),

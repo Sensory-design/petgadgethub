@@ -7,6 +7,49 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.8.0] - 2026-04-10
+
+### Added
+
+- **Guides section**: `/guides` and `/guides/[slug]` with [data/guides.json](data/guides.json), [types/guide.ts](types/guide.ts), [lib/getGuides.ts](lib/getGuides.ts), [components/GuideCard.tsx](components/GuideCard.tsx), Article + FAQ JSON-LD on guide pages.
+- Three seed guides: Best GPS dog tracker UK, Cat water fountain buying guide, Best pet camera for a small flat.
+- **Category hub**: `/categories` shows one [CategoryCard](components/CategoryCard.tsx) per category instead of all 50 products; [data/categories.json](data/categories.json) stores editorial intros per category slug.
+- Homepage: "From the guides" teaser (three `GuideCard`s) and link to `/guides`.
+- Footer: "Explore" links to `/guides` and `/categories`.
+
+### Changed
+
+- **SEO**: Per-route `alternates.canonical` on product, category, categories hub, and guides pages; Open Graph / Twitter on category pages; `collectionPageLd()` CollectionPage + ItemList JSON-LD on `/categories/[category]`; improved product meta descriptions; "Related picks" internal links on product pages.
+- [app/sitemap.ts](app/sitemap.ts): `/guides` and per-guide URLs.
+- [components/SiteHeader.tsx](components/SiteHeader.tsx): "Guides" in nav; hide "Our picks" and "Privacy" on narrow viewports (still in footer).
+- [public/llms.txt](public/llms.txt): Guides section and updated key pages (category hub, `/guides`).
+- [docs/DOMAIN.md](docs/DOMAIN.md): Google Search Console — resubmit `sitemap.xml` after shipping new routes.
+
+## [0.7.0] - 2026-04-09
+
+### Added
+
+- Category landing pages at `/categories` and `/categories/[category]` with `generateStaticParams` for all product categories.
+- [components/CategoryNav.tsx](components/CategoryNav.tsx): Wirecutter-style category pill row on the homepage.
+- [lib/categorySlug.ts](lib/categorySlug.ts): `slugFromCategory()` and `labelFromSlug()` helpers.
+- [lib/jsonLd.ts](lib/jsonLd.ts): `breadcrumbLd()` for category pages.
+- [app/sitemap.ts](app/sitemap.ts): `/categories` and per-category URLs.
+- [scripts/fix-broken-product-images.py](scripts/fix-broken-product-images.py): regenerates all product `imageSrc` values from verified Unsplash and Pexels URL lists.
+
+### Changed
+
+- Homepage now shows 8 featured picks instead of all 50, adds a "Browse by category" section above the grid, and links to all picks below.
+- [components/ProductGrid.tsx](components/ProductGrid.tsx): replaced the bento-style featured split with a uniform 2-column / 3-column XL grid.
+- [components/SiteHeader.tsx](components/SiteHeader.tsx): "All picks" now links to `/categories`.
+- [data/products.json](data/products.json): Wirecutter-style `problem`, `solution`, `verdict`, and `tagline` updates for `tractive-gps-dog-6`, `petlibro-stainless-fountain`, `kasa-smart-pet-cam`, `petsafe-scoopfree-ultra-litter-box`, and `kong-classic-dog-toy`.
+- [scripts/link-health.py](scripts/link-health.py): defaults to `www.amazon.co.uk`, uses a browser-like user agent, adds polite delay and retry handling, and supports `--check-both` and `--domain`.
+- [public/llms.txt](public/llms.txt): added category browse routes to the key pages list.
+- [next.config.ts](next.config.ts): `images.remotePatterns` includes `images.pexels.com` so `next/image` can optimize Pexels hero URLs.
+
+### Fixed
+
+- Broken product hero images: many `imageSrc` values used invalid Unsplash photo IDs (HTTP 404). All 50 products now use verified **Unsplash** and **Pexels** URLs (unique per card). These remain editorial placeholders; **Amazon Product Advertising API (PA-API)** product images can replace them after Associates programme acceptance and API access.
+
 ## [0.6.0] - 2026-04-10
 
 ### Added

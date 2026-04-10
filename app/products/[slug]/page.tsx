@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { AmazonCta } from "@/components/AmazonCta";
@@ -9,9 +10,21 @@ import { buildProductUrl } from "@/lib/buildAffiliateUrl";
 import { amazonSocialProofLine } from "@/lib/formatAmazonSocialProof";
 import { faqLd, productLd } from "@/lib/jsonLd";
 import { getProducts } from "@/lib/getProducts";
+import { productHeroImageSrc } from "@/lib/productHeroImage";
 import { getAffiliateRegion } from "@/lib/regionFromRequest";
+import { getSiteOrigin } from "@/lib/siteUrl";
+import type { Product } from "@/types/product";
 
 type Props = { params: Promise<{ slug: string }> };
+
+function buildProductDescription(product: Product): string {
+  const who = product.problem.split(".")[0].replace(/^Who it is for:\s*/i, "").trim();
+  const base = `${product.tagline} Our review covers who it suits, what to watch out for, and whether it solves the problem.`;
+  if (who && who.length > 10) {
+    return `${who}? ${base}`.slice(0, 160);
+  }
+  return base.slice(0, 160);
+}
 
 export async function generateStaticParams() {
   const { products } = await getProducts();
@@ -23,14 +36,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { products } = await getProducts();
   const product = products.find((p) => p.slug === slug);
   if (!product) return {};
-  const description = `${product.tagline} ${product.solution}`.slice(0, 160);
+  const base = getSiteOrigin().replace(/\/$/, "");
+  const description = buildProductDescription(product);
+  const hero = productHeroImageSrc(product);
   return {
     title: `${product.title} - Is it worth it?`,
     description,
+    alternates: { canonical: `${base}/products/${slug}` },
     openGraph: {
       title: `${product.title} - PetGadgetHub`,
       description,
-      images: [{ url: product.imageSrc, alt: product.imageAlt }],
+      images: [{ url: hero, alt: product.imageAlt }],
     },
     twitter: { card: "summary_large_image", title: product.title, description },
   };
@@ -47,6 +63,9 @@ export default async function ProductPage({ params }: Props) {
 
   const href = buildProductUrl(product.asin, region);
   const social = amazonSocialProofLine(product.rating, product.reviewCountApprox);
+  const relatedProducts = products
+    .filter((p) => p.category === product.category && p.slug !== product.slug)
+    .slice(0, 3);
 
   return (
     <article className="mx-auto max-w-3xl px-4 py-12 sm:px-6 sm:py-16">
@@ -77,7 +96,7 @@ export default async function ProductPage({ params }: Props) {
 
       <div className="relative mt-10 aspect-[16/10] overflow-hidden rounded-2xl border border-[var(--color-border)] bg-[var(--color-brand-50)]">
         <Image
-          src={product.imageSrc}
+          src={productHeroImageSrc(product)}
           alt={product.imageAlt}
           fill
           className="object-cover"
@@ -148,6 +167,33 @@ export default async function ProductPage({ params }: Props) {
         intro="Still deciding? The Amazon page shows live price, delivery date, and questions from recent buyers."
         className="mt-14"
       />
+
+      {relatedProducts.length > 0 && (
+        <section className="mt-14 border-t border-[var(--color-border)] pt-12">
+          <h2 className="font-[family-name:var(--font-display)] text-2xl font-semibold text-[var(--color-ink)]">
+            Related picks
+          </h2>
+          <p className="mt-2 text-sm text-[var(--color-muted)]">
+            More {product.category.toLowerCase()} guides from PetGadgetHub.
+          </p>
+          <ul className="mt-6 space-y-4">
+            {relatedProducts.map((rel) => (
+              <li
+                key={rel.slug}
+                className="rounded-xl border border-[var(--color-border)] bg-white p-4"
+              >
+                <Link
+                  href={`/products/${rel.slug}`}
+                  className="font-semibold text-[var(--color-ink)] hover:underline"
+                >
+                  {rel.title}
+                </Link>
+                <p className="mt-1 text-sm text-[var(--color-muted)]">{rel.tagline}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       <div className="mt-14">
         <AuthorBlock />
