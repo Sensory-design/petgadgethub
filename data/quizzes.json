@@ -43,12 +43,12 @@
             {
               "id": "budget",
               "label": "Lowest price to try it before committing",
-              "boosts": ["catit-flower-fountain"]
+              "boosts": ["catit-flower-fountain", "catit-pixi-fountain"]
             },
             {
               "id": "quiet",
               "label": "Quiet pump — my cat startles easily",
-              "boosts": ["petlibro-stainless-fountain", "catit-flower-fountain"]
+              "boosts": ["petlibro-stainless-fountain", "catit-flower-fountain", "catit-pixi-fountain"]
             }
           ]
         },
@@ -59,7 +59,7 @@
             {
               "id": "one",
               "label": "Just one",
-              "boosts": ["catit-flower-fountain", "petlibro-stainless-fountain"]
+              "boosts": ["catit-flower-fountain", "catit-pixi-fountain", "petlibro-stainless-fountain"]
             },
             {
               "id": "multiple",
@@ -173,12 +173,12 @@
             {
               "id": "no",
               "label": "No — first time looking for a solution",
-              "boosts": ["ruffwear-front-range-harness", "kurgo-tru-fit-crash-tested-harness", "petsafe-gentle-leader-headcollar"]
+              "boosts": ["ruffwear-front-range-harness", "kurgo-tru-fit-crash-tested-harness", "petsafe-gentle-leader-headcollar", "petsafe-treat-pouch"]
             },
             {
               "id": "yes-still-pulls",
               "label": "Yes — a harness didn't help, they still pull hard",
-              "boosts": ["petsafe-gentle-leader-headcollar", "halti-optifit-headcollar"]
+              "boosts": ["petsafe-gentle-leader-headcollar", "halti-optifit-headcollar", "acme-dog-training-whistle"]
             },
             {
               "id": "yes-car-too",
@@ -227,17 +227,17 @@
             {
               "id": "dog-medium",
               "label": "A dog (roughly over 4 kg)",
-              "boosts": ["tractive-gps-dog-6", "airtag-pet-collar-holder"]
+              "boosts": ["tractive-gps-dog-6", "fi-series-3-gps-collar", "airtag-pet-collar-holder", "rogz-reflective-dog-id-tag"]
             },
             {
               "id": "cat-small",
               "label": "A cat or a very small dog",
-              "boosts": ["tractive-gps-cat-tracker", "tractive-gps-dog-6"]
+              "boosts": ["tractive-gps-cat-tracker", "tractive-gps-dog-6", "airtag-pet-collar-holder"]
             },
             {
               "id": "not-sure",
               "label": "Not sure yet — I just want a starting point",
-              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker", "airtag-pet-collar-holder"]
+              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker", "airtag-pet-collar-holder", "rogz-reflective-dog-id-tag"]
             }
           ]
         },
@@ -248,17 +248,17 @@
             {
               "id": "rural-miles",
               "label": "Open country — they could be miles away",
-              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker"]
+              "boosts": ["tractive-gps-dog-6", "fi-series-3-gps-collar", "tractive-gps-cat-tracker"]
             },
             {
               "id": "local",
               "label": "Usually nearby — garden or a few streets",
-              "boosts": ["tractive-gps-dog-6", "airtag-pet-collar-holder"]
+              "boosts": ["tractive-gps-dog-6", "airtag-pet-collar-holder", "rogz-reflective-dog-id-tag"]
             },
             {
               "id": "urban-iphone",
               "label": "Dense city and I use an iPhone",
-              "boosts": ["airtag-pet-collar-holder", "tractive-gps-dog-6"]
+              "boosts": ["airtag-pet-collar-holder", "tractive-gps-dog-6", "rogz-reflective-dog-id-tag"]
             }
           ]
         },
@@ -269,17 +269,17 @@
             {
               "id": "ok-live-gps",
               "label": "Fine — live GPS when I panic is worth it",
-              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker"]
+              "boosts": ["tractive-gps-dog-6", "fi-series-3-gps-collar", "tractive-gps-cat-tracker"]
             },
             {
               "id": "no-sub",
               "label": "I want to avoid monthly fees if I can",
-              "boosts": ["airtag-pet-collar-holder"]
+              "boosts": ["airtag-pet-collar-holder", "rogz-reflective-dog-id-tag"]
             },
             {
               "id": "flexible",
               "label": "Whatever works best for my situation",
-              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker", "airtag-pet-collar-holder"]
+              "boosts": ["tractive-gps-dog-6", "tractive-gps-cat-tracker", "fi-series-3-gps-collar", "airtag-pet-collar-holder"]
             }
           ]
         }
@@ -311,7 +311,7 @@
             {
               "id": "pacing",
               "label": "Paces, whines, or generally mopes around",
-              "boosts": ["outward-hound-dog-brick-puzzle", "kong-classic-dog-toy", "ifetch-automatic-ball-launcher"]
+              "boosts": ["outward-hound-dog-brick-puzzle", "kong-classic-dog-toy", "ifetch-automatic-ball-launcher", "snuggle-puppy-heartbeat-toy"]
             }
           ]
         },

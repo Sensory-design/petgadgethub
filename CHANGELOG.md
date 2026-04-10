@@ -18,6 +18,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `dog-pulls-on-lead`: fixed small dog path that previously boosted only 1 product; now returns 3 options.
 - `llms.txt`: updated Quizzes section with all 8 quiz routes.
 
+## [Unreleased — products]
+
+### Added
+
+- 10 new products across thin categories: Fi Series 3 GPS Collar, Rogz ID Tag (Safety), PetSafe Treat Pouch, Acme Training Whistle (Training), Snuggle Puppy, Pecute Elevated Bed (Comfort), Catit SmartSift (Hygiene), YuMOVE Joint Supplement (Health), Winix C535 Air Purifier (Home air), Catit Pixi Fountain (Hydration). Total now 60 products.
+- Quiz boosts updated for Safety, Hydration, Training, and Enrichment quizzes to include new slugs.
+
 ## [1.0.4] - 2026-04-10
 
 ### Added

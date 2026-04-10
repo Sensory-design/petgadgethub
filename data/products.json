@@ -1798,6 +1798,366 @@
           "a": "Buy the large variant if offered - small balls are choke risks for big jaws."
         }
       ]
+    },
+    {
+      "slug": "fi-series-3-gps-collar",
+      "asin": "B0CQMGBWL5",
+      "title": "Fi Series 3 Smart Dog Collar",
+      "tagline": "Our pick for dogs that need live GPS and a built-in collar.",
+      "problem": "Most GPS trackers attach to an existing collar, which means two items to check and two things that can fail. Dogs that regularly escape or go off-lead in open country need a tracker that is always on and hard to forget. If your dog stays in a small urban garden and rarely bolts, a simpler and cheaper option works just as well.",
+      "solution": "The Fi Series 3 is a collar with GPS built in — no separate clip-on unit to lose. It pairs with a phone app for live tracking, escape alerts, and daily step count. Battery lasts up to three months on the base tracking mode.",
+      "honestNote": "Requires a monthly subscription for live GPS. Without it, the collar stores steps but does not track location. Check Fi's current UK availability before buying.",
+      "category": "Safety",
+      "whyWePicked": "Built-in collar design removes the most common failure point — a lost or unclipped attachment.",
+      "rating": 4.4,
+      "reviewCountApprox": 5000,
+      "score": 8,
+      "pros": [
+        "GPS built into collar — nothing to clip on or forget",
+        "Up to 3-month battery on base mode",
+        "Escape alerts sent to your phone"
+      ],
+      "cons": [
+        "Monthly subscription required for live GPS",
+        "Premium price compared to clip-on trackers"
+      ],
+      "verdict": "Best for owners who want GPS always on their dog without a separate unit — subscription cost is the main trade-off.",
+      "imageSrc": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog wearing a GPS collar running outdoors",
+      "faq": [
+        {
+          "q": "Does the Fi collar work in the UK?",
+          "a": "Fi primarily uses LTE-M networks. Coverage varies by region — check Fi's coverage map for your specific area before purchasing."
+        },
+        {
+          "q": "How is the Fi collar different from a Tractive tracker?",
+          "a": "Tractive is a clip-on attachment you add to any collar. Fi replaces the collar entirely. Fi also tracks daily activity; Tractive focuses primarily on location."
+        }
+      ]
+    },
+    {
+      "slug": "rogz-reflective-dog-id-tag",
+      "asin": "B001P3PPDY",
+      "title": "Rogz Reflective Dog ID Tag",
+      "tagline": "The simplest safety net — a clear ID tag that stays readable.",
+      "problem": "Technology fails. Batteries die, apps crash, and a dog can slip a tracker along with its collar. An engraved ID tag is the one thing that still works when everything else has failed — any person who finds your dog can read it without a phone. Anyone who skips an ID tag on the assumption that their tracker covers it is taking a risk they do not need to take.",
+      "solution": "The Rogz tag is a durable, reflective disc with room for a name and phone number on the back. It clips to any collar D-ring and does not rattle loudly against metal hardware. Reflective coating helps the dog be seen in low light.",
+      "honestNote": "ID tags are a legal requirement in the UK under the Control of Dogs Order 1992 — your dog must wear one in public. A tracker does not substitute for this.",
+      "category": "Safety",
+      "whyWePicked": "A clear ID tag with UK legal compliance is the one safety item every dog needs regardless of what else you buy.",
+      "rating": 4.5,
+      "reviewCountApprox": 3000,
+      "score": 8,
+      "pros": [
+        "Works without batteries, signal, or apps",
+        "Reflective for visibility at night",
+        "Meets UK Control of Dogs Order legal requirement"
+      ],
+      "cons": [
+        "Needs engraving separately after purchase",
+        "No active tracking — purely passive identification"
+      ],
+      "verdict": "Not optional — every dog in the UK legally needs one. Buy this alongside whatever tracker you choose.",
+      "imageSrc": "https://images.pexels.com/photos/2253275/pexels-photo-2253275.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Close-up of a dog collar with an ID tag",
+      "faq": [
+        {
+          "q": "Is a dog ID tag a legal requirement in the UK?",
+          "a": "Yes. Under the Control of Dogs Order 1992, all dogs in public spaces must wear a collar with the owner's name and address engraved or written on it. A tag is the standard way to comply."
+        },
+        {
+          "q": "Can I use a GPS tracker instead of an ID tag?",
+          "a": "No. A tracker satisfies your own need to locate the dog but does not fulfil the legal requirement for identification. A stranger who finds your dog cannot access your tracker app — they can read a tag."
+        }
+      ]
+    },
+    {
+      "slug": "petsafe-treat-pouch",
+      "asin": "B001ATG7FS",
+      "title": "PetSafe Treat & Train Reward Pouch",
+      "tagline": "Our pick for reward-based training without fumbling in your pockets.",
+      "problem": "Reward-based training depends on speed — you have roughly two seconds after the correct behaviour to deliver the treat before the association breaks. Digging through a pocket or bag in that window breaks the timing and slows progress. Anyone doing short ten-minute training sessions at home or in the park needs treats instantly accessible.",
+      "solution": "The PetSafe treat pouch clips to a waistband or bag strap and opens with one hand. A magnetic closure snaps shut between rewards so treats do not fall out during movement. Holds roughly a cup of treats — enough for a full session.",
+      "honestNote": "Soft treats work better than hard kibble for quick delivery. The pouch needs washing occasionally as residue builds up — most versions are hand-wash only.",
+      "category": "Training",
+      "whyWePicked": "One-handed access keeps reward timing accurate, which is the single biggest factor in how fast a dog learns.",
+      "rating": 4.5,
+      "reviewCountApprox": 8000,
+      "score": 8,
+      "pros": [
+        "One-hand magnetic open and close",
+        "Clips to waistband, belt, or bag strap",
+        "Holds enough treats for a full training session"
+      ],
+      "cons": [
+        "Needs regular washing — residue builds up quickly",
+        "Magnetic closure can pop open on sharp movements"
+      ],
+      "verdict": "The difference between consistent and inconsistent training timing — worth buying before anything else if you reward with food.",
+      "imageSrc": "https://images.pexels.com/photos/1485637/pexels-photo-1485637.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Person training a dog outdoors with treats",
+      "faq": [
+        {
+          "q": "Does the treat pouch work with kibble as well as soft treats?",
+          "a": "It works with both, but soft treats are faster to deliver and more motivating for most dogs. Kibble can get stuck in the bottom corners of the pouch."
+        },
+        {
+          "q": "Can I use this hands-free on a run?",
+          "a": "It clips securely enough for walks and light jogging. For running, the pouch can bounce — a waistband with a tighter clip or a dedicated running belt works better."
+        }
+      ]
+    },
+    {
+      "slug": "acme-dog-training-whistle",
+      "asin": "B00006L96Z",
+      "title": "Acme Dog Training Whistle 210.5",
+      "tagline": "Our pick for building a reliable recall from distance.",
+      "problem": "A verbal recall command carries only as far as your voice, varies in pitch when you are stressed, and sounds different to the dog depending on wind and background noise. Dogs that recall well at home often do not recall in a park because the cue they have learned sounds different in the open. A whistle produces a consistent tone every time, regardless of how calm or panicked you are.",
+      "solution": "The Acme 210.5 is the standard recall whistle used by gundog trainers and behaviourists in the UK. A single pea-less design means it works wet, is harder to block with debris, and produces the same pitch every time. Attach it to a lanyard and it is always at your chest.",
+      "honestNote": "A whistle only works if the dog is trained to it — you still need to practise the recall association consistently before relying on it in a high-distraction situation.",
+      "category": "Training",
+      "whyWePicked": "Industry-standard recall whistle among UK trainers — produces a consistent tone regardless of conditions or how stressed the handler is.",
+      "rating": 4.7,
+      "reviewCountApprox": 9000,
+      "score": 8,
+      "pros": [
+        "Consistent pitch regardless of conditions or stress",
+        "Pea-less design works when wet",
+        "Recommended by UK gundog trainers and behaviourists"
+      ],
+      "cons": [
+        "Requires dedicated training to associate whistle with recall",
+        "Loud enough to bother nearby people in quiet spaces"
+      ],
+      "verdict": "The most reliable recall tool for open country and parks — but only after consistent whistle recall training at home first.",
+      "imageSrc": "https://images.pexels.com/photos/1480076/pexels-photo-1480076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imageAlt": "Dog running back across a field towards its owner",
+      "faq": [
+        {
+          "q": "Which Acme whistle frequency should I buy?",
+          "a": "The 210.5 is the most commonly recommended for recall training in the UK. It is audible to both dog and handler. Silent (ultrasonic) whistles can work but make it harder for beginners to know if they have blown correctly."
+        },
+        {
+          "q": "How long does it take to train a whistle recall?",
+          "a": "Most dogs can learn a reliable whistle recall in two to four weeks of short daily sessions, assuming they already have a basic verbal recall. Starting in a low-distraction environment and building up gradually is essential."
+        }
+      ]
+    },
+    {
+      "slug": "snuggle-puppy-heartbeat-toy",
+      "asin": "B0002VQOAY",
+      "title": "Smart Pet Love Snuggle Puppy",
+      "tagline": "Our pick for new puppies and dogs with separation anxiety at night.",
+      "problem": "Puppies removed from a litter and dogs with separation anxiety often cry, pace, or refuse to settle overnight. The trigger is usually the absence of warmth and a heartbeat — cues that signal safety to a young or anxious dog. Most comfort solutions address the surface behaviour rather than the underlying trigger.",
+      "solution": "The Snuggle Puppy contains a battery-powered heartbeat unit and a replaceable heat pack. The heartbeat runs at a rate designed to mimic a resting dog's pulse. Most owners report puppies settling significantly faster on the first or second night compared to without it.",
+      "honestNote": "Heat packs need replacing roughly every 24 hours. The heartbeat unit runs on batteries — check both before a long night and replace proactively rather than waiting for them to fail.",
+      "category": "Comfort",
+      "whyWePicked": "Heartbeat and warmth together address the actual physiological trigger for night-time distress, not just a symptom.",
+      "rating": 4.6,
+      "reviewCountApprox": 22000,
+      "score": 9,
+      "pros": [
+        "Heartbeat and warmth together address the root trigger",
+        "Washable outer cover",
+        "Works for most breeds at puppy stage"
+      ],
+      "cons": [
+        "Heat packs need replacing every 24 hours",
+        "Battery heartbeat unit can fail without warning"
+      ],
+      "verdict": "Our default recommendation for new puppy nights and dogs with mild separation anxiety — replace heat packs proactively.",
+      "imageSrc": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Small puppy sleeping curled up on a soft toy",
+      "faq": [
+        {
+          "q": "Does the Snuggle Puppy work for adult dogs too?",
+          "a": "Yes, particularly for dogs with anxiety or those adjusting to a new home. The heartbeat effect is not limited to puppies — it works for any dog that settles with close contact."
+        },
+        {
+          "q": "How long do the heat packs last?",
+          "a": "Each heat pack lasts roughly 24 hours. Replacement packs are available separately. Many owners use the toy without the heat pack once the dog has settled into a routine."
+        }
+      ]
+    },
+    {
+      "slug": "pecute-elevated-dog-bed",
+      "asin": "B07RBMXNRN",
+      "title": "Pecute Elevated Dog Cooling Bed",
+      "tagline": "Our pick for dogs that need joint support and airflow overnight.",
+      "problem": "Dogs sleeping directly on cold hard floors risk joint strain, particularly older dogs or large breeds prone to elbow calluses. Soft padded beds can retain heat and flatten quickly under heavy dogs. Dogs recovering from joint surgery or living with arthritis need something that supports without pressure points.",
+      "solution": "An elevated cot-style bed holds the dog off the floor, allowing air to circulate underneath. The raised frame distributes weight evenly without a pressure point, and the breathable mesh surface does not retain heat the way foam does. The Pecute version is one of the few rated for dogs over 30 kg.",
+      "honestNote": "Assembly requires attaching the legs — usually straightforward but takes ten minutes. Not suitable for dogs that chew bed frames as a stress behaviour.",
+      "category": "Comfort",
+      "whyWePicked": "Elevated design solves both overheating and joint pressure simultaneously — two problems a padded bed cannot fix.",
+      "rating": 4.4,
+      "reviewCountApprox": 6000,
+      "score": 8,
+      "pros": [
+        "Air circulates underneath — cooler than foam beds",
+        "Even weight distribution for joint-sensitive dogs",
+        "Rated for dogs over 30 kg"
+      ],
+      "cons": [
+        "Not for dogs that chew or scratch bed frames",
+        "Requires brief assembly before use"
+      ],
+      "verdict": "Our default bed pick for larger or older dogs — the airflow and joint support make it the practical step up from a mat.",
+      "imageSrc": "https://images.unsplash.com/photo-1601758174493-97b9e49f5e88?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Dog resting on an elevated mesh pet bed",
+      "faq": [
+        {
+          "q": "Is an elevated bed better for dogs with arthritis?",
+          "a": "Generally yes. Getting on and off a floor-level mat requires more joint effort. An elevated bed at a height that does not require jumping reduces that daily strain. For severe arthritis, ask your vet about orthopaedic foam alternatives too."
+        },
+        {
+          "q": "What weight limit does this bed have?",
+          "a": "The Pecute elevated bed is rated for dogs up to approximately 50 kg depending on the size variant. Check the specific size listing before ordering for large breeds."
+        }
+      ]
+    },
+    {
+      "slug": "catit-smartsift-litter-box",
+      "asin": "B002IHKPYM",
+      "title": "Catit SmartSift Litter Box",
+      "tagline": "Our pick for cutting daily litter scooping to once a pull.",
+      "problem": "A standard litter box needs scooping at least once a day to prevent odour and discourage the cat from avoiding it. For owners with more than one cat, or cats that are heavy users, scooping twice a day is realistic. It is one of the most consistent sources of friction in cat ownership — the task most likely to be delayed, which then creates odour problems.",
+      "solution": "The Catit SmartSift uses a sifting drawer system. A single pull separates clumped litter from clean, dropping waste into a sealed bag underneath. No separate scoop is needed. The hood contains odour better than an open tray, and the drawer system takes around fifteen seconds to operate.",
+      "honestNote": "Works best with clumping litter. Non-clumping litter does not separate properly in the sifting drawer and will fall through with the clean litter, defeating the purpose.",
+      "category": "Hygiene",
+      "whyWePicked": "The pull-to-clean mechanism makes daily litter maintenance a 15-second task rather than a two-minute scooping job.",
+      "rating": 4.3,
+      "reviewCountApprox": 4500,
+      "score": 8,
+      "pros": [
+        "Single pull separates waste — no scoop needed",
+        "Hood contains odour better than open tray",
+        "Works for multiple cats with daily use"
+      ],
+      "cons": [
+        "Only works correctly with clumping litter",
+        "Replacement bags add ongoing cost"
+      ],
+      "verdict": "A genuine time-saver for any household that finds daily scooping one of the most skipped chores — but commit to clumping litter.",
+      "imageSrc": "https://images.unsplash.com/photo-1589883661923-6476cb0ae9f2?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Cat using a hooded litter box",
+      "faq": [
+        {
+          "q": "Does the Catit SmartSift work with any litter?",
+          "a": "It works best with clumping clay or clumping silica litter. Non-clumping litter does not form solid clumps and will pass through the sifting tray with the clean litter — making the system ineffective."
+        },
+        {
+          "q": "Is this big enough for a large cat?",
+          "a": "The standard size suits most cats up to medium-large. Very large cats, particularly Maine Coons or large males, may find the entry and interior restrictive. Check the dimensions against your cat's length before buying."
+        }
+      ]
+    },
+    {
+      "slug": "yumove-joint-supplement-dogs",
+      "asin": "B0098BPQY0",
+      "title": "YuMOVE Joint Supplement for Dogs",
+      "tagline": "Our pick for dogs showing early stiffness after walks or rest.",
+      "problem": "Large and medium dogs — particularly Labradors, German Shepherds, and Golden Retrievers — commonly develop joint stiffness from middle age. Owners often notice the dog is slower to get up, reluctant on stairs, or stiff after a long walk. Waiting until the dog is in visible pain before acting means starting intervention later than is ideal.",
+      "solution": "YuMOVE is a joint supplement containing glucosamine, green-lipped mussel, and hyaluronic acid — ingredients with evidence supporting joint lubrication and cartilage protection. It comes as a tablet most dogs accept as a treat. Most owners report visible improvement within a few weeks.",
+      "honestNote": "A supplement is not a substitute for veterinary assessment. If your dog is limping, struggling on stairs, or in obvious discomfort, see a vet first — there may be an underlying condition that supplements alone will not address.",
+      "category": "Health",
+      "whyWePicked": "The most widely used and vet-recommended joint supplement brand in the UK, with consistent results reported for stiffness in dogs over five.",
+      "rating": 4.6,
+      "reviewCountApprox": 35000,
+      "score": 9,
+      "pros": [
+        "Contains glucosamine, green-lipped mussel, and hyaluronic acid",
+        "Most dogs accept the tablet as a treat",
+        "Widely recommended by UK vets as a first-line supplement"
+      ],
+      "cons": [
+        "Ongoing monthly cost — it stops working when you stop giving it",
+        "Not a substitute for veterinary diagnosis of joint pain"
+      ],
+      "verdict": "The practical first step for any dog showing early stiffness — book a vet check if stiffness is more than mild.",
+      "imageSrc": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Older Labrador dog resting outdoors in a garden",
+      "faq": [
+        {
+          "q": "At what age should I start a dog on joint supplements?",
+          "a": "Many vets suggest starting large and giant breeds from age five or six, or earlier if they are very active or have a family history of joint problems. Smaller breeds generally need them from seven or eight."
+        },
+        {
+          "q": "How long before I see a difference?",
+          "a": "Most owners report visible improvement — easier getting up, more willingness to walk — within four to six weeks of consistent daily use. Some dogs respond faster."
+        }
+      ]
+    },
+    {
+      "slug": "winix-c535-air-purifier",
+      "asin": "B01G8Q4CMO",
+      "title": "Winix C535 Air Purifier",
+      "tagline": "Our pick for a larger room where pet dander and odour need tackling together.",
+      "problem": "A single cat or dog can spread dander — microscopic skin flakes — throughout a room within hours of grooming or moving around. For allergy sufferers or anyone who notices persistent pet odour, a standard air freshener masks the problem without removing the particles. Dander stays airborne for hours; simply opening a window moves it around rather than removing it.",
+      "solution": "The Winix C535 combines a true HEPA filter (rated to capture 99.97% of particles 0.3 microns and larger) with a carbon filter for odour. It covers up to 50 square metres — enough for most living rooms plus a hallway. A PlasmaWave feature breaks down airborne contaminants at a molecular level.",
+      "honestNote": "Filter replacements cost around £30–40 per year. The PlasmaWave feature produces trace ozone — most owners run it with PlasmaWave off as a precaution around pets.",
+      "category": "Home air",
+      "whyWePicked": "HEPA plus activated carbon in one unit covers both dander and odour — the two main pet air quality problems — in rooms larger than the Levoit Core 300 handles.",
+      "rating": 4.5,
+      "reviewCountApprox": 11000,
+      "score": 8,
+      "pros": [
+        "True HEPA captures 99.97% of particles including dander",
+        "Carbon filter tackles pet odour, not just particles",
+        "Covers rooms up to 50 sqm"
+      ],
+      "cons": [
+        "Filter replacements add £30–40/year ongoing cost",
+        "PlasmaWave feature best turned off around pets"
+      ],
+      "verdict": "Our pick for larger rooms and households with allergy sufferers — the Levoit Core 300 is better for smaller spaces.",
+      "imageSrc": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Air purifier running in a bright living room",
+      "faq": [
+        {
+          "q": "Is the Winix C535 better than the Levoit Core 300 for pet owners?",
+          "a": "For larger rooms, yes. The Winix covers roughly twice the floor area and adds a carbon filter for odour. The Levoit Core 300 is a better choice for a bedroom or small flat where a full-sized unit is not needed."
+        },
+        {
+          "q": "Should I run PlasmaWave around my pets?",
+          "a": "Most owners turn PlasmaWave off as a precaution. It produces trace ozone, which at the levels this unit generates is unlikely to cause harm but is an unnecessary variable with pets in the room. The HEPA and carbon filters work without it."
+        }
+      ]
+    },
+    {
+      "slug": "catit-pixi-fountain",
+      "asin": "B08LH1MNFJ",
+      "title": "Catit Pixi Fountain",
+      "tagline": "Our pick for cats that need filtered flowing water but live in a small space.",
+      "problem": "The Catit Flower Fountain is effective but wide — it takes up significant counter or floor space. Owners in small flats, or those who want a fountain that fits in a corner without dominating the room, have limited compact options that still offer proper filtration and a visible water flow.",
+      "solution": "The Catit Pixi is tall and narrow rather than wide. It produces a gentle top-flow stream visible to cats approaching from across the room — a movement cue that encourages hesitant drinkers to investigate. The triple-action filter handles debris, softens hard water, and reduces odour. Capacity is 2.5 litres.",
+      "honestNote": "The pump is rated as quiet but some users report it becomes noisier as the filter collects debris — cleaning the pump weekly is the fix, not a hardware fault.",
+      "category": "Hydration",
+      "whyWePicked": "Compact footprint and visible top-flow stream fill the gap between the Catit Flower Fountain and the larger stainless options.",
+      "rating": 4.4,
+      "reviewCountApprox": 7000,
+      "score": 8,
+      "pros": [
+        "Narrow footprint fits small spaces and corners",
+        "Visible top-flow stream encourages hesitant drinkers",
+        "Triple-action filter handles debris, hardness, and odour"
+      ],
+      "cons": [
+        "Pump needs cleaning weekly to stay quiet",
+        "Smaller capacity than wider fountains for multi-cat homes"
+      ],
+      "verdict": "The practical choice for a small flat where the wider fountains take up too much space — keep the pump clean.",
+      "imageSrc": "https://images.unsplash.com/photo-1571131116858-2295ade82a72?w=800&q=80&auto=format&fit=crop",
+      "imageAlt": "Cat drinking from a compact pet water fountain",
+      "faq": [
+        {
+          "q": "How does the Catit Pixi compare to the Catit Flower Fountain?",
+          "a": "The Pixi is taller and narrower, making it better for small spaces. The Flower Fountain has a wider base and a more distinctive stream design some cats prefer. Both use similar filtration. Choose Pixi for space constraints, Flower Fountain if size is not an issue."
+        },
+        {
+          "q": "Is 2.5 litres enough for two cats?",
+          "a": "At the low end. For two cats, topping up every day or two is realistic. The Petlibro Stainless or Drinkwell Platinum offers more capacity if you want to go longer between refills."
+        }
+      ]
     }
   ]
 }

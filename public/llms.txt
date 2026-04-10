@@ -15,7 +15,7 @@ PetGadgetHub is a small, editorially independent affiliate review site focused o
 - Prices are not displayed on product cards because they change. We link directly to Amazon for live pricing.
 - All outbound product links are Amazon affiliate links (tags: petgadgethu06-20 for US/CA, petgadgethub9-21 for UK). This is disclosed in a sticky banner on every page.
 
-## Products currently covered (50 picks)
+## Products currently covered (60 picks)
 
 Product detail pages live at /products/{slug}. ASINs are in data/products.json.
 
@@ -69,6 +69,16 @@ Product detail pages live at /products/{slug}. ASINs are in data/products.json.
 - Levoit Core 300 air purifier (home air, B07VVK39F7)
 - simplehuman X-Large pet food can (feeding, B00MG9Q68G)
 - Wobble Wag Giggle Ball (enrichment, B0040QH4QO)
+- Fi Series 3 Smart Dog Collar (safety, B0CQMGBWL5)
+- Rogz Reflective Dog ID Tag (safety, B001P3PPDY)
+- PetSafe Treat & Train Reward Pouch (training, B001ATG7FS)
+- Acme Dog Training Whistle 210.5 (training, B00006L96Z)
+- Smart Pet Love Snuggle Puppy (comfort, B0002VQOAY)
+- Pecute Elevated Dog Cooling Bed (comfort, B07RBMXNRN)
+- Catit SmartSift Litter Box (hygiene, B002IHKPYM)
+- YuMOVE Joint Supplement for Dogs (health, B0098BPQY0)
+- Winix C535 Air Purifier (home air, B01G8Q4CMO)
+- Catit Pixi Fountain (hydration, B08LH1MNFJ)
 
 ## Guides
 
