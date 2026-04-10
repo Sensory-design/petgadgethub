@@ -97,11 +97,20 @@
 
 ## Suggested next steps (product)
 
-1. **Ship quizzes to production:** push `main`, confirm Vercel deploy, then in **Search Console** use **URL Inspection** on `https://petgadgethub.co.uk/quiz` (optional) — the sitemap already includes `/quiz` and each `/quiz/{slug}`.
-2. Confirm **Search Console** shows submitted **`sitemap.xml`** as Success; wait for Performance data.
-3. **Associates** reports when traffic grows; watch whether quiz result pages drive more outbound clicks than browse-only paths.
-4. Add guides / products / new quiz flows via JSON; run **`npm run build`** before merge.
-5. Optional: **`amazonImageUrl`** on products + PA-API script when Associates/API access allows.
+### Immediate priority
+1. **Rewrite product copy (Opus)** — `problem`, `solution`, `honestNote`, `verdict` on the top 20–25 products. Start with Safety, Hydration, Home monitoring, Training. Use `docs/CONTENT_GUIDE.md` as the brief.
+2. **New long-form guides (Sonnet → Opus)** — Enrichment, Travel, Grooming, Feeding guides to match the 4 new quiz flows. Sonnet: outline + headings. Opus: full body copy.
+3. **Google Search Console check (manual, no model)** — Log in at hull.rory@googlemail.com, confirm sitemap shows Success, skim Coverage for errors.
+
+### Near-term
+4. **Mobile hamburger nav (Sonnet)** — Replace flat nav in `components/SiteHeader.tsx` with a collapsible drawer triggered by a hamburger button on screens below `sm` (640 px). Current flat nav wraps or overflows on 320–375 px phones. Required before Associates quality review or significant mobile traffic.
+5. **US-neutral quiz copy (Sonnet)** — Swap British-only phrases ("lead", "pavements", "sorted", "garden", "Travelling") to neutral English that works for both UK and US readers.
+6. **Associates reports** — Watch whether quiz result pages drive more outbound clicks than browse-only paths once traffic grows.
+
+### Later / optional
+7. **`amazonImageUrl` on products + PA-API script** — When Associates/API access allows.
+8. **Additional quizzes** — Hygiene, Health, Comfort categories now have 2 products each; a short quiz becomes viable once a third product is added to each.
+9. **Confirm Search Console** shows submitted `sitemap.xml` as Success; wait for Performance data to build up before acting on it.
 
 ---
 

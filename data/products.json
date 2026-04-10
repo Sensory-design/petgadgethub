@@ -5,12 +5,12 @@
       "slug": "petlibro-stainless-fountain",
       "asin": "B09B2852X8",
       "title": "Petlibro Stainless Steel Pet Fountain",
-      "tagline": "Our pick for picky cat hydration.",
-      "problem": "Who it is for: indoor cats on dry food that walk past a still water bowl. Who should skip: anyone unwilling to clean a fountain every week.",
-      "solution": "The stainless top is easier to keep sanitary than scratched plastic, and the moving water nudges many cats to drink more. Keep the pump clean and it stays quiet enough for most living rooms.",
-      "honestNote": "You will still need to clean it on a schedule. No fountain replaces basic maintenance.",
+    "tagline": "Our pick for picky cat hydration.",
+    "problem": "Indoor cats on dry food that ignore a still water bowl are quietly risking kidney strain over years. The instinct runs deep: moving water reads as fresh, standing water reads as stagnant. A cat that drinks happily from a running tap but refuses the bowl next to its food is not being difficult — it is following the same reflex that kept its ancestors alive around streams. A fountain is the most reliable way to trigger that reflex without leaving a tap running all day. Anyone unwilling to clean a fountain weekly should not buy one: a neglected fountain grows bacteria faster than a bowl does.",
+    "solution": "The stainless steel bowl resists the micro-scratches that harbour bacteria on plastic — the main reason plastic fountains develop a slimy biofilm within days of a missed clean. The pump circulates water through a replaceable filter and keeps the surface moving visibly, which is the cue most cats respond to. Pump noise is low enough that most cats do not startle when approaching, and filter replacement takes under two minutes once you have done it the first time.",
+    "honestNote": "A fountain does not eliminate cleaning — it changes the schedule from daily bowl scrubs to a weekly fountain strip-down plus filter change every two to four weeks. Budget roughly £3–4 per month for filters.",
       "category": "Hydration",
-      "whyWePicked": "Strong stainless bowl, quiet pump, and thousands of owners reporting cats that finally drink more.",
+      "whyWePicked": "Stainless bowl resists biofilm better than plastic — the single biggest factor in long-term fountain hygiene.",
       "rating": 4.5,
       "reviewCountApprox": 12000,
       "score": 9,
@@ -183,25 +183,25 @@
       "slug": "tractive-gps-dog-6",
       "asin": "B099SF2X9L",
       "title": "Tractive GPS Dog Tracker",
-      "tagline": "Our pick for live GPS on escape-risk dogs.",
-      "problem": "Who it is for: dogs that might slip a gate, harness, or lead and owners who want a live map on their phone. Who should skip: anyone unwilling to pay the ongoing subscription.",
-      "solution": "The tracker gives you live location, virtual fences, and the kind of battery behavior you can plan around. It works best as backup to training and secure handling, not as a substitute for either.",
-      "honestNote": "Battery life and subscription terms depend on the plan you choose; read the details before you buy.",
+    "tagline": "Our pick for live GPS on escape-risk dogs.",
+    "problem": "A dog that slips a lead or finds a gap in the fence can be a mile away in under ten minutes. You will not outrun them, and shouting does not carry far in wind. What you need in that moment is a live dot on a map telling you which direction they went. If your dog has never bolted and your garden is secure, a tracker is probably overkill — but owners who have lived through a lost-dog search rarely say that.",
+    "solution": "The Tractive clips to a standard collar and connects over mobile networks to give you a live location on your phone. You can set virtual fences around your home or a walk route — the app alerts you the moment the dog crosses the boundary. Location updates every two to three seconds in live mode, which is fast enough to follow a running dog on a map.",
+    "honestNote": "Without an active subscription the tracker does nothing — treat the monthly cost as part of the product price, not an optional add-on. Battery life drops noticeably in cold weather and when live tracking is used frequently.",
       "category": "Safety",
-      "whyWePicked": "Live tracking and virtual fences are the features people actually use when a dog slips the lead.",
-      "rating": 4.2,
-      "reviewCountApprox": 10000,
-      "score": 8,
-      "pros": [
-        "Live tracking and virtual fences people actually use",
-        "Established app and ecosystem",
-        "Reasonable size for most dogs"
-      ],
-      "cons": [
-        "Subscription required for live tracking",
-        "Battery life varies with update frequency"
-      ],
-      "verdict": "Buy it for the lost-dog scenario - and treat the subscription as part of the product price.",
+    "whyWePicked": "Live tracking and virtual fences are the features people actually use when a dog slips the lead.",
+    "rating": 4.2,
+    "reviewCountApprox": 10000,
+    "score": 9,
+    "pros": [
+      "Live location updates every 2–3 seconds in tracking mode",
+      "Virtual fence alerts before the dog is truly gone",
+      "Clips to any standard collar — no special hardware"
+    ],
+    "cons": [
+      "Requires £4–5/month subscription — no subscription, no tracking",
+      "Battery life drops in cold weather and heavy use"
+    ],
+    "verdict": "Our default tracker for dogs that bolt — budget for the subscription from day one.",
       "imageSrc": "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Boxer dog running freely through a forest path",
       "faq": [
@@ -219,25 +219,25 @@
       "slug": "tractive-gps-cat-tracker",
       "asin": "B09NN435JD",
       "title": "Tractive GPS Cat Tracker",
-      "tagline": "Our pick for roaming cats that vanish fast.",
-      "problem": "Who it is for: outdoor cats that disappear beyond shouting distance. Who should skip: cats that will never tolerate a collar or owners unwilling to pay the subscription.",
-      "solution": "The lightweight tracker gives you live location and virtual fence alerts from the app, which is far better than guessing once a cat misses dinner. It is most useful for cats that already wear collars comfortably.",
-      "honestNote": "Like all GPS pet gear, a subscription applies for live tracking. Battery life depends on how often the collar updates.",
+    "tagline": "Our pick for roaming cats that vanish fast.",
+    "problem": "Outdoor cats that roam beyond your road disappear into a silence you cannot search on foot. A cat that misses dinner might be two gardens away or two streets away — you have no way of knowing, and calling does not work the way it does with a dog. The worry compounds overnight. If your cat stays indoors permanently and you have no intention of letting them out, a tracker serves no purpose. But if they go out and you have ever stood at the back door shaking a treat bag at midnight, this is the problem a tracker solves.",
+    "solution": "The Tractive cat unit is lighter and smaller than the dog version, designed for collars on animals as small as 3.5 kg. It connects to the same app and gives live location over mobile networks. You set a virtual fence around your home — if the cat crosses it, the app sends an alert before you have even noticed they are gone. That early warning is the most valuable part: it turns a midnight panic into a ten-minute retrieval.",
+    "honestNote": "Your cat must tolerate wearing a collar — cats that fight collars off will lose the tracker within days. GPS signal weakens under cars, in dense bushes, and inside sheds, so the last known position may lag until the cat moves to clearer ground.",
       "category": "Safety",
-      "whyWePicked": "Same Tractive ecosystem many dog owners trust, sized for cats and indoor-outdoor lifestyles.",
-      "rating": 4.3,
-      "reviewCountApprox": 8000,
-      "score": 8,
-      "pros": [
-        "Lightweight for cats versus many dog units",
-        "Same Tractive app experience as the dog line",
-        "Virtual fences help near roads"
-      ],
-      "cons": [
-        "Subscription for live tracking",
-        "GPS weak under cars and deep cover"
-      ],
-      "verdict": "Worth it for true roamers - only if your cat will keep the collar on.",
+    "whyWePicked": "Same reliable Tractive app, sized and weighted specifically for cats from 3.5 kg.",
+    "rating": 4.3,
+    "reviewCountApprox": 8000,
+    "score": 8,
+    "pros": [
+      "Light enough for cats from 3.5 kg",
+      "Virtual fence alerts before you notice they have gone",
+      "Same Tractive app as the dog tracker — one household, one app"
+    ],
+    "cons": [
+      "Requires subscription — same £4–5/month as the dog unit",
+      "GPS signal drops under cars, sheds, and dense bushes"
+    ],
+    "verdict": "The practical choice for outdoor cats that roam — but only if your cat will tolerate wearing a collar.",
       "imageSrc": "https://images.unsplash.com/photo-1546177747-80e61bda11cb?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Grey cat resting near a window",
       "faq": [
@@ -291,37 +291,37 @@
       "slug": "airtag-pet-collar-holder",
       "asin": "B0B4P719MP",
       "title": "Silicone AirTag Holder for Pet Collars",
-      "tagline": "Our pick for mounting an AirTag on a collar.",
-      "problem": "Who it is for: owners who already use AirTags and want a cheap backup locator on a collar. Who should skip: anyone who needs true live GPS in rural areas.",
-      "solution": "The silicone holder keeps the AirTag tight against the collar so it is less likely to flap, snag, or fall off. That makes Find My more useful as a backup layer for near-home escapes.",
-      "honestNote": "AirTags are not a substitute for GPS in open countryside. They shine in dense Apple device areas like towns and parks.",
+    "tagline": "Our pick for a no-subscription backup on any collar.",
+    "problem": "A GPS tracker with a monthly subscription makes sense for dogs that genuinely bolt — but many owners want something simpler. An AirTag costs around £29 once and has no ongoing fees. The catch is that it is not GPS: it uses Bluetooth and Apple's Find My network, which means it only updates when another iPhone passes within range. In a busy city park, that happens every few seconds. On a quiet country lane, it can show the same position for hours. If you live in a town or suburb and want a low-cost safety net that works alongside an ID tag, an AirTag on the collar is a sensible layer. If you walk in open countryside, it is not enough on its own.",
+    "solution": "This silicone holder wraps the AirTag flush against the collar so it does not swing, snag on branches, or rattle against hardware. It stretches to fit most standard nylon collars and holds the AirTag firmly enough that it stays put through mud, rain, and rolling. Once mounted, your dog appears in Apple Find My alongside your keys and wallet — no separate app, no subscription, no charging.",
+    "honestNote": "AirTag relies on nearby iPhones to relay its position. In rural areas with low foot traffic, the location can be hours old. It is a backup layer, not a primary tracker for serious escape-risk dogs.",
       "category": "Safety",
-      "whyWePicked": "Low cost, no subscription, and a sensible add-on if you already own AirTags for keys.",
-      "rating": 4.5,
-      "reviewCountApprox": 310,
-      "score": 8,
-      "pros": [
-        "No subscription if you already own AirTags",
-        "Slim mount that stays on standard collars",
-        "Find My mesh helps in towns with Apple density"
-      ],
-      "cons": [
-        "Not true GPS in open country",
-        "Useless if the tag pops off mid-chase"
-      ],
-      "verdict": "A smart low-cost backup for town and suburb pets - not a substitute for real GPS.",
+    "whyWePicked": "No subscription, no charging, and it uses the Find My network you already have on your iPhone.",
+    "rating": 4.5,
+    "reviewCountApprox": 310,
+    "score": 7,
+    "pros": [
+      "No subscription — one-off cost of AirTag plus holder",
+      "No charging — battery lasts roughly a year",
+      "Shows up in Apple Find My alongside your other devices"
+    ],
+    "cons": [
+      "Not GPS — relies on nearby iPhones for location updates",
+      "Useless in rural areas with low foot traffic"
+    ],
+    "verdict": "A sensible low-cost backup for town and suburb pets — pair it with a GPS tracker if your dog roams open country.",
       "imageSrc": "https://images.unsplash.com/photo-1767023028317-bbafd3157967?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Orange tabby cat looking at the camera",
-      "faq": [
-        {
-          "q": "Do I still need a GPS collar if I use an AirTag?",
-          "a": "For serious roamers in rural areas, GPS is still the primary tool. An AirTag is best as a cheap backup or for cats that stay near home."
-        },
-        {
-          "q": "Will the holder fit my collar width?",
-          "a": "Check the listing size chart. Silicone holders usually fit standard nylon collars; very thin kitten collars may need a different mount."
-        }
-      ]
+    "faq": [
+    {
+      "q": "Is an AirTag as good as a GPS tracker for finding a lost dog?",
+      "a": "No. An AirTag updates only when another iPhone passes nearby — it does not have its own GPS radio or mobile connection. In a city centre that means updates every few seconds; on a quiet country road it can be hours between updates. For dogs that genuinely escape into open areas, a cellular GPS tracker like Tractive is far more reliable. An AirTag is a useful backup, not a replacement."
+    },
+    {
+      "q": "Does the AirTag holder stay on in rain and mud?",
+      "a": "The silicone stretches to grip the collar and holds up well in wet conditions. AirTag itself is rated IP67 water-resistant. The weak point is extreme pulling through dense undergrowth — check the holder is still seated after heavy bramble walks."
+    }
+  ]
     },
     {
       "slug": "casfuy-dog-nail-grinder",
@@ -1011,37 +1011,37 @@
       "slug": "catit-flower-fountain",
       "asin": "B0146QXOB0",
       "title": "Catit Flower Fountain",
-      "tagline": "Our pick for a cheaper first cat fountain.",
-      "problem": "Who it is for: cat owners who want to test moving water before paying for stainless steel. Who should skip: anyone who already knows they dislike cleaning plastic fountains.",
-      "solution": "The compact fountain offers a few flow styles and a low enough price that it is easy to try. It is a practical first step if your cat ignores bowls but you are not ready for a premium model.",
-      "honestNote": "Plastic needs more frequent scrubbing than steel to avoid biofilm.",
+    "tagline": "Our pick for trying a cat fountain without a big upfront cost.",
+    "problem": "You suspect your cat would drink more from flowing water, but you are not sure enough to spend £40–50 on a stainless fountain that might sit unused. You want to test the idea cheaply. The Catit Flower Fountain is one of the most popular first fountains for exactly this reason — it costs roughly half of a stainless model, ships quickly, and has replacement parts available everywhere. If your cat ignores it, you have lost less. If they take to it, you know a fountain works and can decide later whether to upgrade to steel.",
+    "solution": "The flower insert lets you switch between a gentle bubble, a flowing stream, and a narrow jet — useful because some cats prefer different water movements. The compact base fits on a kitchen counter or next to a food bowl without dominating the space. A carbon and foam filter traps debris and reduces odour between cleans. The whole unit disassembles for cleaning in about a minute.",
+    "honestNote": "Plastic scratches over time, and those scratches harbour bacteria faster than smooth stainless steel. If you keep a Catit Flower long-term, expect to scrub it more often than a steel fountain to keep biofilm under control.",
       "category": "Hydration",
-      "whyWePicked": "Huge sales volume and replaceable parts ecosystem - easy first fountain.",
-      "rating": 4.4,
-      "reviewCountApprox": 110000,
-      "score": 8,
-      "pros": [
-        "Low entry price versus steel fountains",
-        "Multiple flow settings for picky cats",
-        "Compact footprint for flats"
-      ],
-      "cons": [
-        "Plastic can scratch and hold odour if neglected",
-        "Pump and filter are ongoing costs"
-      ],
-      "verdict": "A good starter fountain - upgrade later if you want easier long-term cleaning.",
+    "whyWePicked": "Lowest-cost way to test whether your cat responds to moving water before committing to a stainless model.",
+    "rating": 4.4,
+    "reviewCountApprox": 110000,
+    "score": 7,
+    "pros": [
+      "Roughly half the price of stainless alternatives",
+      "Three flow styles to match fussy drinkers",
+      "Replacement filters and parts available everywhere"
+    ],
+    "cons": [
+      "Plastic scratches and harbours biofilm faster than steel",
+      "Pump and filter replacements add ongoing cost"
+    ],
+    "verdict": "The practical way to test moving water on a budget — upgrade to stainless if your cat takes to it and you want easier cleaning.",
       "imageSrc": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Cat near water indoors",
-      "faq": [
-        {
-          "q": "Catit vs Petlibro stainless - which first?",
-          "a": "Catit wins on price; stainless wins on sanitation and longevity if you maintain either properly."
-        },
-        {
-          "q": "How often to clean?",
-          "a": "Weekly deep clean minimum; more often if you see slime or reduced flow."
-        }
-      ]
+    "faq": [
+    {
+      "q": "Should I buy the Catit Flower or go straight to stainless?",
+      "a": "If you are not sure your cat will use a fountain at all, the Catit Flower is a low-risk test. If you already know your cat drinks from taps and you want the easier long-term option, go straight to stainless — the Petlibro is our pick. The Catit Flower works well but demands more scrubbing over time because plastic scratches."
+    },
+    {
+      "q": "How often does the Catit Flower Fountain need cleaning?",
+      "a": "A full strip-down and scrub once a week is the minimum. If you see any pink or slimy residue on the surfaces, clean it immediately — that is biofilm, and it builds faster on plastic than on steel. Replace the filter every two to four weeks depending on how many cats use it."
+    }
+  ]
     },
     {
       "slug": "wyze-cam-v3-indoor-outdoor",
@@ -1083,37 +1083,37 @@
       "slug": "drinkwell-platinum-fountain",
       "asin": "B000L3XYZ4",
       "title": "PetSafe Drinkwell Platinum Pet Fountain",
-      "tagline": "Our pick for higher-capacity fountain needs.",
-      "problem": "Who it is for: multi-pet homes or thirsty pets that empty smaller fountains too quickly. Who should skip: anyone short on floor space or unwilling to clean a larger plastic unit.",
-      "solution": "The bigger reservoir means fewer refills, and the free-falling stream keeps water moving for pets that prefer it. It makes more sense once a small fountain starts running low too often.",
-      "honestNote": "Large footprint - measure floor space before you buy.",
+    "tagline": "Our pick for multi-pet homes that drain smaller fountains daily.",
+    "problem": "Two cats or a cat and a dog sharing a small fountain will empty it within a day, and a fountain that runs dry burns out its pump. If you are topping up every morning and evening, or you have come home to a dry reservoir and a buzzing motor, the fountain is too small for your household. The Drinkwell Platinum holds roughly five litres — enough for a two- or three-pet home to go two to three days between refills without risking pump damage.",
+    "solution": "The reservoir is tall, which means gravity keeps water flowing to the bowl even as the level drops. A free-falling stream from a raised spout gives both cats and dogs a visible, audible water cue — some pets that ignore a gentle bubble will drink readily from a falling stream. Flow is adjustable: turn it down for a quiet trickle at night, up for maximum movement during the day. The carbon filter handles taste and odour; a foam pre-filter catches hair and debris before it reaches the pump.",
+    "honestNote": "This fountain is physically large — measure the spot before ordering. It takes up roughly twice the floor space of the Catit Flower. Plastic construction means the same biofilm scrubbing schedule as any non-steel fountain.",
       "category": "Hydration",
-      "whyWePicked": "Volume leader in the Drinkwell line for busy water bowls.",
-      "rating": 4.3,
-      "reviewCountApprox": 18000,
-      "score": 8,
-      "pros": [
-        "Large tank versus travel-sized fountains",
-        "Adjustable flow for noise-sensitive pets",
-        "Established filter part ecosystem"
-      ],
-      "cons": [
-        "Takes more floor space",
-        "Plastic construction needs regular cleaning"
-      ],
-      "verdict": "A practical step up for busier water stations - just make space for the footprint.",
+    "whyWePicked": "Five-litre capacity means multi-pet homes go days between refills instead of topping up twice daily.",
+    "rating": 4.3,
+    "reviewCountApprox": 18000,
+    "score": 8,
+    "pros": [
+      "Five-litre tank suits two or three pets comfortably",
+      "Adjustable free-falling stream — quiet trickle or full flow",
+      "Replacement filters widely available in the UK"
+    ],
+    "cons": [
+      "Physically large — measure the spot before ordering",
+      "Plastic needs regular scrubbing to prevent biofilm"
+    ],
+    "verdict": "The practical choice when a smaller fountain keeps running dry — just confirm you have the floor space.",
       "imageSrc": "https://images.unsplash.com/photo-1605568427561-40dd23c2acea?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Two pets near feeding area",
-      "faq": [
-        {
-          "q": "How often to replace filters?",
-          "a": "Typically every two to four weeks depending on pet count and water hardness - follow the cartridge guide."
-        },
-        {
-          "q": "Noisy pump?",
-          "a": "Clean impeller and ensure full water level; noise often means low water or hair in the pump."
-        }
-      ]
+    "faq": [
+    {
+      "q": "How often do I replace the Drinkwell Platinum filters?",
+      "a": "The carbon filter should be replaced every two to four weeks depending on how many pets use it and your local water hardness. The foam pre-filter can be rinsed and reused several times before replacing. If the water starts to smell or the flow slows noticeably, change both."
+    },
+    {
+      "q": "Why is my Drinkwell Platinum pump noisy?",
+      "a": "In almost every case, pump noise means either the water level is too low or hair and debris have reached the impeller. Top up the reservoir and clean the pump housing. A properly maintained Drinkwell at full water level is quiet enough for a bedroom."
+    }
+  ]
     },
     {
       "slug": "halti-optifit-headcollar",
