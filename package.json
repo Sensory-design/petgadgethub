@@ -1,6 +1,6 @@
 {
   "name": "petgadgethub",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "verify:domain": "node scripts/verify-production-domain.mjs",
+    "fix:dns:windows": "powershell -ExecutionPolicy Bypass -File ./scripts/windows-petgadgethub-dns-fix.ps1",
     "metadata:update": "npx tsx scripts/metadata-updater.ts"
   },
   "dependencies": {

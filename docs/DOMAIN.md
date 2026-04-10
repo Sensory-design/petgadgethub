@@ -6,6 +6,29 @@ Use this checklist to point your UK domain at the Vercel deployment and preserve
 
 If `https://petgadgethub.co.uk` loads a **WordPress** theme (or response headers mention `wp-json` and **nginx** from your old host), the domain’s **DNS is not pointing at Vercel yet**. Your **new** PetGadgetHub (Next.js) is still served on the Vercel hostname, for example `https://petgadgethub.vercel.app` — open `/guides` there to confirm. Fix: complete [step 1](#1-add-the-domain-in-vercel) below and add the **A / CNAME records** Vercel shows at your **registrar** (or turn off the old host’s “parked” DNS). Propagation can take from a few minutes up to 48 hours.
 
+### Still see the old WordPress site on your PC? (DNS already fixed in SiteGround)
+
+Public DNS (e.g. Google **8.8.8.8**) may already return **216.198.79.1** for `petgadgethub.co.uk`, while **your PC or router** still uses a **cached** old IP (**35.214.18.112**) — so the browser keeps loading SiteGround. This is not something the codebase can change; you fix it on the device.
+
+1. **Flush Windows DNS** — open **Command Prompt** and run: `ipconfig /flushdns`  
+   Or from the repo folder run:  
+   `powershell -ExecutionPolicy Bypass -File .\scripts\windows-petgadgethub-dns-fix.ps1`  
+   That script flushes the cache and prints what **8.8.8.8** vs **this PC** resolves (so you can compare).
+
+2. **Use public DNS on this PC** — **Settings** → **Network** → your **Wi‑Fi / Ethernet** → **DNS** → **Manual** → **8.8.8.8** and **8.8.4.4**, then flush again.
+
+3. **Reboot your home router** — it often caches DNS for hours.
+
+4. **Test on phone using mobile data** (not Wi‑Fi). If the phone shows the new site but the PC does not, the problem is **local DNS cache** on the PC or router.
+
+5. **Last resort (temporary)** — edit the **hosts** file as Administrator:  
+   `C:\Windows\System32\drivers\etc\hosts`  
+   Add a line:  
+   `216.198.79.1 petgadgethub.co.uk`  
+   Save, flush DNS, retry the site. **Remove this line later** when `nslookup petgadgethub.co.uk` (without specifying a server) returns **216.198.79.1** on its own, so you do not depend on a hard-coded IP forever.
+
+6. **IPv6** — if SiteGround ever added an **AAAA** record pointing at the old host, some networks prefer IPv6 and you would still see the old site. In **DNS Zone Editor**, if there is an **AAAA** for `petgadgethub.co.uk` that is not from Vercel, remove it or ask support.
+
 ## Long-term: keep the domain on Vercel (avoid “it broke again”)
 
 The only durable fix is **DNS that points exclusively at Vercel** for this site. Code cannot override wrong DNS.

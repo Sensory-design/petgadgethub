@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.8.2] - 2026-04-10
+
+### Added
+
+- [scripts/windows-petgadgethub-dns-fix.ps1](scripts/windows-petgadgethub-dns-fix.ps1): flush Windows DNS and compare resolver vs Google (`npm run fix:dns:windows`).
+- [docs/DOMAIN.md](docs/DOMAIN.md): “Still see old WordPress on your PC” — cache flush, DNS settings, optional hosts file, IPv6 note.
+
 ## [0.8.1] - 2026-04-10
 
 ### Added
