@@ -53,9 +53,6 @@ export const metadata: Metadata = {
     follow: true,
     googleBot: { index: true, follow: true, "max-snippet": -1 },
   },
-  alternates: {
-    canonical: "https://petgadgethub.co.uk",
-  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

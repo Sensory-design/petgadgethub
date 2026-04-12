@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 
 import { AuthorBlock } from "@/components/AuthorBlock";
@@ -9,8 +10,16 @@ import { slugFromCategory } from "@/lib/categorySlug";
 import { getGuides } from "@/lib/getGuides";
 import { getProducts } from "@/lib/getProducts";
 import { getAffiliateRegion } from "@/lib/regionFromRequest";
+import { getSiteOrigin } from "@/lib/siteUrl";
 
 const HOMEPAGE_PICKS = 9;
+
+const siteBase = getSiteOrigin().replace(/\/$/, "");
+
+export const metadata: Metadata = {
+  alternates: { canonical: siteBase },
+  openGraph: { url: siteBase },
+};
 
 export default async function HomePage() {
   const [{ products, isFallback, updated }, region, guides] = await Promise.all([

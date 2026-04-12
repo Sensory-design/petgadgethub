@@ -2,9 +2,14 @@ import type { Metadata } from "next";
 import { readFile } from "fs/promises";
 import path from "path";
 
+import { getSiteOrigin } from "@/lib/siteUrl";
+
+const base = getSiteOrigin().replace(/\/$/, "");
+
 export const metadata: Metadata = {
   title: "Sales tracker (internal)",
   robots: { index: false, follow: false },
+  alternates: { canonical: `${base}/internal/sales` },
 };
 
 type Tracker = {

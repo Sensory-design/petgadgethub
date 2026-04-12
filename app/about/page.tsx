@@ -1,11 +1,15 @@
 import type { Metadata } from "next";
 
 import { AuthorBlock } from "@/components/AuthorBlock";
+import { getSiteOrigin } from "@/lib/siteUrl";
+
+const base = getSiteOrigin().replace(/\/$/, "");
 
 export const metadata: Metadata = {
   title: "About",
   description:
     "How PetGadgetHub chooses products, discloses affiliate relationships, and writes for readers first.",
+  alternates: { canonical: `${base}/about` },
 };
 
 export default function AboutPage() {

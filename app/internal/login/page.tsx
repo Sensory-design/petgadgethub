@@ -1,6 +1,17 @@
+import type { Metadata } from "next";
 import { Suspense } from "react";
 
+import { getSiteOrigin } from "@/lib/siteUrl";
+
 import { InternalLoginForm } from "./InternalLoginForm";
+
+const base = getSiteOrigin().replace(/\/$/, "");
+
+export const metadata: Metadata = {
+  title: "Internal login",
+  robots: { index: false, follow: false },
+  alternates: { canonical: `${base}/internal/login` },
+};
 
 export default function InternalLoginPage() {
   return (

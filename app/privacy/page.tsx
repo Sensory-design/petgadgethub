@@ -1,10 +1,15 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 
+import { getSiteOrigin } from "@/lib/siteUrl";
+
+const base = getSiteOrigin().replace(/\/$/, "");
+
 export const metadata: Metadata = {
   title: "Privacy",
   description:
     "How PetGadgetHub handles data, cookies, and affiliate disclosures in line with common UK/EU expectations.",
+  alternates: { canonical: `${base}/privacy` },
 };
 
 export default function PrivacyPage() {
