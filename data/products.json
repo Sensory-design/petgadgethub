@@ -5,10 +5,10 @@
       "slug": "petlibro-stainless-fountain",
       "asin": "B09B2852X8",
       "title": "Petlibro Stainless Steel Pet Fountain",
-    "tagline": "Our pick for picky cat hydration.",
-    "problem": "Indoor cats on dry food that ignore a still water bowl are quietly risking kidney strain over years. The instinct runs deep: moving water reads as fresh, standing water reads as stagnant. A cat that drinks happily from a running tap but refuses the bowl next to its food is not being difficult — it is following the same reflex that kept its ancestors alive around streams. A fountain is the most reliable way to trigger that reflex without leaving a tap running all day. Anyone unwilling to clean a fountain weekly should not buy one: a neglected fountain grows bacteria faster than a bowl does.",
-    "solution": "The stainless steel bowl resists the micro-scratches that harbour bacteria on plastic — the main reason plastic fountains develop a slimy biofilm within days of a missed clean. The pump circulates water through a replaceable filter and keeps the surface moving visibly, which is the cue most cats respond to. Pump noise is low enough that most cats do not startle when approaching, and filter replacement takes under two minutes once you have done it the first time.",
-    "honestNote": "A fountain does not eliminate cleaning — it changes the schedule from daily bowl scrubs to a weekly fountain strip-down plus filter change every two to four weeks. Budget roughly £3–4 per month for filters.",
+      "tagline": "Our pick for picky cat hydration.",
+      "problem": "Indoor cats on dry food that ignore a still water bowl are quietly risking kidney strain over years. The instinct runs deep: moving water reads as fresh, standing water reads as stagnant. A cat that drinks happily from a running tap but refuses the bowl next to its food is not being difficult — it is following the same reflex that kept its ancestors alive around streams. A fountain is the most reliable way to trigger that reflex without leaving a tap running all day. Anyone unwilling to clean a fountain weekly should not buy one: a neglected fountain grows bacteria faster than a bowl does.",
+      "solution": "The stainless steel bowl resists the micro-scratches that harbour bacteria on plastic — the main reason plastic fountains develop a slimy biofilm within days of a missed clean. The pump circulates water through a replaceable filter and keeps the surface moving visibly, which is the cue most cats respond to. Pump noise is low enough that most cats do not startle when approaching, and filter replacement takes under two minutes once you have done it the first time.",
+      "honestNote": "A fountain does not eliminate cleaning — it changes the schedule from daily bowl scrubs to a weekly fountain strip-down plus filter change every two to four weeks. Budget roughly £3–4 per month for filters.",
       "category": "Hydration",
       "whyWePicked": "Stainless bowl resists biofilm better than plastic — the single biggest factor in long-term fountain hygiene.",
       "rating": 4.5,
@@ -35,7 +35,8 @@
           "q": "Is stainless steel safer than plastic for a pet water fountain?",
           "a": "Yes, for most cats. Plastic can develop micro-scratches that harbour bacteria and the material can leach BPA over time. Stainless steel is non-porous, holds temperature better, and is easier to sterilise in a dishwasher."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71lb-YtQLwL._AC_SL1500_.jpg"
     },
     {
       "slug": "pet-n-pet-biodegradable-bags",
@@ -71,31 +72,32 @@
           "q": "How many dog waste bags do I need per week?",
           "a": "Most dogs go two to four times per day. Budget two bags per walk as a safe rule. An average active dog will use 20 to 30 bags per week, so buying in bulk rolls is almost always cheaper per bag."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71-jN92+CxL._AC_SL1080_.jpg"
     },
     {
       "slug": "kasa-smart-pet-cam",
       "asin": "B08ZXJJTYJ",
       "title": "Kasa Smart Indoor Camera (KC410S)",
-    "tagline": "Our pick for pan-tilt pet-room check-ins.",
-    "problem": "You are at work and your dog is in the living room doing something you cannot see. A fixed camera shows you one angle — usually the wrong one. The dog is always just off-screen, behind the sofa, or in the corner the lens cannot reach. A pan-tilt camera solves this by letting you steer the view from your phone, covering the full room from a single shelf. If you only need eyes on one spot (a crate, a door), a cheaper fixed camera works fine.",
-    "solution": "The Kasa KC410S pans 360 degrees and tilts to cover floor-to-ceiling in 2K resolution. You control it from the Kasa app — tap to steer, pinch to zoom. Motion tracking follows movement automatically, so if your dog walks across the room, the camera follows without you touching anything. Setup takes most people under ten minutes: plug in, scan the QR code, connect to Wi-Fi. Works with Alexa and Google Assistant if you want voice control.",
-    "honestNote": "Live view is free. Cloud recording and extended clip history require a paid Kasa Care plan — check current pricing before assuming you get free storage. Performance depends heavily on your Wi-Fi upload speed and the camera's distance from your router.",
+      "tagline": "Our pick for pan-tilt pet-room check-ins.",
+      "problem": "You are at work and your dog is in the living room doing something you cannot see. A fixed camera shows you one angle — usually the wrong one. The dog is always just off-screen, behind the sofa, or in the corner the lens cannot reach. A pan-tilt camera solves this by letting you steer the view from your phone, covering the full room from a single shelf. If you only need eyes on one spot (a crate, a door), a cheaper fixed camera works fine.",
+      "solution": "The Kasa KC410S pans 360 degrees and tilts to cover floor-to-ceiling in 2K resolution. You control it from the Kasa app — tap to steer, pinch to zoom. Motion tracking follows movement automatically, so if your dog walks across the room, the camera follows without you touching anything. Setup takes most people under ten minutes: plug in, scan the QR code, connect to Wi-Fi. Works with Alexa and Google Assistant if you want voice control.",
+      "honestNote": "Live view is free. Cloud recording and extended clip history require a paid Kasa Care plan — check current pricing before assuming you get free storage. Performance depends heavily on your Wi-Fi upload speed and the camera's distance from your router.",
       "category": "Home monitoring",
-    "whyWePicked": "Pan-tilt 2K from a single shelf position covers a full room — no drilling, no second camera needed.",
-    "rating": 4.4,
-    "reviewCountApprox": 25000,
-    "score": 8,
-    "pros": [
-      "360-degree pan covers the whole room from one spot",
-      "2K resolution — clear enough to read body language",
-      "Works with Alexa and Google Assistant out of the box"
-    ],
-    "cons": [
-      "Cloud clip history requires a paid plan",
-      "2.4 GHz Wi-Fi only — check your router settings"
-    ],
-    "verdict": "Our default pet camera for renters who want full-room coverage without drilling holes — budget for cloud storage if you want history.",
+      "whyWePicked": "Pan-tilt 2K from a single shelf position covers a full room — no drilling, no second camera needed.",
+      "rating": 4.4,
+      "reviewCountApprox": 25000,
+      "score": 8,
+      "pros": [
+        "360-degree pan covers the whole room from one spot",
+        "2K resolution — clear enough to read body language",
+        "Works with Alexa and Google Assistant out of the box"
+      ],
+      "cons": [
+        "Cloud clip history requires a paid plan",
+        "2.4 GHz Wi-Fi only — check your router settings"
+      ],
+      "verdict": "Our default pet camera for renters who want full-room coverage without drilling holes — budget for cloud storage if you want history.",
       "imageSrc": "https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Brown dog sitting alone on a leather sofa at home",
       "faq": [
@@ -107,7 +109,8 @@
           "q": "Can a smart pet camera work without strong Wi-Fi?",
           "a": "No, a stable Wi-Fi connection is essential. Most cameras need at least a 2 Mbps upload speed and perform best within 10 metres of your router. A Wi-Fi extender in a dead-zone room often solves placement issues."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/416i+jupDlL._AC_SL1000_.jpg"
     },
     {
       "slug": "chomchom-roller",
@@ -143,7 +146,8 @@
           "q": "How do I clean a ChomChom pet hair roller?",
           "a": "Press the release button on the end chamber and the collected hair compacts into a clump you can lift out. Empty it after each session. The roller itself needs no adhesive refills and lasts for years with this basic maintenance."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71mmJsbMGZL._AC_SL1500_.jpg"
     },
     {
       "slug": "petlibro-automatic-feeder",
@@ -179,31 +183,32 @@
           "q": "What kibble size works in an automatic pet feeder?",
           "a": "Most feeders handle standard dry kibble up to about 1.5 cm in diameter. Very large breed kibble and irregularly shaped treats can jam the dispensing chute. Check the manufacturer specs against your specific food before buying."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71JqqHnsUKL._AC_SL1500_.jpg"
     },
     {
       "slug": "tractive-gps-dog-6",
       "asin": "B099SF2X9L",
       "title": "Tractive GPS Dog Tracker",
-    "tagline": "Our pick for live GPS on escape-risk dogs.",
-    "problem": "A dog that slips a lead or finds a gap in the fence can be a mile away in under ten minutes. You will not outrun them, and shouting does not carry far in wind. What you need in that moment is a live dot on a map telling you which direction they went. If your dog has never bolted and your garden is secure, a tracker is probably overkill — but owners who have lived through a lost-dog search rarely say that.",
-    "solution": "The Tractive clips to a standard collar and connects over mobile networks to give you a live location on your phone. You can set virtual fences around your home or a walk route — the app alerts you the moment the dog crosses the boundary. Location updates every two to three seconds in live mode, which is fast enough to follow a running dog on a map.",
-    "honestNote": "Without an active subscription the tracker does nothing — treat the monthly cost as part of the product price, not an optional add-on. Battery life drops noticeably in cold weather and when live tracking is used frequently.",
+      "tagline": "Our pick for live GPS on escape-risk dogs.",
+      "problem": "A dog that slips a lead or finds a gap in the fence can be a mile away in under ten minutes. You will not outrun them, and shouting does not carry far in wind. What you need in that moment is a live dot on a map telling you which direction they went. If your dog has never bolted and your garden is secure, a tracker is probably overkill — but owners who have lived through a lost-dog search rarely say that.",
+      "solution": "The Tractive clips to a standard collar and connects over mobile networks to give you a live location on your phone. You can set virtual fences around your home or a walk route — the app alerts you the moment the dog crosses the boundary. Location updates every two to three seconds in live mode, which is fast enough to follow a running dog on a map.",
+      "honestNote": "Without an active subscription the tracker does nothing — treat the monthly cost as part of the product price, not an optional add-on. Battery life drops noticeably in cold weather and when live tracking is used frequently.",
       "category": "Safety",
-    "whyWePicked": "Live tracking and virtual fences are the features people actually use when a dog slips the lead.",
-    "rating": 4.2,
-    "reviewCountApprox": 10000,
-    "score": 9,
-    "pros": [
-      "Live location updates every 2–3 seconds in tracking mode",
-      "Virtual fence alerts before the dog is truly gone",
-      "Clips to any standard collar — no special hardware"
-    ],
-    "cons": [
-      "Requires £4–5/month subscription — no subscription, no tracking",
-      "Battery life drops in cold weather and heavy use"
-    ],
-    "verdict": "Our default tracker for dogs that bolt — budget for the subscription from day one.",
+      "whyWePicked": "Live tracking and virtual fences are the features people actually use when a dog slips the lead.",
+      "rating": 4.2,
+      "reviewCountApprox": 10000,
+      "score": 9,
+      "pros": [
+        "Live location updates every 2–3 seconds in tracking mode",
+        "Virtual fence alerts before the dog is truly gone",
+        "Clips to any standard collar — no special hardware"
+      ],
+      "cons": [
+        "Requires £4–5/month subscription — no subscription, no tracking",
+        "Battery life drops in cold weather and heavy use"
+      ],
+      "verdict": "Our default tracker for dogs that bolt — budget for the subscription from day one.",
       "imageSrc": "https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Boxer dog running freely through a forest path",
       "faq": [
@@ -215,31 +220,32 @@
           "q": "How accurate is a GPS dog tracker?",
           "a": "Consumer GPS trackers like Tractive are typically accurate to within 5 to 10 metres outdoors in open areas. Accuracy reduces in dense urban environments and near tall buildings. They are not reliable indoors. For most lost-dog scenarios, that level of accuracy is more than sufficient to narrow down a search area."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61O55tULKrL._AC_SL1080_.jpg"
     },
     {
       "slug": "tractive-gps-cat-tracker",
       "asin": "B09NN435JD",
       "title": "Tractive GPS Cat Tracker",
-    "tagline": "Our pick for roaming cats that vanish fast.",
-    "problem": "Outdoor cats that roam beyond your road disappear into a silence you cannot search on foot. A cat that misses dinner might be two gardens away or two streets away — you have no way of knowing, and calling does not work the way it does with a dog. The worry compounds overnight. If your cat stays indoors permanently and you have no intention of letting them out, a tracker serves no purpose. But if they go out and you have ever stood at the back door shaking a treat bag at midnight, this is the problem a tracker solves.",
-    "solution": "The Tractive cat unit is lighter and smaller than the dog version, designed for collars on animals as small as 3.5 kg. It connects to the same app and gives live location over mobile networks. You set a virtual fence around your home — if the cat crosses it, the app sends an alert before you have even noticed they are gone. That early warning is the most valuable part: it turns a midnight panic into a ten-minute retrieval.",
-    "honestNote": "Your cat must tolerate wearing a collar — cats that fight collars off will lose the tracker within days. GPS signal weakens under cars, in dense bushes, and inside sheds, so the last known position may lag until the cat moves to clearer ground.",
+      "tagline": "Our pick for roaming cats that vanish fast.",
+      "problem": "Outdoor cats that roam beyond your road disappear into a silence you cannot search on foot. A cat that misses dinner might be two gardens away or two streets away — you have no way of knowing, and calling does not work the way it does with a dog. The worry compounds overnight. If your cat stays indoors permanently and you have no intention of letting them out, a tracker serves no purpose. But if they go out and you have ever stood at the back door shaking a treat bag at midnight, this is the problem a tracker solves.",
+      "solution": "The Tractive cat unit is lighter and smaller than the dog version, designed for collars on animals as small as 3.5 kg. It connects to the same app and gives live location over mobile networks. You set a virtual fence around your home — if the cat crosses it, the app sends an alert before you have even noticed they are gone. That early warning is the most valuable part: it turns a midnight panic into a ten-minute retrieval.",
+      "honestNote": "Your cat must tolerate wearing a collar — cats that fight collars off will lose the tracker within days. GPS signal weakens under cars, in dense bushes, and inside sheds, so the last known position may lag until the cat moves to clearer ground.",
       "category": "Safety",
-    "whyWePicked": "Same reliable Tractive app, sized and weighted specifically for cats from 3.5 kg.",
-    "rating": 4.3,
-    "reviewCountApprox": 8000,
-    "score": 8,
-    "pros": [
-      "Light enough for cats from 3.5 kg",
-      "Virtual fence alerts before you notice they have gone",
-      "Same Tractive app as the dog tracker — one household, one app"
-    ],
-    "cons": [
-      "Requires subscription — same £4–5/month as the dog unit",
-      "GPS signal drops under cars, sheds, and dense bushes"
-    ],
-    "verdict": "The practical choice for outdoor cats that roam — but only if your cat will tolerate wearing a collar.",
+      "whyWePicked": "Same reliable Tractive app, sized and weighted specifically for cats from 3.5 kg.",
+      "rating": 4.3,
+      "reviewCountApprox": 8000,
+      "score": 8,
+      "pros": [
+        "Light enough for cats from 3.5 kg",
+        "Virtual fence alerts before you notice they have gone",
+        "Same Tractive app as the dog tracker — one household, one app"
+      ],
+      "cons": [
+        "Requires subscription — same £4–5/month as the dog unit",
+        "GPS signal drops under cars, sheds, and dense bushes"
+      ],
+      "verdict": "The practical choice for outdoor cats that roam — but only if your cat will tolerate wearing a collar.",
       "imageSrc": "https://images.unsplash.com/photo-1546177747-80e61bda11cb?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Grey cat resting near a window",
       "faq": [
@@ -251,31 +257,32 @@
           "q": "Will GPS work if my cat hides under a car?",
           "a": "GPS signals weaken under metal and in dense urban canyons. You may see a last known position until the cat moves to a clearer spot. That is normal for any consumer GPS collar."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71RSyICxcwL._AC_SL1500_.jpg"
     },
     {
       "slug": "furbo-360-dog-camera",
       "asin": "B09GDQZLD1",
       "title": "Furbo 360 Dog Camera",
-    "tagline": "Our pick for treat-toss check-ins.",
-    "problem": "Watching your dog on a camera and not being able to do anything is frustrating. You can see them pacing or barking, but all you have is a tiny speaker that makes your voice sound like a robot — which often makes anxiety worse. What most owners actually want is a way to reward calm behaviour from their phone: the dog settles, you toss a treat, the dog learns that being alone is not the end of the world. If you do not care about treat tossing and just want a basic live view, a Blink or Kasa will do the same job for less money.",
-    "solution": "The Furbo 360 rotates to cover the full room and tosses treats on command from the app. It detects barking and sends an alert to your phone, so you can check in at the moment it matters — not twenty minutes later. The 360-degree rotation means one camera covers a living room without blind spots. Treats load into a top hopper that holds around 100 small pieces.",
-    "honestNote": "Many of Furbo's advanced features — bark alerts, person detection, activity logs — sit behind a subscription called Furbo Dog Nanny. Without it, you get live view and manual treat toss. Check the current plan pricing before buying.",
+      "tagline": "Our pick for treat-toss check-ins.",
+      "problem": "Watching your dog on a camera and not being able to do anything is frustrating. You can see them pacing or barking, but all you have is a tiny speaker that makes your voice sound like a robot — which often makes anxiety worse. What most owners actually want is a way to reward calm behaviour from their phone: the dog settles, you toss a treat, the dog learns that being alone is not the end of the world. If you do not care about treat tossing and just want a basic live view, a Blink or Kasa will do the same job for less money.",
+      "solution": "The Furbo 360 rotates to cover the full room and tosses treats on command from the app. It detects barking and sends an alert to your phone, so you can check in at the moment it matters — not twenty minutes later. The 360-degree rotation means one camera covers a living room without blind spots. Treats load into a top hopper that holds around 100 small pieces.",
+      "honestNote": "Many of Furbo's advanced features — bark alerts, person detection, activity logs — sit behind a subscription called Furbo Dog Nanny. Without it, you get live view and manual treat toss. Check the current plan pricing before buying.",
       "category": "Home monitoring",
-    "whyWePicked": "The only mainstream pet camera that combines 360-degree view with treat tossing — the two features people actually use.",
-    "rating": 4.2,
-    "reviewCountApprox": 5400,
-    "score": 8,
-    "pros": [
-      "Treat toss lets you reward calm behaviour remotely",
-      "360-degree rotation covers the full room from one spot",
-      "Bark alerts sent to your phone in real time"
-    ],
-    "cons": [
-      "Advanced features locked behind Furbo Dog Nanny subscription",
-      "Premium price — roughly double a basic indoor camera"
-    ],
-    "verdict": "Worth the premium if remote treat rewards matter to you — check which features need the subscription before buying.",
+      "whyWePicked": "The only mainstream pet camera that combines 360-degree view with treat tossing — the two features people actually use.",
+      "rating": 4.2,
+      "reviewCountApprox": 5400,
+      "score": 8,
+      "pros": [
+        "Treat toss lets you reward calm behaviour remotely",
+        "360-degree rotation covers the full room from one spot",
+        "Bark alerts sent to your phone in real time"
+      ],
+      "cons": [
+        "Advanced features locked behind Furbo Dog Nanny subscription",
+        "Premium price — roughly double a basic indoor camera"
+      ],
+      "verdict": "Worth the premium if remote treat rewards matter to you — check which features need the subscription before buying.",
       "imageSrc": "https://images.pexels.com/photos/2607544/pexels-photo-2607544.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Happy dog looking up expectantly",
       "faq": [
@@ -287,43 +294,45 @@
           "q": "Can cats use Furbo too?",
           "a": "Many owners use Furbo for cats if the pet is treat-motivated and the camera is placed safely. Very small kittens may ignore treats; placement at sofa height usually works best."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61Uya03ZQvL._AC_SL1500_.jpg"
     },
     {
       "slug": "airtag-pet-collar-holder",
       "asin": "B0B4P719MP",
       "title": "Silicone AirTag Holder for Pet Collars",
-    "tagline": "Our pick for a no-subscription backup on any collar.",
-    "problem": "A GPS tracker with a monthly subscription makes sense for dogs that genuinely bolt — but many owners want something simpler. An AirTag costs around £29 once and has no ongoing fees. The catch is that it is not GPS: it uses Bluetooth and Apple's Find My network, which means it only updates when another iPhone passes within range. In a busy city park, that happens every few seconds. On a quiet country lane, it can show the same position for hours. If you live in a town or suburb and want a low-cost safety net that works alongside an ID tag, an AirTag on the collar is a sensible layer. If you walk in open countryside, it is not enough on its own.",
-    "solution": "This silicone holder wraps the AirTag flush against the collar so it does not swing, snag on branches, or rattle against hardware. It stretches to fit most standard nylon collars and holds the AirTag firmly enough that it stays put through mud, rain, and rolling. Once mounted, your dog appears in Apple Find My alongside your keys and wallet — no separate app, no subscription, no charging.",
-    "honestNote": "AirTag relies on nearby iPhones to relay its position. In rural areas with low foot traffic, the location can be hours old. It is a backup layer, not a primary tracker for serious escape-risk dogs.",
+      "tagline": "Our pick for a no-subscription backup on any collar.",
+      "problem": "A GPS tracker with a monthly subscription makes sense for dogs that genuinely bolt — but many owners want something simpler. An AirTag costs around £29 once and has no ongoing fees. The catch is that it is not GPS: it uses Bluetooth and Apple's Find My network, which means it only updates when another iPhone passes within range. In a busy city park, that happens every few seconds. On a quiet country lane, it can show the same position for hours. If you live in a town or suburb and want a low-cost safety net that works alongside an ID tag, an AirTag on the collar is a sensible layer. If you walk in open countryside, it is not enough on its own.",
+      "solution": "This silicone holder wraps the AirTag flush against the collar so it does not swing, snag on branches, or rattle against hardware. It stretches to fit most standard nylon collars and holds the AirTag firmly enough that it stays put through mud, rain, and rolling. Once mounted, your dog appears in Apple Find My alongside your keys and wallet — no separate app, no subscription, no charging.",
+      "honestNote": "AirTag relies on nearby iPhones to relay its position. In rural areas with low foot traffic, the location can be hours old. It is a backup layer, not a primary tracker for serious escape-risk dogs.",
       "category": "Safety",
-    "whyWePicked": "No subscription, no charging, and it uses the Find My network you already have on your iPhone.",
-    "rating": 4.5,
-    "reviewCountApprox": 310,
-    "score": 7,
-    "pros": [
-      "No subscription — one-off cost of AirTag plus holder",
-      "No charging — battery lasts roughly a year",
-      "Shows up in Apple Find My alongside your other devices"
-    ],
-    "cons": [
-      "Not GPS — relies on nearby iPhones for location updates",
-      "Useless in rural areas with low foot traffic"
-    ],
-    "verdict": "A sensible low-cost backup for town and suburb pets — pair it with a GPS tracker if your dog roams open country.",
+      "whyWePicked": "No subscription, no charging, and it uses the Find My network you already have on your iPhone.",
+      "rating": 4.5,
+      "reviewCountApprox": 310,
+      "score": 7,
+      "pros": [
+        "No subscription — one-off cost of AirTag plus holder",
+        "No charging — battery lasts roughly a year",
+        "Shows up in Apple Find My alongside your other devices"
+      ],
+      "cons": [
+        "Not GPS — relies on nearby iPhones for location updates",
+        "Useless in rural areas with low foot traffic"
+      ],
+      "verdict": "A sensible low-cost backup for town and suburb pets — pair it with a GPS tracker if your dog roams open country.",
       "imageSrc": "https://images.unsplash.com/photo-1767023028317-bbafd3157967?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Orange tabby cat looking at the camera",
-    "faq": [
-    {
-      "q": "Is an AirTag as good as a GPS tracker for finding a lost dog?",
-      "a": "No. An AirTag updates only when another iPhone passes nearby — it does not have its own GPS radio or mobile connection. In a city centre that means updates every few seconds; on a quiet country road it can be hours between updates. For dogs that genuinely escape into open areas, a cellular GPS tracker like Tractive is far more reliable. An AirTag is a useful backup, not a replacement."
-    },
-    {
-      "q": "Does the AirTag holder stay on in rain and mud?",
-      "a": "The silicone stretches to grip the collar and holds up well in wet conditions. AirTag itself is rated IP67 water-resistant. The weak point is extreme pulling through dense undergrowth — check the holder is still seated after heavy bramble walks."
-    }
-  ]
+      "faq": [
+        {
+          "q": "Is an AirTag as good as a GPS tracker for finding a lost dog?",
+          "a": "No. An AirTag updates only when another iPhone passes nearby — it does not have its own GPS radio or mobile connection. In a city centre that means updates every few seconds; on a quiet country road it can be hours between updates. For dogs that genuinely escape into open areas, a cellular GPS tracker like Tractive is far more reliable. An AirTag is a useful backup, not a replacement."
+        },
+        {
+          "q": "Does the AirTag holder stay on in rain and mud?",
+          "a": "The silicone stretches to grip the collar and holds up well in wet conditions. AirTag itself is rated IP67 water-resistant. The weak point is extreme pulling through dense undergrowth — check the holder is still seated after heavy bramble walks."
+        }
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61CBKG6PehL._AC_SL1500_.jpg"
     },
     {
       "slug": "casfuy-dog-nail-grinder",
@@ -360,16 +369,17 @@
           "q": "How do I avoid hitting the quick?",
           "a": "Stop when you see a pale oval in the centre of dark nails, or when the inner core looks softer on light nails. If in doubt, trim less and grind weekly."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61D2hPWUIlL._AC_SL1500_.jpg"
     },
     {
       "slug": "dogrook-vibration-bark-collar",
       "asin": "B07CJCMR75",
       "title": "DogRook Anti-Bark Collar (Vibration and Sound)",
       "tagline": "Our pick for a no-shock bark interruption trial.",
-    "problem": "Your dog barks when the postman arrives, when a car door slams, or when next door's cat walks across the fence — and your neighbours are losing patience. You have tried telling the dog to stop, which works for about thirty seconds. Shock collars are off the table — you are not willing to hurt the dog. You want something that interrupts the bark without pain, while you work on the underlying trigger with training. If the barking is driven by fear or separation anxiety, no collar will fix it — a qualified behaviourist is the right next step, not a gadget.",
-    "solution": "The DogRook uses progressive vibration and sound to interrupt the bark cycle. It does not shock. When the dog barks, the collar vibrates — most dogs pause to investigate the sensation, which breaks the bark spiral long enough for you to redirect. The collar adjusts sensitivity levels so you can tune it to your dog's bark intensity rather than triggering on background noise. Rechargeable battery and a wide neck-size range cover most breeds.",
-    "honestNote": "Vibration works on some dogs and not others. Bold, determined barkers may ignore it entirely after a few days. Dogs that bark from fear or anxiety often get worse with any collar-based intervention — if your dog barks when left alone, see a behaviourist first.",
+      "problem": "Your dog barks when the postman arrives, when a car door slams, or when next door's cat walks across the fence — and your neighbours are losing patience. You have tried telling the dog to stop, which works for about thirty seconds. Shock collars are off the table — you are not willing to hurt the dog. You want something that interrupts the bark without pain, while you work on the underlying trigger with training. If the barking is driven by fear or separation anxiety, no collar will fix it — a qualified behaviourist is the right next step, not a gadget.",
+      "solution": "The DogRook uses progressive vibration and sound to interrupt the bark cycle. It does not shock. When the dog barks, the collar vibrates — most dogs pause to investigate the sensation, which breaks the bark spiral long enough for you to redirect. The collar adjusts sensitivity levels so you can tune it to your dog's bark intensity rather than triggering on background noise. Rechargeable battery and a wide neck-size range cover most breeds.",
+      "honestNote": "Vibration works on some dogs and not others. Bold, determined barkers may ignore it entirely after a few days. Dogs that bark from fear or anxiety often get worse with any collar-based intervention — if your dog barks when left alone, see a behaviourist first.",
       "category": "Training",
       "whyWePicked": "No-shock vibration collar with adjustable sensitivity — the least invasive electronic bark interrupter we found.",
       "rating": 4.1,
@@ -396,7 +406,8 @@
           "q": "Will it trigger on another dog barking?",
           "a": "Some units pick up ambient noise. Adjust sensitivity and collar position per the manual; false triggers are the main user complaint across brands."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/81hBAIDE77L._AC_SL1500_.jpg"
     },
     {
       "slug": "petsfit-airline-pet-carrier",
@@ -432,7 +443,8 @@
           "q": "Is this carrier airline approved?",
           "a": "Soft carriers are widely accepted in cabin when they meet size limits, but approval is always airline-specific. Print the policy page when you fly."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/714O45U0t1L._AC_SL1500_.jpg"
     },
     {
       "slug": "bonza-collapsible-travel-bowl",
@@ -468,7 +480,8 @@
           "q": "Can I use it for food and water?",
           "a": "Yes. Rinse between uses on the road. For raw-fed dogs, carry a spare or wash thoroughly to avoid bacterial growth in folds."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71i8E0hBi8L._AC_SL1500_.jpg"
     },
     {
       "slug": "self-cleaning-slicker-brush",
@@ -504,31 +517,32 @@
           "q": "Will slicker brushes hurt sensitive skin?",
           "a": "Use light pressure and brush with the coat direction. If the skin reddens, switch to a softer pin brush and ask your groomer about coat condition."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61UJWCwkq7L._AC_SL1500_.jpg"
     },
     {
       "slug": "blink-mini-indoor-camera",
       "asin": "B07X37DT9M",
       "title": "Blink Mini Indoor Security Camera",
-    "tagline": "Our pick for cheapest eyes on one spot.",
-    "problem": "Sometimes you do not need a camera that pans, tilts, or tosses treats. You need a small box that points at the crate, the front door, or the food bowl and shows you what is happening right now. The Blink Mini does exactly that for roughly the price of a takeaway. It plugs in, connects to Wi-Fi, and streams 1080p video to your phone. If you want to watch multiple rooms, buy two — they are cheap enough to stack. Anyone who needs full-room coverage from a single camera should look at a pan-tilt model like the Kasa instead.",
-    "solution": "The Blink Mini is a fixed-lens 1080p camera that plugs into a USB power socket. Motion detection sends alerts to your phone, two-way audio lets you talk through the camera, and night vision works in a dark room. Setup takes about five minutes: scan the code, connect to Wi-Fi in the Blink app. It integrates with Alexa if you want to pull up a live view on an Echo Show.",
-    "honestNote": "Live view is free. Cloud clip storage requires a Blink subscription — without it, motion clips are not saved. Local storage is possible with a Blink Sync Module 2 and a USB drive, but that is an extra purchase and setup step.",
+      "tagline": "Our pick for cheapest eyes on one spot.",
+      "problem": "Sometimes you do not need a camera that pans, tilts, or tosses treats. You need a small box that points at the crate, the front door, or the food bowl and shows you what is happening right now. The Blink Mini does exactly that for roughly the price of a takeaway. It plugs in, connects to Wi-Fi, and streams 1080p video to your phone. If you want to watch multiple rooms, buy two — they are cheap enough to stack. Anyone who needs full-room coverage from a single camera should look at a pan-tilt model like the Kasa instead.",
+      "solution": "The Blink Mini is a fixed-lens 1080p camera that plugs into a USB power socket. Motion detection sends alerts to your phone, two-way audio lets you talk through the camera, and night vision works in a dark room. Setup takes about five minutes: scan the code, connect to Wi-Fi in the Blink app. It integrates with Alexa if you want to pull up a live view on an Echo Show.",
+      "honestNote": "Live view is free. Cloud clip storage requires a Blink subscription — without it, motion clips are not saved. Local storage is possible with a Blink Sync Module 2 and a USB drive, but that is an extra purchase and setup step.",
       "category": "Home monitoring",
-    "whyWePicked": "Cheapest way to put eyes on a crate or doorway — buy two for less than one premium pet camera.",
-    "rating": 4.3,
-    "reviewCountApprox": 180000,
-    "score": 7,
-    "pros": [
-      "Costs roughly the same as a takeaway meal",
-      "Plug in and connect in under five minutes",
-      "Alexa integration for Echo Show live view"
-    ],
-    "cons": [
-      "Clip storage needs a subscription or Sync Module 2",
-      "Fixed lens — no pan, tilt, or pet-specific features"
-    ],
-    "verdict": "The cheapest way to watch one spot — buy two if you need more coverage rather than paying for a pan-tilt.",
+      "whyWePicked": "Cheapest way to put eyes on a crate or doorway — buy two for less than one premium pet camera.",
+      "rating": 4.3,
+      "reviewCountApprox": 180000,
+      "score": 7,
+      "pros": [
+        "Costs roughly the same as a takeaway meal",
+        "Plug in and connect in under five minutes",
+        "Alexa integration for Echo Show live view"
+      ],
+      "cons": [
+        "Clip storage needs a subscription or Sync Module 2",
+        "Fixed lens — no pan, tilt, or pet-specific features"
+      ],
+      "verdict": "The cheapest way to watch one spot — buy two if you need more coverage rather than paying for a pan-tilt.",
       "imageSrc": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Dog resting alone at home while owner is away",
       "faq": [
@@ -540,7 +554,8 @@
           "q": "Is Blink good for pet monitoring specifically?",
           "a": "It is a general indoor security camera. Pet-specific features (treat toss, pet AI) are not included - you are buying simplicity and price."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/51tXPahFVUL._SL1000_.jpg"
     },
     {
       "slug": "surefeed-microchip-pet-feeder",
@@ -577,7 +592,8 @@
           "q": "Can I leave wet food in it all day?",
           "a": "The lid keeps food covered longer than an open bowl, but hot weather still matters. Follow the same food-safety rules you would use for any wet food."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61j3BDpQH4L._AC_SL1500_.jpg"
     },
     {
       "slug": "bissell-pet-hair-eraser-handheld",
@@ -614,7 +630,8 @@
           "q": "How often should I empty the dust cup?",
           "a": "Pet hair fills cups fast. Empty when suction drops or after each heavy session - whichever comes first."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71G-GNHbFXL._AC_SL1500_.jpg"
     },
     {
       "slug": "kong-classic-dog-toy",
@@ -650,7 +667,8 @@
           "q": "Will my power chewer destroy it?",
           "a": "Extreme chewers may need the black Extreme line. Supervise first sessions and replace when rubber shows deep tears."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61CT7VZTqQL._AC_SL1500_.jpg"
     },
     {
       "slug": "outward-hound-dog-brick-puzzle",
@@ -687,7 +705,8 @@
           "q": "My dog gives up - what now?",
           "a": "Start with lids open and food visible. Close one compartment at a time. End on a win so the game stays fun."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61p33qqiZ0L._AC_SL1500_.jpg"
     },
     {
       "slug": "chuckit-sport-ball-launcher",
@@ -724,7 +743,8 @@
           "q": "Can I use a regular tennis ball?",
           "a": "Standard tennis balls often fit medium launchers, but Chuckit balls are safer for teeth and sized consistently. Abrasive tennis felt can wear teeth over time."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/611NDLDW0JL._AC_SL1500_.jpg"
     },
     {
       "slug": "ruffwear-front-range-harness",
@@ -760,7 +780,8 @@
           "q": "Is Ruffwear worth the price over budget harnesses?",
           "a": "If you walk daily in all weather, padding and buckles last longer. Occasional strollers may be fine with simpler gear."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/81E62lc4B9L._AC_SL1500_.jpg"
     },
     {
       "slug": "gel-cooling-mat-dogs",
@@ -796,7 +817,8 @@
           "q": "Will my chewer destroy it?",
           "a": "Supervise chewers - gel mats are not chew toys. If your dog shreds bedding, skip soft mats or use under supervision only."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/51KnEnS0c5S._AC_SL1000_.jpg"
     },
     {
       "slug": "dog-car-seat-hammock-cover",
@@ -833,31 +855,32 @@
           "q": "Machine washable?",
           "a": "Most are hose-down or gentle cycle - check the label. Heavy mud may need a pre-rinse outdoors."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/81J6qkPsGvL._AC_SL1500_.jpg"
     },
     {
       "slug": "petcube-cam-wifi",
       "asin": "B09FFBN6W7",
       "title": "Petcube Cam Wi-Fi Pet Camera",
-    "tagline": "Our pick for a pet-focused app without treat hardware.",
-    "problem": "Most indoor cameras are designed for home security — the app is full of intruder zones, arm/disarm schedules, and terminology that has nothing to do with checking on your dog. The Petcube Cam is built around pet monitoring from the ground up: the app shows your pet feed, not a security dashboard. If you want a camera where everything in the interface assumes you are watching an animal, not guarding a property, this is one of the few that delivers that. If you want 2K resolution or pan-tilt, the Kasa is a better fit.",
-    "solution": "The Petcube Cam provides 1080p live view, night vision, two-way audio, and motion alerts through an app designed specifically for pet owners. Sound and motion detection is tuned for animal movement rather than generic security triggers. The camera is compact enough to sit on a shelf or mount to a wall without looking like a surveillance unit.",
-    "honestNote": "Petcube's more advanced features — extended video history, smart alerts — typically require a subscription. Free tier gives you live view and basic alerts. Confirm current plan pricing in your region before buying.",
+      "tagline": "Our pick for a pet-focused app without treat hardware.",
+      "problem": "Most indoor cameras are designed for home security — the app is full of intruder zones, arm/disarm schedules, and terminology that has nothing to do with checking on your dog. The Petcube Cam is built around pet monitoring from the ground up: the app shows your pet feed, not a security dashboard. If you want a camera where everything in the interface assumes you are watching an animal, not guarding a property, this is one of the few that delivers that. If you want 2K resolution or pan-tilt, the Kasa is a better fit.",
+      "solution": "The Petcube Cam provides 1080p live view, night vision, two-way audio, and motion alerts through an app designed specifically for pet owners. Sound and motion detection is tuned for animal movement rather than generic security triggers. The camera is compact enough to sit on a shelf or mount to a wall without looking like a surveillance unit.",
+      "honestNote": "Petcube's more advanced features — extended video history, smart alerts — typically require a subscription. Free tier gives you live view and basic alerts. Confirm current plan pricing in your region before buying.",
       "category": "Home monitoring",
-    "whyWePicked": "Pet-first app interface means you spend time watching your pet, not configuring security zones.",
-    "rating": 4.3,
-    "reviewCountApprox": 2500,
-    "score": 7,
-    "pros": [
-      "App designed for pet owners, not home security",
-      "1080p with night vision and two-way audio",
-      "Compact and unobtrusive on a shelf"
-    ],
-    "cons": [
-      "Video history and smart alerts need a subscription",
-      "2.4 GHz Wi-Fi only on most units"
-    ],
-    "verdict": "The camera to choose if you value a clean pet-focused app over raw specs — confirm the subscription tier before buying.",
+      "whyWePicked": "Pet-first app interface means you spend time watching your pet, not configuring security zones.",
+      "rating": 4.3,
+      "reviewCountApprox": 2500,
+      "score": 7,
+      "pros": [
+        "App designed for pet owners, not home security",
+        "1080p with night vision and two-way audio",
+        "Compact and unobtrusive on a shelf"
+      ],
+      "cons": [
+        "Video history and smart alerts need a subscription",
+        "2.4 GHz Wi-Fi only on most units"
+      ],
+      "verdict": "The camera to choose if you value a clean pet-focused app over raw specs — confirm the subscription tier before buying.",
       "imageSrc": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Cat resting on a sofa at home",
       "faq": [
@@ -869,7 +892,8 @@
           "q": "Does it work on 5 GHz Wi-Fi?",
           "a": "Many pet cams are 2.4 GHz only. Check the listing if your router is dual-band - you may need a separate SSID for 2.4 GHz devices."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/712SL5hE68L._AC_SL1500_.jpg"
     },
     {
       "slug": "outward-hound-fun-feeder-slo-bowl",
@@ -906,7 +930,8 @@
           "q": "Puppy frustrated and gives up?",
           "a": "Start with an easier maze or scatter feed on a flat tray first. Build difficulty as they learn."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/51oITA-ntDL._AC_SL1000_.jpg"
     },
     {
       "slug": "furminator-deshedding-tool-medium",
@@ -943,31 +968,32 @@
           "q": "Long hair vs short hair model?",
           "a": "Match the listing to coat length and dog size - the wrong edge is the main reason for poor results."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71UxSOpAGGL._AC_SL1500_.jpg"
     },
     {
       "slug": "petsafe-gentle-leader-headcollar",
       "asin": "B0002AR0I8",
       "title": "PetSafe Gentle Leader Headcollar",
       "tagline": "Our pick for reducing hard leash pulling.",
-    "problem": "Your dog pulls so hard on a flat collar that walks are a wrestling match. A back-clip harness did not help — it just moved the pulling from the neck to the chest. The Gentle Leader works differently: it wraps around the muzzle and redirects the head, so when the dog pulls, their nose turns back towards you instead of powering forward. It is one of the most effective single tools for serious pullers. But it is not a quick fix — most dogs need a week or more of positive acclimation before they accept something on their face. If you are not willing to do that gradual introduction with treats and patience, a front-clip harness is a less effective but easier alternative.",
-    "solution": "The strap sits around the muzzle (not a muzzle — the dog can still eat, drink, pant, and bark) and clips under the chin. When the dog pulls, their own forward motion turns their head to the side, which naturally slows them down. The physics work the same way a horse halter does: control the head, control the body. PetSafe includes a fitting guide and training DVD. Most owners report a noticeable reduction in pulling from the first properly fitted walk.",
-    "honestNote": "Dogs will paw at it, rub their face on the ground, and generally protest during the first few days. This is normal and does not mean it hurts — it means it feels strange. Acclimation with high-value treats is not optional; skipping it usually means the dog fights it indefinitely.",
+      "problem": "Your dog pulls so hard on a flat collar that walks are a wrestling match. A back-clip harness did not help — it just moved the pulling from the neck to the chest. The Gentle Leader works differently: it wraps around the muzzle and redirects the head, so when the dog pulls, their nose turns back towards you instead of powering forward. It is one of the most effective single tools for serious pullers. But it is not a quick fix — most dogs need a week or more of positive acclimation before they accept something on their face. If you are not willing to do that gradual introduction with treats and patience, a front-clip harness is a less effective but easier alternative.",
+      "solution": "The strap sits around the muzzle (not a muzzle — the dog can still eat, drink, pant, and bark) and clips under the chin. When the dog pulls, their own forward motion turns their head to the side, which naturally slows them down. The physics work the same way a horse halter does: control the head, control the body. PetSafe includes a fitting guide and training DVD. Most owners report a noticeable reduction in pulling from the first properly fitted walk.",
+      "honestNote": "Dogs will paw at it, rub their face on the ground, and generally protest during the first few days. This is normal and does not mean it hurts — it means it feels strange. Acclimation with high-value treats is not optional; skipping it usually means the dog fights it indefinitely.",
       "category": "Training",
       "whyWePicked": "The most widely recommended headcollar by UK trainers and behaviourists — redirects pulling at the source.",
       "rating": 4.4,
       "reviewCountApprox": 42000,
       "score": 8,
-    "pros": [
-      "Redirects pulling at the nose — works where harnesses fail",
-      "Lightweight and unobtrusive compared to bulky harnesses",
-      "Includes fitting guide and training instructions"
-    ],
-    "cons": [
-      "Requires a genuine acclimation period with treats",
-      "Some dogs never fully accept something on their face"
-    ],
-    "verdict": "The most effective single tool for serious pullers — only if you commit to a week of gradual introduction with treats.",
+      "pros": [
+        "Redirects pulling at the nose — works where harnesses fail",
+        "Lightweight and unobtrusive compared to bulky harnesses",
+        "Includes fitting guide and training instructions"
+      ],
+      "cons": [
+        "Requires a genuine acclimation period with treats",
+        "Some dogs never fully accept something on their face"
+      ],
+      "verdict": "The most effective single tool for serious pullers — only if you commit to a week of gradual introduction with treats.",
       "imageSrc": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Dog on a leash outdoors",
       "faq": [
@@ -979,7 +1005,8 @@
           "q": "Puppy paws at it constantly?",
           "a": "Short indoor sessions with high-value treats before outdoor walks; most dogs adapt within one to two weeks."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61eVAqrR7uL._AC_SL1500_.jpg"
     },
     {
       "slug": "thundershirt-classic-anxiety",
@@ -1022,61 +1049,62 @@
       "slug": "catit-flower-fountain",
       "asin": "B0146QXOB0",
       "title": "Catit Flower Fountain",
-    "tagline": "Our pick for trying a cat fountain without a big upfront cost.",
-    "problem": "You suspect your cat would drink more from flowing water, but you are not sure enough to spend £40–50 on a stainless fountain that might sit unused. You want to test the idea cheaply. The Catit Flower Fountain is one of the most popular first fountains for exactly this reason — it costs roughly half of a stainless model, ships quickly, and has replacement parts available everywhere. If your cat ignores it, you have lost less. If they take to it, you know a fountain works and can decide later whether to upgrade to steel.",
-    "solution": "The flower insert lets you switch between a gentle bubble, a flowing stream, and a narrow jet — useful because some cats prefer different water movements. The compact base fits on a kitchen counter or next to a food bowl without dominating the space. A carbon and foam filter traps debris and reduces odour between cleans. The whole unit disassembles for cleaning in about a minute.",
-    "honestNote": "Plastic scratches over time, and those scratches harbour bacteria faster than smooth stainless steel. If you keep a Catit Flower long-term, expect to scrub it more often than a steel fountain to keep biofilm under control.",
+      "tagline": "Our pick for trying a cat fountain without a big upfront cost.",
+      "problem": "You suspect your cat would drink more from flowing water, but you are not sure enough to spend £40–50 on a stainless fountain that might sit unused. You want to test the idea cheaply. The Catit Flower Fountain is one of the most popular first fountains for exactly this reason — it costs roughly half of a stainless model, ships quickly, and has replacement parts available everywhere. If your cat ignores it, you have lost less. If they take to it, you know a fountain works and can decide later whether to upgrade to steel.",
+      "solution": "The flower insert lets you switch between a gentle bubble, a flowing stream, and a narrow jet — useful because some cats prefer different water movements. The compact base fits on a kitchen counter or next to a food bowl without dominating the space. A carbon and foam filter traps debris and reduces odour between cleans. The whole unit disassembles for cleaning in about a minute.",
+      "honestNote": "Plastic scratches over time, and those scratches harbour bacteria faster than smooth stainless steel. If you keep a Catit Flower long-term, expect to scrub it more often than a steel fountain to keep biofilm under control.",
       "category": "Hydration",
-    "whyWePicked": "Lowest-cost way to test whether your cat responds to moving water before committing to a stainless model.",
-    "rating": 4.4,
-    "reviewCountApprox": 110000,
-    "score": 7,
-    "pros": [
-      "Roughly half the price of stainless alternatives",
-      "Three flow styles to match fussy drinkers",
-      "Replacement filters and parts available everywhere"
-    ],
-    "cons": [
-      "Plastic scratches and harbours biofilm faster than steel",
-      "Pump and filter replacements add ongoing cost"
-    ],
-    "verdict": "The practical way to test moving water on a budget — upgrade to stainless if your cat takes to it and you want easier cleaning.",
+      "whyWePicked": "Lowest-cost way to test whether your cat responds to moving water before committing to a stainless model.",
+      "rating": 4.4,
+      "reviewCountApprox": 110000,
+      "score": 7,
+      "pros": [
+        "Roughly half the price of stainless alternatives",
+        "Three flow styles to match fussy drinkers",
+        "Replacement filters and parts available everywhere"
+      ],
+      "cons": [
+        "Plastic scratches and harbours biofilm faster than steel",
+        "Pump and filter replacements add ongoing cost"
+      ],
+      "verdict": "The practical way to test moving water on a budget — upgrade to stainless if your cat takes to it and you want easier cleaning.",
       "imageSrc": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Cat near water indoors",
-    "faq": [
-    {
-      "q": "Should I buy the Catit Flower or go straight to stainless?",
-      "a": "If you are not sure your cat will use a fountain at all, the Catit Flower is a low-risk test. If you already know your cat drinks from taps and you want the easier long-term option, go straight to stainless — the Petlibro is our pick. The Catit Flower works well but demands more scrubbing over time because plastic scratches."
-    },
-    {
-      "q": "How often does the Catit Flower Fountain need cleaning?",
-      "a": "A full strip-down and scrub once a week is the minimum. If you see any pink or slimy residue on the surfaces, clean it immediately — that is biofilm, and it builds faster on plastic than on steel. Replace the filter every two to four weeks depending on how many cats use it."
-    }
-  ]
+      "faq": [
+        {
+          "q": "Should I buy the Catit Flower or go straight to stainless?",
+          "a": "If you are not sure your cat will use a fountain at all, the Catit Flower is a low-risk test. If you already know your cat drinks from taps and you want the easier long-term option, go straight to stainless — the Petlibro is our pick. The Catit Flower works well but demands more scrubbing over time because plastic scratches."
+        },
+        {
+          "q": "How often does the Catit Flower Fountain need cleaning?",
+          "a": "A full strip-down and scrub once a week is the minimum. If you see any pink or slimy residue on the surfaces, clean it immediately — that is biofilm, and it builds faster on plastic than on steel. Replace the filter every two to four weeks depending on how many cats use it."
+        }
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61BhM8Zl27L._AC_SL1500_.jpg"
     },
     {
       "slug": "wyze-cam-v3-indoor-outdoor",
       "asin": "B08N5W4H1C",
       "title": "Wyze Cam v3",
-    "tagline": "Our pick for covering multiple rooms cheaply.",
-    "problem": "If you want a camera on the crate and another on the back door and a third in the kitchen, the cost adds up fast with premium pet cameras. The Wyze Cam v3 is cheap enough that buying three is still less than one Furbo. That makes it the practical choice when coverage across multiple rooms matters more than pet-specific features like treat tossing. Anyone who wants a single camera with full-room coverage should look at a pan-tilt model instead.",
-    "solution": "The Wyze Cam v3 delivers 1080p video with colour night vision — a feature most budget cameras lack. It is small enough to tuck on a shelf, mount to a wall, or sit on a windowsill. Motion and sound detection send alerts to your phone. The camera works indoors and in sheltered outdoor positions (it is rated IP65), so pointing one at a garden door is viable. App setup takes a few minutes per camera.",
-    "honestNote": "Many features including person detection and extended cloud clips require Wyze Cam Plus — a separate subscription. Wyze has also faced criticism over privacy policy changes. Read the current terms carefully if that matters to you.",
+      "tagline": "Our pick for covering multiple rooms cheaply.",
+      "problem": "If you want a camera on the crate and another on the back door and a third in the kitchen, the cost adds up fast with premium pet cameras. The Wyze Cam v3 is cheap enough that buying three is still less than one Furbo. That makes it the practical choice when coverage across multiple rooms matters more than pet-specific features like treat tossing. Anyone who wants a single camera with full-room coverage should look at a pan-tilt model instead.",
+      "solution": "The Wyze Cam v3 delivers 1080p video with colour night vision — a feature most budget cameras lack. It is small enough to tuck on a shelf, mount to a wall, or sit on a windowsill. Motion and sound detection send alerts to your phone. The camera works indoors and in sheltered outdoor positions (it is rated IP65), so pointing one at a garden door is viable. App setup takes a few minutes per camera.",
+      "honestNote": "Many features including person detection and extended cloud clips require Wyze Cam Plus — a separate subscription. Wyze has also faced criticism over privacy policy changes. Read the current terms carefully if that matters to you.",
       "category": "Home monitoring",
-    "whyWePicked": "Low enough per unit to put three in your home for less than one premium pet camera costs.",
-    "rating": 4.4,
-    "reviewCountApprox": 210000,
-    "score": 7,
-    "pros": [
-      "Buy three for less than one Furbo",
-      "Colour night vision — rare at this price",
-      "IP65 rated for sheltered outdoor use too"
-    ],
-    "cons": [
-      "Key features locked behind Cam Plus subscription",
-      "Wyze privacy policy has changed multiple times"
-    ],
-    "verdict": "The budget pick when you need multiple cameras — accept the subscription trade-offs and read the privacy terms.",
+      "whyWePicked": "Low enough per unit to put three in your home for less than one premium pet camera costs.",
+      "rating": 4.4,
+      "reviewCountApprox": 210000,
+      "score": 7,
+      "pros": [
+        "Buy three for less than one Furbo",
+        "Colour night vision — rare at this price",
+        "IP65 rated for sheltered outdoor use too"
+      ],
+      "cons": [
+        "Key features locked behind Cam Plus subscription",
+        "Wyze privacy policy has changed multiple times"
+      ],
+      "verdict": "The budget pick when you need multiple cameras — accept the subscription trade-offs and read the privacy terms.",
       "imageSrc": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Dog waiting indoors for owner to return",
       "faq": [
@@ -1094,61 +1122,62 @@
       "slug": "drinkwell-platinum-fountain",
       "asin": "B000L3XYZ4",
       "title": "PetSafe Drinkwell Platinum Pet Fountain",
-    "tagline": "Our pick for multi-pet homes that drain smaller fountains daily.",
-    "problem": "Two cats or a cat and a dog sharing a small fountain will empty it within a day, and a fountain that runs dry burns out its pump. If you are topping up every morning and evening, or you have come home to a dry reservoir and a buzzing motor, the fountain is too small for your household. The Drinkwell Platinum holds roughly five litres — enough for a two- or three-pet home to go two to three days between refills without risking pump damage.",
-    "solution": "The reservoir is tall, which means gravity keeps water flowing to the bowl even as the level drops. A free-falling stream from a raised spout gives both cats and dogs a visible, audible water cue — some pets that ignore a gentle bubble will drink readily from a falling stream. Flow is adjustable: turn it down for a quiet trickle at night, up for maximum movement during the day. The carbon filter handles taste and odour; a foam pre-filter catches hair and debris before it reaches the pump.",
-    "honestNote": "This fountain is physically large — measure the spot before ordering. It takes up roughly twice the floor space of the Catit Flower. Plastic construction means the same biofilm scrubbing schedule as any non-steel fountain.",
+      "tagline": "Our pick for multi-pet homes that drain smaller fountains daily.",
+      "problem": "Two cats or a cat and a dog sharing a small fountain will empty it within a day, and a fountain that runs dry burns out its pump. If you are topping up every morning and evening, or you have come home to a dry reservoir and a buzzing motor, the fountain is too small for your household. The Drinkwell Platinum holds roughly five litres — enough for a two- or three-pet home to go two to three days between refills without risking pump damage.",
+      "solution": "The reservoir is tall, which means gravity keeps water flowing to the bowl even as the level drops. A free-falling stream from a raised spout gives both cats and dogs a visible, audible water cue — some pets that ignore a gentle bubble will drink readily from a falling stream. Flow is adjustable: turn it down for a quiet trickle at night, up for maximum movement during the day. The carbon filter handles taste and odour; a foam pre-filter catches hair and debris before it reaches the pump.",
+      "honestNote": "This fountain is physically large — measure the spot before ordering. It takes up roughly twice the floor space of the Catit Flower. Plastic construction means the same biofilm scrubbing schedule as any non-steel fountain.",
       "category": "Hydration",
-    "whyWePicked": "Five-litre capacity means multi-pet homes go days between refills instead of topping up twice daily.",
-    "rating": 4.3,
-    "reviewCountApprox": 18000,
-    "score": 8,
-    "pros": [
-      "Five-litre tank suits two or three pets comfortably",
-      "Adjustable free-falling stream — quiet trickle or full flow",
-      "Replacement filters widely available in the UK"
-    ],
-    "cons": [
-      "Physically large — measure the spot before ordering",
-      "Plastic needs regular scrubbing to prevent biofilm"
-    ],
-    "verdict": "The practical choice when a smaller fountain keeps running dry — just confirm you have the floor space.",
+      "whyWePicked": "Five-litre capacity means multi-pet homes go days between refills instead of topping up twice daily.",
+      "rating": 4.3,
+      "reviewCountApprox": 18000,
+      "score": 8,
+      "pros": [
+        "Five-litre tank suits two or three pets comfortably",
+        "Adjustable free-falling stream — quiet trickle or full flow",
+        "Replacement filters widely available in the UK"
+      ],
+      "cons": [
+        "Physically large — measure the spot before ordering",
+        "Plastic needs regular scrubbing to prevent biofilm"
+      ],
+      "verdict": "The practical choice when a smaller fountain keeps running dry — just confirm you have the floor space.",
       "imageSrc": "https://images.unsplash.com/photo-1605568427561-40dd23c2acea?w=800&q=80&auto=format&fit=crop",
       "imageAlt": "Two pets near feeding area",
-    "faq": [
-    {
-      "q": "How often do I replace the Drinkwell Platinum filters?",
-      "a": "The carbon filter should be replaced every two to four weeks depending on how many pets use it and your local water hardness. The foam pre-filter can be rinsed and reused several times before replacing. If the water starts to smell or the flow slows noticeably, change both."
-    },
-    {
-      "q": "Why is my Drinkwell Platinum pump noisy?",
-      "a": "In almost every case, pump noise means either the water level is too low or hair and debris have reached the impeller. Top up the reservoir and clean the pump housing. A properly maintained Drinkwell at full water level is quiet enough for a bedroom."
-    }
-  ]
+      "faq": [
+        {
+          "q": "How often do I replace the Drinkwell Platinum filters?",
+          "a": "The carbon filter should be replaced every two to four weeks depending on how many pets use it and your local water hardness. The foam pre-filter can be rinsed and reused several times before replacing. If the water starts to smell or the flow slows noticeably, change both."
+        },
+        {
+          "q": "Why is my Drinkwell Platinum pump noisy?",
+          "a": "In almost every case, pump noise means either the water level is too low or hair and debris have reached the impeller. Top up the reservoir and clean the pump housing. A properly maintained Drinkwell at full water level is quiet enough for a bedroom."
+        }
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/718yk3RUXAL._AC_SL1500_.jpg"
     },
     {
       "slug": "halti-optifit-headcollar",
       "asin": "B01N6NTLUB",
       "title": "Company of Animals Halti Optifit Headcollar",
       "tagline": "Our pick when standard headcollars fit poorly.",
-    "problem": "You tried a Gentle Leader or similar headcollar and your dog managed to paw it off, twist it sideways, or rub it loose against your leg within minutes. The standard one-size geometry does not work for every muzzle shape — flat-faced breeds, narrow greyhound noses, and dogs that fall between sizes all struggle. The Halti Optifit has more adjustment points around the nose and cheeks, which lets you dial in a fit that stays put on dogs that defeat simpler headcollars. If your dog already walks well in a front-clip harness or a standard Gentle Leader, this is unnecessary extra hardware.",
-    "solution": "The Optifit uses an adjustable noseband and cheek straps that adapt to your dog's specific muzzle shape rather than relying on a single-size loop. A padded noseband reduces rubbing during the acclimation period. The chin strap clips to a standard lead, and a safety link attaches to the regular collar as a backup in case the headcollar slips. The result is a headcollar that stays in position on dogs that pop out of simpler designs.",
-    "honestNote": "Acclimation is still required — the Halti being better-fitting does not mean the dog will accept it immediately. Use high-value treats for the first week of walks. If your dog rejected all headcollars after a patient acclimation attempt, a front-clip harness may be the better path.",
+      "problem": "You tried a Gentle Leader or similar headcollar and your dog managed to paw it off, twist it sideways, or rub it loose against your leg within minutes. The standard one-size geometry does not work for every muzzle shape — flat-faced breeds, narrow greyhound noses, and dogs that fall between sizes all struggle. The Halti Optifit has more adjustment points around the nose and cheeks, which lets you dial in a fit that stays put on dogs that defeat simpler headcollars. If your dog already walks well in a front-clip harness or a standard Gentle Leader, this is unnecessary extra hardware.",
+      "solution": "The Optifit uses an adjustable noseband and cheek straps that adapt to your dog's specific muzzle shape rather than relying on a single-size loop. A padded noseband reduces rubbing during the acclimation period. The chin strap clips to a standard lead, and a safety link attaches to the regular collar as a backup in case the headcollar slips. The result is a headcollar that stays in position on dogs that pop out of simpler designs.",
+      "honestNote": "Acclimation is still required — the Halti being better-fitting does not mean the dog will accept it immediately. Use high-value treats for the first week of walks. If your dog rejected all headcollars after a patient acclimation attempt, a front-clip harness may be the better path.",
       "category": "Training",
       "whyWePicked": "More adjustment points than any other headcollar — the one to try when simpler designs slip or twist off.",
       "rating": 4.3,
       "reviewCountApprox": 6500,
       "score": 8,
-    "pros": [
-      "Adjustable noseband and cheek straps fit unusual muzzle shapes",
-      "Padded noseband reduces rubbing during acclimation",
-      "Safety link to collar as backup against slipping"
-    ],
-    "cons": [
-      "More straps to adjust than simpler headcollars",
-      "Dogs that reject all headcollars will reject this one too"
-    ],
-    "verdict": "The headcollar to try when the Gentle Leader slips or twists off — same acclimation patience required.",
+      "pros": [
+        "Adjustable noseband and cheek straps fit unusual muzzle shapes",
+        "Padded noseband reduces rubbing during acclimation",
+        "Safety link to collar as backup against slipping"
+      ],
+      "cons": [
+        "More straps to adjust than simpler headcollars",
+        "Dogs that reject all headcollars will reject this one too"
+      ],
+      "verdict": "The headcollar to try when the Gentle Leader slips or twists off — same acclimation patience required.",
       "imageSrc": "https://images.pexels.com/photos/374826/pexels-photo-374826.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Person walking a dog on a path",
       "faq": [
@@ -1196,7 +1225,8 @@
           "q": "Machine washable?",
           "a": "Rubber wipes clean; fabric strips you add may be washable separately."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61F+WlH4ezL._AC_SL1500_.jpg"
     },
     {
       "slug": "sherpa-original-deluxe-carrier",
@@ -1269,7 +1299,8 @@
           "q": "Flushable?",
           "a": "Do not flush pet wipes - bin them unless the exact SKU says sewer-safe in your region."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71LHksRF15L._AC_SL1500_.jpg"
     },
     {
       "slug": "petsafe-scoopfree-ultra-litter-box",
@@ -1306,7 +1337,8 @@
           "q": "Will my cat use an automatic box?",
           "a": "Introduce slowly with the motor off, then short cycles. Anxious cats may need weeks."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61GW5-LCTaL._AC_SL1500_.jpg"
     },
     {
       "slug": "ifetch-automatic-ball-launcher",
@@ -1349,25 +1381,25 @@
       "slug": "petcube-bites-2-lite",
       "asin": "B08XXKJGKH",
       "title": "Petcube Bites 2 Lite (Treat Camera)",
-    "tagline": "Our pick for remote treat tossing on a budget.",
-    "problem": "You want to toss treats remotely to reward your dog for settling or distract them from barking, but the Furbo is more than you want to spend on a camera. The Petcube Bites 2 Lite does the same core job — live video plus app-triggered treat toss — at a lower entry price. If your dog is not food-motivated or you do not plan to use the treat function, a basic camera without the hopper is simpler and cheaper.",
-    "solution": "The camera combines 1080p live video, night vision, two-way audio, and a built-in treat hopper that you trigger from the Petcube app. Load small treats or kibble into the top, tap the button on your phone, and the camera flings one across the room. Sound and motion alerts are tuned for pet activity. The pet-focused app keeps the interface clean compared to generic security camera software.",
-    "honestNote": "Treat jams happen if you use kibble that is too large or irregularly shaped for the hopper. Test your treat size before relying on it. Cloud video history requires a Petcube subscription on most plans.",
+      "tagline": "Our pick for remote treat tossing on a budget.",
+      "problem": "You want to toss treats remotely to reward your dog for settling or distract them from barking, but the Furbo is more than you want to spend on a camera. The Petcube Bites 2 Lite does the same core job — live video plus app-triggered treat toss — at a lower entry price. If your dog is not food-motivated or you do not plan to use the treat function, a basic camera without the hopper is simpler and cheaper.",
+      "solution": "The camera combines 1080p live video, night vision, two-way audio, and a built-in treat hopper that you trigger from the Petcube app. Load small treats or kibble into the top, tap the button on your phone, and the camera flings one across the room. Sound and motion alerts are tuned for pet activity. The pet-focused app keeps the interface clean compared to generic security camera software.",
+      "honestNote": "Treat jams happen if you use kibble that is too large or irregularly shaped for the hopper. Test your treat size before relying on it. Cloud video history requires a Petcube subscription on most plans.",
       "category": "Home monitoring",
-    "whyWePicked": "Same treat-toss function as the Furbo at a lower price — the main reason to choose it over a basic camera.",
-    "rating": 4.1,
-    "reviewCountApprox": 3200,
-    "score": 7,
-    "pros": [
-      "Treat toss at a lower price than the Furbo",
-      "Pet-focused app with sound and motion alerts",
-      "1080p with night vision covers dark rooms"
-    ],
-    "cons": [
-      "Treat jams with oversized or irregular kibble",
-      "Cloud history requires a paid subscription"
-    ],
-    "verdict": "The budget way to toss treats remotely — test your kibble size first and budget for the subscription.",
+      "whyWePicked": "Same treat-toss function as the Furbo at a lower price — the main reason to choose it over a basic camera.",
+      "rating": 4.1,
+      "reviewCountApprox": 3200,
+      "score": 7,
+      "pros": [
+        "Treat toss at a lower price than the Furbo",
+        "Pet-focused app with sound and motion alerts",
+        "1080p with night vision covers dark rooms"
+      ],
+      "cons": [
+        "Treat jams with oversized or irregular kibble",
+        "Cloud history requires a paid subscription"
+      ],
+      "verdict": "The budget way to toss treats remotely — test your kibble size first and budget for the subscription.",
       "imageSrc": "https://images.pexels.com/photos/374829/pexels-photo-374829.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Dog looking up indoors",
       "faq": [
@@ -1379,31 +1411,32 @@
           "q": "Cats?",
           "a": "Works if your cat is treat-motivated; place the unit where paws cannot pull it over."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/61UCem3UQbL._AC_SL1500_.jpg"
     },
     {
       "slug": "arlo-essential-indoor-camera",
       "asin": "B08NCSHY4B",
       "title": "Arlo Essential Indoor Camera",
-    "tagline": "Our pick for pet cameras in private rooms.",
-    "problem": "Putting a camera in a bedroom or changing area to watch a pet creates a privacy problem that software alone does not solve — a hacked or accidentally-shared camera with a clear view of your bed is a real risk. Most indoor cameras have a software-only privacy mode that you have to trust is actually off. The Arlo Essential has a physical privacy shutter that physically blocks the lens when closed. If you want a pet camera in a room where humans also sleep, change, or work from home, the shutter is the feature that makes it comfortable. If the camera goes in a room where privacy is not a concern, cheaper options do the same job.",
-    "solution": "The physical shutter slides closed to block the lens completely — no software trust required. When open, the camera provides 1080p video, night vision, motion detection, and two-way audio through the Arlo app. The wide-angle lens covers most rooms from a shelf or wall mount. If you later add Arlo outdoor cameras, they all live in the same app and ecosystem.",
-    "honestNote": "Extended cloud history and smart detection features require an Arlo Secure subscription. Without it, you get live view and basic alerts. The subscription adds up if you run multiple Arlo cameras.",
+      "tagline": "Our pick for pet cameras in private rooms.",
+      "problem": "Putting a camera in a bedroom or changing area to watch a pet creates a privacy problem that software alone does not solve — a hacked or accidentally-shared camera with a clear view of your bed is a real risk. Most indoor cameras have a software-only privacy mode that you have to trust is actually off. The Arlo Essential has a physical privacy shutter that physically blocks the lens when closed. If you want a pet camera in a room where humans also sleep, change, or work from home, the shutter is the feature that makes it comfortable. If the camera goes in a room where privacy is not a concern, cheaper options do the same job.",
+      "solution": "The physical shutter slides closed to block the lens completely — no software trust required. When open, the camera provides 1080p video, night vision, motion detection, and two-way audio through the Arlo app. The wide-angle lens covers most rooms from a shelf or wall mount. If you later add Arlo outdoor cameras, they all live in the same app and ecosystem.",
+      "honestNote": "Extended cloud history and smart detection features require an Arlo Secure subscription. Without it, you get live view and basic alerts. The subscription adds up if you run multiple Arlo cameras.",
       "category": "Home monitoring",
-    "whyWePicked": "Physical privacy shutter is the one feature that makes a bedroom pet camera genuinely comfortable to own.",
-    "rating": 4.2,
-    "reviewCountApprox": 14000,
-    "score": 8,
-    "pros": [
-      "Physical shutter blocks the lens — no software trust needed",
-      "Same Arlo ecosystem for indoor and outdoor cameras",
-      "Wide-angle 1080p with night vision"
-    ],
-    "cons": [
-      "Cloud history and smart alerts need Arlo Secure subscription",
-      "No pet-specific features like treat toss"
-    ],
-    "verdict": "The camera to choose when it lives in a bedroom or private room — the shutter is the whole reason to pay the premium over Blink or Wyze.",
+      "whyWePicked": "Physical privacy shutter is the one feature that makes a bedroom pet camera genuinely comfortable to own.",
+      "rating": 4.2,
+      "reviewCountApprox": 14000,
+      "score": 8,
+      "pros": [
+        "Physical shutter blocks the lens — no software trust needed",
+        "Same Arlo ecosystem for indoor and outdoor cameras",
+        "Wide-angle 1080p with night vision"
+      ],
+      "cons": [
+        "Cloud history and smart alerts need Arlo Secure subscription",
+        "No pet-specific features like treat toss"
+      ],
+      "verdict": "The camera to choose when it lives in a bedroom or private room — the shutter is the whole reason to pay the premium over Blink or Wyze.",
       "imageSrc": "https://images.pexels.com/photos/4587986/pexels-photo-4587986.jpeg?auto=compress&cs=tinysrgb&w=800",
       "imageAlt": "Small dog relaxing at home",
       "faq": [
@@ -1452,7 +1485,8 @@
           "q": "Can I microwave it?",
           "a": "Do not microwave rubber. Freeze stuffed KONGs in the freezer only."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/616UIXeYlbL._AC_SL1500_.jpg"
     },
     {
       "slug": "greenies-teenie-dental-treats",
@@ -1707,7 +1741,8 @@
           "q": "Bolts for flying?",
           "a": "Many airlines require metal hardware around the shell - buy the airline kit if required."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/713NSr4qusL._AC_SL1500_.jpg"
     },
     {
       "slug": "levoit-core-300-air-purifier",
@@ -1743,7 +1778,8 @@
           "q": "Where to place?",
           "a": "Near litter box or dog bed with clearance around intake - not flush against walls."
         }
-      ]
+      ],
+      "amazonImageUrl": "https://m.media-amazon.com/images/I/71t-9BTIg9L._AC_SL1500_.jpg"
     },
     {
       "slug": "simplehuman-pet-food-can",

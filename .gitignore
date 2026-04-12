@@ -57,6 +57,9 @@ venv/
 # script output
 /scripts/output/
 
+# one-off curl / fetch scrapes (do not commit)
+/scripts/_*.html
+
 # automation batch output
 /automation/out/
 
